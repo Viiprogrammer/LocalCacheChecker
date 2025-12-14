@@ -3,6 +3,7 @@ name: Manually Full synchronization
 on:
   push:
     branches: [ "manfullsync" ]
+  workflow_dispatch:
 jobs:
   build:
     runs-on: windows-latest
