@@ -3,6 +3,7 @@ name: Release partial only synchronization
 on:
   schedule:
     - cron: "0 12,16,18,22 * * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: windows-latest
