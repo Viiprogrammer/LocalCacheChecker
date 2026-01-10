@@ -4,24 +4,16 @@ globaloption CsEventClass enabled
 globaloption CsFileName Library.cs
 globaloption CsNameSpace LocalCacheCheckerLibrary
 globaloption CsClassName Library
-globaloption CppFileName LocalCacheChecker.h
+globaloption CppFileName localcachechecker.h
 
 # delegates
 
 globaldelegate RoutineTypesCallBack
 boolean Completed
 
-globaldelegate ChangedReleasesCallBack
-boolean Completed
-
 globaldelegate LatestReleasesProgress
 int32 Percent
 int32 ProcessesReleases
-
-globaldelegate FullReleasesProgress
-int32 Percent
-int32 ProcessesReleases
-int32 PagesProcessed
 
 globaldelegate ShareCacheCallBack
 boolean Completed
@@ -39,17 +31,15 @@ method-RoutineTypesCallBack CallBack
 globalmethod SynchronizeChangedReleases
 int32 MaximumPages
 stringansi Path
-method-ChangedReleasesCallBack CallBack
+method-LatestReleasesProgress CallBack
+method-RoutineTypesCallBack FinalCallBack
 
 globalmethod SynchronizeLatestReleases
 int32 CountReleases
 int32 CountPages
 stringansi Path
 method-LatestReleasesProgress Callback
-
-globalmethod SynchronizeFullReleases
-stringansi Path
-method-FullReleasesProgress Callback
+method-RoutineTypesCallBack FinalCallBack
 
 globalmethod ShareCache
 boolean Posters
@@ -63,3 +53,9 @@ globalmethod LoadCache
 stringansi CacheFile
 stringansi CachePath
 method-ShareCacheCallBack CallBack
+
+globalmethod SynchronizePosters
+stringansi CachePath
+boolean ForceAll
+method-LatestReleasesProgress Callback
+method-RoutineTypesCallBack FinalCallBack
