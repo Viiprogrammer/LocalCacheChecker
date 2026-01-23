@@ -75,21 +75,17 @@ jobs:
         if (Test-Path sync_tracking.json) {
           $trackingContent = Get-Content sync_tracking.json -Raw
           git checkout Release 2>$null || git checkout --orphan Release
-          Get-ChildItem -Path . -Exclude .git | Remove-Item -Recurse -Force 2>$null
+          git rm -rf --quiet .
           $trackingContent | Out-File "modified_files_tracking.json" -Encoding UTF8
+
           git add modified_files_tracking.json
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          if (git status --porcelain) {
-            git commit -m "Sync tracking: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss UTC')"
-            echo "Committed tracking data"
-          } else {
-            git commit -m "Sync tracking: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss UTC')" --allow-empty
-            echo "No changes, created empty commit"
-          }
+          git commit -m "Sync tracking: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss UTC')"
 
           git push origin Release --force
           echo "Force pushed tracking data to Release branch"
+          
           git checkout main
         } else {
           echo "No tracking data generated"
