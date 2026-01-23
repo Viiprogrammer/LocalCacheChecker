@@ -67,11 +67,11 @@ jobs:
           **/*
           !sync_tracking.json
 
-    - name: Force push tracking to Release branch
+    - name: Force push tracking to release branch
       run: |
         if (Test-Path sync_tracking.json) {
           $trackingContent = Get-Content sync_tracking.json -Raw
-          git checkout Release 2>$null || git checkout --orphan Release
+          git checkout release 2>$null || git checkout --orphan release
           git rm -rf --quiet .
           $trackingContent | Out-File "modified_files_tracking.json" -Encoding UTF8
 
@@ -80,8 +80,8 @@ jobs:
           git config user.email "github-actions@github.com"
           git commit -m "Sync tracking: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss UTC')"
 
-          git push origin Release --force
-          echo "Force pushed tracking data to Release branch"
+          git push origin release --force
+          echo "Force pushed tracking data to release branch"
           
           git checkout main
         } else {
