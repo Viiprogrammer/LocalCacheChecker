@@ -31,36 +31,33 @@ jobs:
         ./LocalCacheChecker.exe -releases
         Remove-Item -Path "LocalCacheChecker.exe"
 
-    - name: Get modified files with ISO dates
+    - name: Get all cache files with modification dates
       id: track-files
       run: |
+        $cacheFiles = @{}
+
+        $allCacheFiles = Get-ChildItem -Path "cache" -File -Recurse -ErrorAction SilentlyContinue
+        
+        foreach ($file in $allCacheFiles) {
+          $relativePath = $file.FullName.Replace([IO.Path]::GetFullPath(".") + [IO.Path]::DirectorySeparatorChar, "")
+          $date = git log -1 --format="%aI" -- "$relativePath" 2>$null
+
+          if (-not $date) {
+            $date = $file.LastWriteTimeUtc.ToString("yyyy-MM-ddTHH:mm:ssZ")
+          }
+          
+          $fileName = $file.Name
+          $cacheFiles[$fileName] = $date
+        }
+        
         $trackingData = @{
           sync_timestamp = Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ"
           generated_at = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-          modified_files = @()
+          cache_files = $cacheFiles
         }
-
-        $files = git status --porcelain
-        if ($files) {
-          foreach ($file in $files) {
-            $status, $path = $file.Trim() -split '\s+', 2
-            if ($status -ne 'D') {
-              $date = git log -1 --format="%aI" -- "$path"
-              $trackingData.modified_files += @{
-                file = $path
-                status = $status
-                last_modified_iso = $date
-                tracked_at = $trackingData.sync_timestamp
-              }
-            }
-          }
-        }
-
+        
         $trackingData | ConvertTo-Json -Depth 4 | Out-File "sync_tracking.json"
-
-        $fileCount = $trackingData.modified_files.Count
-        echo "Tracked $fileCount modified files"
-        echo "JSON saved to sync_tracking.json"
+        echo "Tracked $($cacheFiles.Count) cache files"
 
     - name: Commit changes to main branch
       uses: stefanzweifel/git-auto-commit-action@v5
