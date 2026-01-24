@@ -31,23 +31,18 @@ jobs:
         ./LocalCacheChecker.exe -releases
         Remove-Item -Path "LocalCacheChecker.exe"
 
-    - name: Get all cache files with modification dates
+    - name: Get all cache files with file hashes
       id: track-files
       run: |
         $cacheFiles = @{}
-
+    
         $allCacheFiles = Get-ChildItem -Path "cache" -File -Recurse -ErrorAction SilentlyContinue
         
         foreach ($file in $allCacheFiles) {
-          $relativePath = $file.FullName.Replace([IO.Path]::GetFullPath(".") + [IO.Path]::DirectorySeparatorChar, "")
-          $date = git log -1 --format="%aI" -- "$relativePath" 2>$null
-
-          if (-not $date) {
-            $date = $file.LastWriteTimeUtc.ToString("yyyy-MM-ddTHH:mm:ssZ")
-          }
+          $hash = Get-FileHash -Path $file.FullName -Algorithm SHA256 | Select-Object -ExpandProperty Hash
           
           $fileName = $file.Name
-          $cacheFiles[$fileName] = $date
+          $cacheFiles[$fileName] = $hash
         }
         
         $trackingData = @{
@@ -57,7 +52,7 @@ jobs:
         }
         
         $trackingData | ConvertTo-Json -Depth 4 | Out-File "sync_tracking.json"
-        echo "Tracked $($cacheFiles.Count) cache files"
+        echo "Tracked $($cacheFiles.Count) cache files with hashes"
 
     - name: Commit changes to main branch
       uses: stefanzweifel/git-auto-commit-action@v5
