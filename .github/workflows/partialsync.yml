@@ -34,18 +34,20 @@ jobs:
     - name: Get all cache files with file hashes
       id: track-files
       run: |
-        $cacheFiles = @{}
-    
-        $allCacheFiles = Get-ChildItem -Path "cache" -File -Recurse -ErrorAction SilentlyContinue
+        $cacheFiles = [ordered]@{}
         
-        foreach ($file in $allCacheFiles) {
+        $allCacheFiles = Get-ChildItem -Path "cache" -File -Recurse -ErrorAction SilentlyContinue
+
+        $sortedFiles = $allCacheFiles | Sort-Object Name
+        
+        foreach ($file in $sortedFiles) {
           $hash = Get-FileHash -Path $file.FullName -Algorithm SHA256 | Select-Object -ExpandProperty Hash
-          
-          $fileName = $file.Name
-          $cacheFiles[$fileName] = $hash
+
+          $relativePath = $file.FullName.Replace("$PWD\", "").Replace("\", "/")
+          $cacheFiles[$relativePath] = $hash
         }
         
-        $trackingData = @{
+        $trackingData = [ordered]@{
           sync_timestamp = Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ"
           generated_at = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
           cache_files = $cacheFiles
