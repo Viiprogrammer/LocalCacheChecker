@@ -17,7 +17,7 @@
         
         public int TotalReleases { get; set; }
 
-        public int? TotalEpisodes { get; set; }
+        public int TotalEpisodes { get; set; }
 
         public string TotalDuration { get; set; } = "";
 
