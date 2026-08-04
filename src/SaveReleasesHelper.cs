@@ -86,7 +86,7 @@ namespace LocalCacheChecker {
                 Console.WriteLine ( "Total pages: " + totalPages );
 
                 var updatedReleases = page.Data
-                    .Where ( a => DateTimeOffset.Parse ( a.FreshAt ).ToUnixTimeSeconds () > metadata.LastReleaseTimeStamp )
+                    .Where ( a => true || DateTimeOffset.Parse ( a.FreshAt ).ToUnixTimeSeconds () > metadata.LastReleaseTimeStamp )
                     .ToList ();
                 if ( !updatedReleases.Any () ) {
                     Console.WriteLine ( $"No changes in releases on page {i}!" );
@@ -152,7 +152,7 @@ namespace LocalCacheChecker {
                 Console.WriteLine ( "Total pages: " + totalPages );
 
                 var updatedReleases = page.Data
-                    .Where ( a => DateTimeOffset.Parse ( a.FreshAt ).ToUnixTimeSeconds () > metadata.LastReleaseTimeStamp )
+                    .Where ( a => true || DateTimeOffset.Parse ( a.FreshAt ).ToUnixTimeSeconds () > metadata.LastReleaseTimeStamp )
                     .ToList ();
                 if ( !updatedReleases.Any () ) {
                     Console.WriteLine ( $"No changes in releases on page {i}!" );
@@ -290,7 +290,7 @@ namespace LocalCacheChecker {
                     Console.WriteLine ( "Total pages: " + totalPages );
 
                     var updatedReleases = page.Data
-                        .Where ( a => DateTimeOffset.Parse ( a.FreshAt ).ToUnixTimeSeconds () > metadata.LastReleaseTimeStamp )
+                        .Where ( a => true || DateTimeOffset.Parse ( a.FreshAt ).ToUnixTimeSeconds () > metadata.LastReleaseTimeStamp )
                         .ToList ();
                     if ( !updatedReleases.Any () ) {
                         Console.WriteLine ( $"No changes in releases on page {i}!" );
