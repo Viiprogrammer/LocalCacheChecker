@@ -294,6 +294,7 @@ async function main() {
     console.table(table)
 }
 
+console.log("Start")
 main()
 
 /**
