@@ -47,7 +47,7 @@ export async function fetchCatalog (page) {
     url.searchParams.set('page', page)
     url.searchParams.set('limit', '50')
     url.searchParams.set('f[sorting]', 'FRESH_AT_DESC')
-
+console.log(url)
     return await fetch(url, {
         dispatcher: agent,
         method: 'POST',

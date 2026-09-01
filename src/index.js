@@ -294,7 +294,7 @@ async function main() {
     console.table(table)
 }
 
-console.log("Start")
+
 main()
 
 /**
@@ -306,7 +306,6 @@ async function fetchFullCatalog() {
     const allReleases = new Set()
 
     const firstPage = await fetchCatalog(1)
-
     const totalPages = firstPage.meta.pagination.total_pages
 
     console.log(`Total releases: ${firstPage.meta.pagination.total}`)
