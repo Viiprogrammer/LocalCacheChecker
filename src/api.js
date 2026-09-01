@@ -1,17 +1,21 @@
-import http from "node:http";
+import { Agent, RetryAgent } from 'undici'
 
 const ua = 'LocalCacheCheckerNd/1.0.0 (github.com/AnimeHaze/LocalCacheCheckerNd)'
 const endpoint = 'https://anilibria.top'
 
-const agent = new http.Agent({
-    keepAlive: 10000
+const agent = new RetryAgent(new Agent(), {
+  maxRetries: 5,
+  minTimeout: 3000,
+  timeoutFactor: 2,
 })
+
+
 
 export async function fetchFranchises () {
     const url = new URL('/api/v1/anime/franchises', endpoint)
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
@@ -25,7 +29,7 @@ export async function fetchFranchise(id) {
     const url = new URL('/api/v1/anime/franchises/' + id, endpoint)
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
@@ -45,7 +49,7 @@ export async function fetchCatalog (page) {
     url.searchParams.set('f[sorting]', 'FRESH_AT_DESC')
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'POST',
         keepalive: true,
         headers: {
@@ -65,7 +69,7 @@ export async function fetchReleases (ids, page) {
     url.searchParams.set('limit', '50')
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
@@ -79,7 +83,7 @@ export async function fetchSchedule () {
     const url = new URL('/api/v1/anime/schedule/week', endpoint)
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
@@ -93,7 +97,7 @@ export async function fetchAgeRatings () {
     const url = new URL('/api/v1/anime/catalog/references/age-ratings', endpoint)
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
@@ -107,7 +111,7 @@ export async function fetchGenres () {
     const url = new URL('/api/v1/anime/catalog/references/genres', endpoint)
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
@@ -121,7 +125,7 @@ export async function fetchSeasons () {
     const url = new URL('/api/v1/anime/catalog/references/seasons', endpoint)
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
@@ -135,7 +139,7 @@ export async function fetchTypes () {
     const url = new URL('/api/v1/anime/catalog/references/types', endpoint)
 
     return await fetch(url, {
-        signal: AbortSignal.timeout(5000),
+        dispatcher: agent,
         method: 'GET',
         keepalive: true,
         headers: {
