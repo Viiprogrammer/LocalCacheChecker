@@ -153,5 +153,5 @@
 {"releaseId":10357,"items":[]},
 {"releaseId":10359,"items":[]},
 {"releaseId":10360,"items":[]},
-{"releaseId":10361,"items":[{"id":"a2a4f264-ab38-462f-95f6-b7301a4b1717","name":"Сумерки","nameEnglish":"","updatedAt":"2026-09-01T20:07:30+00:00","ordinal":1,"sortOrder":1,"duration":0,"rutubeId":null,"youtubeId":null,"opening":{"stop":90,"start":0},"ending":{"stop":3143,"start":2743},"preview":{"src":null}}]}
+{"releaseId":10361,"items":[{"id":"a2a4f264-ab38-462f-95f6-b7301a4b1717","name":"Сумерки","nameEnglish":"","updatedAt":"2026-09-01T20:17:48+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10361/1/480/c579df5df9038eddeed655196d1d2643.m3u8","duration":3142,"rutubeId":null,"youtubeId":null,"opening":{"stop":90,"start":0},"ending":{"stop":3143,"start":2743},"preview":{"src":"/storage/releases/episodes/previews/10361/1/INHDH1S4MKn2H5Gg.jpg"}}]}
 ]
