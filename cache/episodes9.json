@@ -89,7 +89,7 @@
 {"releaseId":10310,"items":[]},
 {"releaseId":10311,"items":[]},
 {"releaseId":10312,"items":[]},
-{"releaseId":10313,"items":[{"id":"a2e6cde4-a1cb-43d7-a10d-94178a2cdae4","name":"Начнём обучение!","nameEnglish":"","updatedAt":"2026-10-04T13:50:04+00:00","ordinal":1,"sortOrder":1,"duration":0,"rutubeId":null,"youtubeId":null,"opening":{"stop":1386,"start":1296},"ending":{"stop":null,"start":null},"preview":{"src":null}}]},
+{"releaseId":10313,"items":[{"id":"a2e6cde4-a1cb-43d7-a10d-94178a2cdae4","name":"Начнём обучение!","nameEnglish":"","updatedAt":"2026-10-04T13:56:08+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10313/1/480/fdc36b759271c3211d5a181681653459.m3u8","duration":1392,"rutubeId":null,"youtubeId":null,"opening":{"stop":1386,"start":1296},"ending":{"stop":null,"start":null},"preview":{"src":"/storage/releases/episodes/previews/10313/1/nkdWdOXNXf0hjiHb.jpg"}}]},
 {"releaseId":10314,"items":[]},
 {"releaseId":10316,"items":[]},
 {"releaseId":10317,"items":[]},
