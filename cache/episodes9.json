@@ -97,7 +97,7 @@
 {"releaseId":10319,"items":[]},
 {"releaseId":10320,"items":[]},
 {"releaseId":10321,"items":[]},
-{"releaseId":10322,"items":[]},
+{"releaseId":10322,"items":[{"id":"a2e72963-e3a7-405d-ae80-287220d60a50","name":"Выгнали","nameEnglish":"","updatedAt":"2026-10-04T18:05:55+00:00","ordinal":1,"sortOrder":1,"duration":0,"rutubeId":null,"youtubeId":null,"opening":{"stop":262,"start":178},"ending":{"stop":1371,"start":1281},"preview":{"src":null}}]},
 {"releaseId":10323,"items":[]},
 {"releaseId":10325,"items":[]},
 {"releaseId":10326,"items":[]},
