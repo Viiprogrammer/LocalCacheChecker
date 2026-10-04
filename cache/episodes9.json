@@ -89,7 +89,7 @@
 {"releaseId":10310,"items":[]},
 {"releaseId":10311,"items":[]},
 {"releaseId":10312,"items":[]},
-{"releaseId":10313,"items":[]},
+{"releaseId":10313,"items":[{"id":"a2e6cde4-a1cb-43d7-a10d-94178a2cdae4","name":"Начнём обучение!","nameEnglish":"","updatedAt":"2026-10-04T13:50:04+00:00","ordinal":1,"sortOrder":1,"duration":0,"rutubeId":null,"youtubeId":null,"opening":{"stop":1386,"start":1296},"ending":{"stop":null,"start":null},"preview":{"src":null}}]},
 {"releaseId":10314,"items":[]},
 {"releaseId":10316,"items":[]},
 {"releaseId":10317,"items":[]},
