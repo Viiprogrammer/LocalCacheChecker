@@ -132,5 +132,5 @@
 {"releaseId":10357,"items":[]},
 {"releaseId":10359,"items":[]},
 {"releaseId":10360,"items":[]},
-{"releaseId":10362,"items":[{"id":"a2e5c798-6a36-4d97-a24e-3c246de6a25d","name":"","nameEnglish":"","updatedAt":"2026-10-04T02:04:36+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10362/1/480/d40431545042da9f62d8bc5209d0a9e3.m3u8","duration":6667,"rutubeId":null,"youtubeId":null,"opening":{"stop":null,"start":null},"ending":{"stop":6509,"start":6414},"preview":{"src":"/storage/releases/episodes/previews/10362/1/VMsi30gNnO1h72Zg.jpg"}}]}
+{"releaseId":10362,"items":[{"id":"a2e5c798-6a36-4d97-a24e-3c246de6a25d","name":"","nameEnglish":"","updatedAt":"2026-10-04T02:25:37+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10362/1/480/d40431545042da9f62d8bc5209d0a9e3.m3u8","hls_720":"https://cache.libria.fun/videos/media/ts/10362/1/720/26606ae44c111df3e141fa0de4a5feb7.m3u8","duration":6667,"rutubeId":null,"youtubeId":null,"opening":{"stop":null,"start":null},"ending":{"stop":6509,"start":6414},"preview":{"src":"/storage/releases/episodes/previews/10362/1/VMsi30gNnO1h72Zg.jpg"}}]}
 ]
