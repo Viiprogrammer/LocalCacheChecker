@@ -118,7 +118,7 @@
 {"releaseId":10342,"items":[]},
 {"releaseId":10343,"items":[]},
 {"releaseId":10344,"items":[]},
-{"releaseId":10345,"items":[]},
+{"releaseId":10345,"items":[{"id":"a2e8cac3-fefd-42aa-8447-ae8c8717eee9","name":"Уроки фортепиано, часть 1","nameEnglish":"","updatedAt":"2026-10-05T13:37:43+00:00","ordinal":1,"sortOrder":1,"duration":1416,"rutubeId":null,"youtubeId":null,"opening":{"stop":715,"start":625},"ending":{"stop":1410,"start":1320},"preview":{"src":"/storage/releases/episodes/previews/10345/1/cPXZW61ZDye3dKAR.jpg"}}]},
 {"releaseId":10346,"items":[]},
 {"releaseId":10347,"items":[]},
 {"releaseId":10348,"items":[]},
