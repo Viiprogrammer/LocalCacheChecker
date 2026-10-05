@@ -118,7 +118,7 @@
 {"releaseId":10342,"items":[]},
 {"releaseId":10343,"items":[]},
 {"releaseId":10344,"items":[]},
-{"releaseId":10345,"items":[{"id":"a2e8cac3-fefd-42aa-8447-ae8c8717eee9","name":"Уроки фортепиано, часть 1","nameEnglish":"","updatedAt":"2026-10-05T13:37:43+00:00","ordinal":1,"sortOrder":1,"duration":1416,"rutubeId":null,"youtubeId":null,"opening":{"stop":715,"start":625},"ending":{"stop":1410,"start":1320},"preview":{"src":"/storage/releases/episodes/previews/10345/1/cPXZW61ZDye3dKAR.jpg"}}]},
+{"releaseId":10345,"items":[{"id":"a2e8cac3-fefd-42aa-8447-ae8c8717eee9","name":"Уроки фортепиано, часть 1","nameEnglish":"","updatedAt":"2026-10-05T13:49:40+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10345/1/480/5005613a54fa9b2f21aa1fcf32863f00.m3u8","hls_720":"https://cache.libria.fun/videos/media/ts/10345/1/720/33d506d1ec71187135e0a16cbe65e468.m3u8","duration":1416,"rutubeId":null,"youtubeId":null,"opening":{"stop":715,"start":625},"ending":{"stop":1410,"start":1320},"preview":{"src":"/storage/releases/episodes/previews/10345/1/cPXZW61ZDye3dKAR.jpg"}}]},
 {"releaseId":10346,"items":[]},
 {"releaseId":10347,"items":[]},
 {"releaseId":10348,"items":[]},
