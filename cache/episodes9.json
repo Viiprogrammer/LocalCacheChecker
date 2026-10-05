@@ -92,7 +92,7 @@
 {"releaseId":10309,"items":[]},
 {"releaseId":10310,"items":[]},
 {"releaseId":10311,"items":[]},
-{"releaseId":10312,"items":[]},
+{"releaseId":10312,"items":[{"id":"a2e99618-37e4-45e2-8955-50cdc7efeac5","name":"Стартовая черта","nameEnglish":"","updatedAt":"2026-10-05T23:09:17+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10312/1/480/c7798615e703825aabc2e2d98f06105d.m3u8","hls_720":"https://cache.libria.fun/videos/media/ts/10312/1/720/5192602e89cda07bed7f9d1322829c2b.m3u8","duration":1476,"rutubeId":null,"youtubeId":null,"opening":{"stop":174,"start":86},"ending":{"stop":1429,"start":1405},"preview":{"src":"/storage/releases/episodes/previews/10312/1/OnCv70o6dJPpZ8sm.jpg"}}]},
 {"releaseId":10314,"items":[]},
 {"releaseId":10316,"items":[]},
 {"releaseId":10317,"items":[]},
