@@ -109,7 +109,7 @@
 {"releaseId":10332,"items":[]},
 {"releaseId":10333,"items":[]},
 {"releaseId":10334,"items":[]},
-{"releaseId":10335,"items":[]},
+{"releaseId":10335,"items":[{"id":"a2eaa868-41e2-486d-81f0-c2f124f82803","name":"Эпизод 1: Дом","nameEnglish":"","updatedAt":"2026-10-06T11:48:34+00:00","ordinal":1,"sortOrder":1,"duration":0,"rutubeId":null,"youtubeId":null,"opening":{"stop":301,"start":211},"ending":{"stop":3020,"start":2931},"preview":{"src":null}}]},
 {"releaseId":10336,"items":[]},
 {"releaseId":10337,"items":[]},
 {"releaseId":10338,"items":[]},
