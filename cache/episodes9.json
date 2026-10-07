@@ -101,7 +101,7 @@
 {"releaseId":10318,"items":[]},
 {"releaseId":10319,"items":[]},
 {"releaseId":10320,"items":[]},
-{"releaseId":10321,"items":[{"id":"a2ec425f-df76-4b6d-b638-1bc9d3824667","name":"Лучшая еда для тренировок","nameEnglish":"","updatedAt":"2026-10-07T06:54:55+00:00","ordinal":1,"sortOrder":1,"duration":0,"rutubeId":null,"youtubeId":null,"opening":{"stop":102,"start":12},"ending":{"stop":1435,"start":1292},"preview":{"src":null}}]},
+{"releaseId":10321,"items":[{"id":"a2ec425f-df76-4b6d-b638-1bc9d3824667","name":"Лучшая еда для тренировок","nameEnglish":"","updatedAt":"2026-10-07T07:37:32+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10321/1/480/3f5b26bc93dd9f9aad773301e040d75d.m3u8","hls_720":"https://cache.libria.fun/videos/media/ts/10321/1/720/837e1dd1e997892b7d1c831bf7e2713d.m3u8","duration":1436,"rutubeId":null,"youtubeId":null,"opening":{"stop":102,"start":12},"ending":{"stop":1435,"start":1292},"preview":{"src":"/storage/releases/episodes/previews/10321/1/q4sZqCo4brzK7C7g.jpg"}}]},
 {"releaseId":10323,"items":[]},
 {"releaseId":10326,"items":[]},
 {"releaseId":10328,"items":[]},
