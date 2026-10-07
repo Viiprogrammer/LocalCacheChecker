@@ -101,7 +101,7 @@
 {"releaseId":10320,"items":[]},
 {"releaseId":10321,"items":[]},
 {"releaseId":10323,"items":[]},
-{"releaseId":10325,"items":[]},
+{"releaseId":10325,"items":[{"id":"a2ebd371-18eb-4ad7-b96b-b1be81c5b1dd","name":"Городская легенда","nameEnglish":"","updatedAt":"2026-10-07T01:48:37+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10325/1/480/33ce4fc4e40d1c6d27e3c1a1c84f8b48.m3u8","duration":1420,"rutubeId":null,"youtubeId":null,"opening":{"stop":116,"start":29},"ending":{"stop":1355,"start":1325},"preview":{"src":"/storage/releases/episodes/previews/10325/1/gmivtO6PjR2FjWiC.jpg"}}]},
 {"releaseId":10326,"items":[]},
 {"releaseId":10328,"items":[]},
 {"releaseId":10329,"items":[]},
