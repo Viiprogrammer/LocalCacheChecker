@@ -90,7 +90,7 @@
 {"releaseId":10301,"items":[]},
 {"releaseId":10304,"items":[]},
 {"releaseId":10307,"items":[]},
-{"releaseId":10308,"items":[]},
+{"releaseId":10308,"items":[{"id":"a2ebd9c9-afba-4f13-92c4-fe931656e945","name":"","nameEnglish":"","updatedAt":"2026-10-07T02:10:34+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10308/1/480/0efa27f239faad792af7bc936410a195.m3u8","hls_720":"https://cache.libria.fun/videos/media/ts/10308/1/720/3669ce79eb0d5bc559019689676f48e8.m3u8","duration":1421,"rutubeId":null,"youtubeId":null,"opening":{"stop":155,"start":65},"ending":{"stop":1415,"start":1326},"preview":{"src":"/storage/releases/episodes/previews/10308/1/2Xgh1eMlOF6fjwxn.jpg"}}]},
 {"releaseId":10309,"items":[]},
 {"releaseId":10310,"items":[]},
 {"releaseId":10311,"items":[]},
