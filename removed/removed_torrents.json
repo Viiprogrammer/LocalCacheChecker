@@ -1168,5 +1168,31 @@
     },
     "size": 467365245,
     "seeders": 23
+  },
+  {
+    "releaseId": 10328,
+    "time": 1791441986,
+    "hash": "d72ff046398dcdc0ce00ef0baf87af3e5bdda44c",
+    "id": 40294,
+    "magnet": "magnet:?xt=urn:btih:d72ff046398dcdc0ce00ef0baf87af3e5bdda44c&dn=Dark+Summoner+to+Dekiteiru+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=755039973&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dark Summoner to Dekiteiru - AniLiberty.TOP [WEB-DL 1080p][AVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 755039973,
+    "seeders": 55
   }
 ]
