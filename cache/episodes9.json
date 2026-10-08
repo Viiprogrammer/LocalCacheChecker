@@ -103,7 +103,7 @@
 {"releaseId":10320,"items":[]},
 {"releaseId":10323,"items":[]},
 {"releaseId":10326,"items":[]},
-{"releaseId":10328,"items":[]},
+{"releaseId":10328,"items":[{"id":"a2ee4132-ed40-4a7e-a984-2005b711baa5","name":"ТЁМНЫЙ ПРИЗЫВАТЕЛЬ И УПРЯМЫЙ ЖРЕЦ","nameEnglish":"","updatedAt":"2026-10-08T06:48:49+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10328/1/480/392760b40934ff52a6d86bda419d3d22.m3u8","hls_720":"https://cache.libria.fun/videos/media/ts/10328/1/720/2d5cb6c789200fc48a33224fb6e16285.m3u8","duration":722,"rutubeId":null,"youtubeId":null,"opening":{"stop":61,"start":1},"ending":{"stop":722,"start":660},"preview":{"src":"/storage/releases/episodes/previews/10328/1/vGhmsaLZMb3aueYi.jpg"}}]},
 {"releaseId":10329,"items":[]},
 {"releaseId":10330,"items":[]},
 {"releaseId":10331,"items":[]},
