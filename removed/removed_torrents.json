@@ -1,0 +1,54 @@
+[
+  {
+    "releaseId": 10239,
+    "time": 1790747052,
+    "hash": "ff24e0811344deed2b4032e98f8cbcfdc4c7b442",
+    "id": 40178,
+    "magnet": "magnet:?xt=urn:btih:ff24e0811344deed2b4032e98f8cbcfdc4c7b442&dn=Hell+Mode+Yarikomizuki+no+Gamer+wa+Hai+Sette+2+-+AniLiberty+%5BWEBRip+1080p%5D&xl=19702902316&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hell Mode- Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19702902316,
+    "seeders": 24
+  },
+  {
+    "releaseId": 10239,
+    "time": 1790748110,
+    "hash": "2cd007bd1f3175e3f209874e27f033f1bab53148",
+    "id": 40179,
+    "magnet": "magnet:?xt=urn:btih:2cd007bd1f3175e3f209874e27f033f1bab53148&dn=Hell+Mode+Yarikomizuki+no+Gamer+wa+Hai+Sette+2+-+AniLiberty+%5BWEBRip+1080p+HEVC%5D&xl=3874436467&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hell Mode- Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3874436467,
+    "seeders": 47
+  }
+]

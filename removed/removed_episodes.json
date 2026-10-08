@@ -1,0 +1,331 @@
+[
+  {
+    "releaseId": 10239,
+    "items": [
+      {
+        "id": "a22e79a7-382c-4773-ac26-5ad83bdc74c9",
+        "name": "В Город-Академию!",
+        "nameEnglish": "",
+        "updatedAt": "2026-07-04T23:46:41+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/1/480/60f9c08ad56e3aa7145483c908e15bff.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/1/720/469172442dd0969b7f336b951338d2f6.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/1/1080/59857a0b911a823376b76b19d81043c2.m3u8",
+        "duration": 1512,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 113,
+          "start": 23
+        },
+        "ending": {
+          "stop": 1511,
+          "start": 1421
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/1/8piGb0e1WHmK6Uf2.jpg"
+        }
+      },
+      {
+        "id": "a2415037-6f6e-4fe3-a9cf-1e9e6fc1a23f",
+        "name": "Новый друг",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-27T17:29:34+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/2/480/dc3ae9056bb4ad93554205f1e553c842.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/2/720/9a2ea2e5abeb2da3a6e31fc517bfc661.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/2/1080/1093c39cc914c5b9197406bed5763dea.m3u8",
+        "duration": 1423,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 184,
+          "start": 94
+        },
+        "ending": {
+          "stop": 1481,
+          "start": 1377
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/2/XwXwR4b3vjXCpMJe.jpg"
+        }
+      },
+      {
+        "id": "a24b807e-1f06-4f22-ac8e-6a854d8b69e6",
+        "name": "Покорение подземелья",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-22T09:07:52+00:00",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/3/480/52fa65ff04a6cae4a81ea668aca8b8b6.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/3/720/767dded7fb187e7f86accb53763a99ca.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/3/1080/d8000982b313e546ce45e75aa35f5d11.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 138,
+          "start": 48
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/3/UQzIocCwPm1uNmqJ.jpg"
+        }
+      },
+      {
+        "id": "a25abebf-7e64-4f18-baab-221544084bb1",
+        "name": "Приказ принца",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-22T09:25:34+00:00",
+        "ordinal": 4,
+        "sortOrder": 4,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/4/480/83e304c2a799d8265933ed6a6899a634.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/4/720/d298ad1fd4bece008a2907bf8f2515b1.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/4/1080/46bf4f5f1e4fddd5412c27508550ffcd.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 131,
+          "start": 41
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/4/v9q9EEo3aGwKfFMN.jpg"
+        }
+      },
+      {
+        "id": "a26bd95a-93bc-465b-910f-4144c574c3af",
+        "name": "Пророчество повелителя духов",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-27T17:48:41+00:00",
+        "ordinal": 5,
+        "sortOrder": 5,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/5/480/16e598d1961f5acbf3373baa7b89d8e9.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/5/720/3e8b7166c783358be595be004c0b55cc.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/5/1080/473d98f83f2bb929fd1d907fa9e9b7e2.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 188,
+          "start": 98
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/5/lL7ZiyJ7akfswQR1.jpg"
+        }
+      },
+      {
+        "id": "a275b11c-8f71-4af2-afec-888f84f5196c",
+        "name": "Битва на турнире академии",
+        "nameEnglish": "",
+        "updatedAt": "2026-08-09T08:40:05+00:00",
+        "ordinal": 6,
+        "sortOrder": 6,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/6/480/0d0f4554b7680b2164286e40c2d97db7.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/6/720/f9fc40e909835845d4e554d26b9230ac.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/6/1080/f90c68557a41f4251acdcfcb51060372.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 174,
+          "start": 85
+        },
+        "ending": {
+          "stop": 1419,
+          "start": 1329
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/6/Hyt1e2EmjhLzWlIE.jpg"
+        }
+      },
+      {
+        "id": "a282a4bc-51f3-4325-b072-cb2b4869bf3c",
+        "name": "Розенхейм",
+        "nameEnglish": "",
+        "updatedAt": "2026-08-15T19:08:37+00:00",
+        "ordinal": 7,
+        "sortOrder": 7,
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/7/720/85c17c095fd3791ebf46280ac74cc864.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/7/1080/10d10e1e8a30b1309a091c2b1a7c5586.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 180,
+          "start": 92
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1329
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/7/toj8Dl6f6IlR7c8q.jpg"
+        }
+      },
+      {
+        "id": "a2963365-2946-4064-92ab-4cbce8279542",
+        "name": "Битва за Тиамо",
+        "nameEnglish": "",
+        "updatedAt": "2026-08-25T12:38:14+00:00",
+        "ordinal": 8,
+        "sortOrder": 8,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/8/480/78d4c21e01219774a1ae3eb768e21be0.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/8/720/937803a2da67c89323c2f9f5af484a75.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/8/1080/f064ccf78233028123105e134828e4eb.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 173,
+          "start": 83
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/8/xdqSEl6GWooXHD8p.jpg"
+        }
+      },
+      {
+        "id": "a2a1fa2c-c02f-4941-b105-afda2c78ee52",
+        "name": "Демоны Лапольки",
+        "nameEnglish": "",
+        "updatedAt": "2026-08-31T09:13:32+00:00",
+        "ordinal": 9,
+        "sortOrder": 9,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/9/480/e7da709969265519fa2bbdccd1c8fdd5.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/9/720/56959c6bdb2e54b7181f30260182b05b.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/9/1080/713de0e620abd64060a88fae3b36c69b.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 193,
+          "start": 103
+        },
+        "ending": {
+          "stop": 1419,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/9/jZcR8cAW4GBBMZFM.jpg"
+        }
+      },
+      {
+        "id": "a2b2999f-986f-42ee-8bd0-1b767382a285",
+        "name": "Множество молитв",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-08T16:10:51+00:00",
+        "ordinal": 10,
+        "sortOrder": 10,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/10/480/af1ea87b07414a77f91bf269dc22ef92.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/10/720/5dd7650404258ab333e703d1a9d3446a.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/10/1080/f39405bb1ca0f1ca1cb98f5d10174396.m3u8",
+        "duration": 1423,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 125,
+          "start": 37
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/10/PSAkKPeM8ET0vAxn.jpg"
+        }
+      },
+      {
+        "id": "a2be247f-922f-4798-9b51-26b598f08328",
+        "name": "Освобождённый",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-15T20:31:42+00:00",
+        "ordinal": 11,
+        "sortOrder": 11,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/11/480/3ea120b5c29ea5c3e31b189141e9f80f.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/11/720/39a67ca6cbdf07eefa17087d79abc6d3.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/11/1080/7cfc75fd90156d1fb083b171c46fc5e5.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 214,
+          "start": 124
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/11/0d99JClzVxtcqO4O.jpg"
+        }
+      },
+      {
+        "id": "a2ce1694-b86f-4e4f-b499-b8b69c90b14c",
+        "name": "Дополнительный навык",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-22T07:21:28+00:00",
+        "ordinal": 12,
+        "sortOrder": 12,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/12/480/b391c730dd4c4511f47b3e170cd95842.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/12/720/a180094fce133cf5fbe6758884d53ff8.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/12/1080/f67a7e5c2e0511b3d90f0c54532db95a.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 212,
+          "start": 122
+        },
+        "ending": {
+          "stop": 1418,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/12/BJUpFOgqNfUKiVfY.jpg"
+        }
+      },
+      {
+        "id": "a2dd3573-0c66-410c-b46a-40734c00cd47",
+        "name": "Призыватель нового дня",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-29T22:09:53+00:00",
+        "ordinal": 13,
+        "sortOrder": 13,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10239/13/480/abefba18886d49f35325b62d5a03b8a6.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10239/13/720/4fdd6de5c55b244135d439a7785b7ab4.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10239/13/1080/85b653fe3043dad1adb4e15caff6073a.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 233,
+          "start": 143
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10239/13/o0alkEEBuyEWVpb7.jpg"
+        }
+      }
+    ]
+  }
+]

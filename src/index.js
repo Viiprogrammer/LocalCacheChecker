@@ -28,10 +28,11 @@ import { AniListClient } from "./anilist/client.js"
 const queue = new PQueue({ concurrency: 5 });
 
 const cacheDir = 'cache'
+const removedDir = 'removed'
 
 function gitifyJSONArray(arr, key) {
     if (!arr || !Array.isArray(arr) || arr.length === 0) {
-        return '[\n]';
+        return '[\n]\n'
     }
 
     const sortedArr = [...arr].sort((a, b) => {
@@ -46,18 +47,116 @@ function gitifyJSONArray(arr, key) {
             return aValue.localeCompare(bValue);
         }
 
-        if (aValue < bValue) return -1;
-        if (aValue > bValue) return 1;
-        return 0;
-    });
+        if (aValue < bValue) return -1
+        if (aValue > bValue) return 1
 
-    return '[\n' + sortedArr.map(x => JSON.stringify(x)).join(',\n') + '\n]' + '\n';
+        return 0
+    })
+
+    return '[\n' +
+        sortedArr.map(x => JSON.stringify(x)).join(',\n') +
+        '\n]\n'
+}
+
+async function loadRemovedFile(filename) {
+    const file = path.join(cacheDir, filename)
+
+    try {
+        const data = JSON.parse(await fsp.readFile(file, 'utf-8'))
+
+        if (!Array.isArray(data)) {
+            throw new Error('Expected JSON array')
+        }
+
+        console.log(`Loaded ${data.length} items from ${filename}`)
+
+        return data
+    } catch (error) {
+        if (error.code === 'ENOENT') {
+            return []
+        }
+
+        throw new Error(`Failed to load ${filename}: ${error.message}`)
+    }
+}
+
+function mergeRemovedReleases(removed, live) {
+    const liveIds = new Set(live.map(x => x.id))
+
+    return [
+        ...removed.filter(x => !liveIds.has(x.id)),
+        ...live
+    ]
+}
+
+function mergeRemovedEpisodes(removed, live) {
+    const liveByReleaseId = new Map(
+        live.map(x => [x.releaseId, x])
+    )
+
+    const removedByReleaseId = new Map(
+        removed.map(x => [x.releaseId, x])
+    )
+
+    const releaseIds = new Set([
+        ...removedByReleaseId.keys(),
+        ...liveByReleaseId.keys()
+    ])
+
+    const result = []
+
+    for (const releaseId of releaseIds) {
+        const liveRelease = liveByReleaseId.get(releaseId)
+        const removedRelease = removedByReleaseId.get(releaseId)
+
+        if (!liveRelease) {
+            result.push(removedRelease)
+            continue
+        }
+
+        if (!removedRelease) {
+            result.push(liveRelease)
+            continue
+        }
+
+        const liveEpisodes = liveRelease.items ?? []
+        const removedEpisodes = removedRelease.items ?? []
+
+        const liveEpisodeIds = new Set(
+            liveEpisodes.map(x => x.id)
+        )
+
+        const mergedEpisodes = [
+            ...removedEpisodes.filter(x => !liveEpisodeIds.has(x.id)),
+            ...liveEpisodes
+        ]
+
+        result.push({
+            ...liveRelease,
+            items: mergedEpisodes
+        })
+    }
+
+    return result
+}
+
+function mergeRemovedTorrents(removed, live) {
+    const liveIds = new Set(live.map(x => x.id))
+
+    return [
+        ...removed.filter(x => !liveIds.has(x.id)),
+        ...live
+    ]
 }
 
 async function main() {
     console.time('releases')
     const episodes = []
     const torrents = []
+    
+    const removedReleases = await loadRemovedFile(path.join(removedDir, 'removed_releases.json'))
+    const removedEpisodes = await loadRemovedFile(path.join(removedDir, 'removed_episodes.json'))
+    const removedTorrents = await loadRemovedFile(path.join(removedDir, 'removed_torrents.json'))
 
     const releases = await fetchFullCatalog()
     const transformedReleases = []
@@ -125,18 +224,22 @@ async function main() {
         }, null, 2))
     }
 
-    const releasesChunksResult = chunkArray(transformedReleases, 300)
+    const mergedReleases = mergeRemovedReleases(removedReleases,transformedReleases)
+    const mergedEpisodes = mergeRemovedEpisodes(removedEpisodes, episodes)
+    const mergedTorrents = mergeRemovedTorrents(removedTorrents, torrents)
+    const releasesChunksResult = chunkArray(mergedReleases, 300)
+
     for (let i = 0; i < releasesChunksResult.length; i++) {
         await fsp.writeFile(path.join(cacheDir, 'releases' + i + '.json'), gitifyJSONArray(releasesChunksResult[i], 'id'))
     }
 
-    const episodesChunksResult = chunkArray(episodes.sort((a, b) => a.releaseId - a.releaseId), 200)
+    const episodesChunksResult = chunkArray(mergedEpisodes.sort((a, b) => a.releaseId - b.releaseId), 200)
+
     for (let i = 0; i < episodesChunksResult.length; i++) {
         await fsp.writeFile(path.join(cacheDir, 'episodes' + i + '.json'), gitifyJSONArray(episodesChunksResult[i], 'releaseId'))
     }
 
-    await fsp.writeFile(path.join(cacheDir, 'torrents.json'), gitifyJSONArray(torrents, 'releaseId'))
-
+    await fsp.writeFile(path.join(cacheDir, 'torrents.json'), gitifyJSONArray(mergedTorrents, 'releaseId'))
     await fsp.writeFile(path.join(cacheDir, 'ignored.json'), '[]')
 
     await fsp.writeFile(path.join(cacheDir, 'metadata'), JSON.stringify({
