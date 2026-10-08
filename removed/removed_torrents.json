@@ -856,5 +856,57 @@
     },
     "size": 3711703919,
     "seeders": 40
+  },
+  {
+    "releaseId": 10251,
+    "time": 1790257225,
+    "hash": "44b50fa09d5ecdc0627ace1174f33f438fc46a4f",
+    "id": 40120,
+    "magnet": "magnet:?xt=urn:btih:44b50fa09d5ecdc0627ace1174f33f438fc46a4f&dn=Futsutsuka+na+Akujo+dewa+Gozaimasu+ga+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=15934576898&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Torikae Den - AniLiberty.TOP [WEB-DL 1080p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 15934576898,
+    "seeders": 29
+  },
+  {
+    "releaseId": 10251,
+    "time": 1790269318,
+    "hash": "45503cc21c1d1c02de5a69c69d4e68ad1da7ba89",
+    "id": 40121,
+    "magnet": "magnet:?xt=urn:btih:45503cc21c1d1c02de5a69c69d4e68ad1da7ba89&dn=Futsutsuka+na+Akujo+dewa+Gozaimasu+ga+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=2173865241&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Futsutsuka na Akujo dewa Gozaimasu ga- Suuguu Chouso Torikae Den - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 2173865241,
+    "seeders": 40
   }
 ]
