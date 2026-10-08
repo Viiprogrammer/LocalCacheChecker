@@ -30,37 +30,37 @@ const queue = new PQueue({ concurrency: 5 });
 const cacheDir = 'cache'
 const removedDir = 'removed'
 
-function gitifyJSONArray(arr, key) {
+function gitifyJSONArray(arr, key, preserveOrder = false) {
     if (!arr || !Array.isArray(arr) || arr.length === 0) {
         return '[\n]\n'
     }
 
-    const sortedArr = [...arr].sort((a, b) => {
-        const aValue = a[key];
-        const bValue = b[key];
+    const sortedArr = preserveOrder
+        ? arr
+        : [...arr].sort((a, b) => {
+            const aValue = a[key]
+            const bValue = b[key]
 
-        if (typeof aValue === 'number' && typeof bValue === 'number') {
-            return aValue - bValue;
-        }
+            if (typeof aValue === 'number' && typeof bValue === 'number') {
+                return aValue - bValue;
+            }
 
-        if (typeof aValue === 'string' && typeof bValue === 'string') {
-            return aValue.localeCompare(bValue);
-        }
+            if (typeof aValue === 'string' && typeof bValue === 'string') {
+                return aValue.localeCompare(bValue);
+            }
 
-        if (aValue < bValue) return -1
-        if (aValue > bValue) return 1
+            if (aValue < bValue) return -1
+            if (aValue > bValue) return 1
 
-        return 0
-    })
+            return 0
+        })
 
     return '[\n' +
         sortedArr.map(x => JSON.stringify(x)).join(',\n') +
         '\n]\n'
 }
 
-async function loadRemovedFile(filename) {
-    const file = path.join(cacheDir, filename)
-
+async function loadRemovedFile(file) {
     try {
         const data = JSON.parse(await fsp.readFile(file, 'utf-8'))
 
@@ -68,7 +68,7 @@ async function loadRemovedFile(filename) {
             throw new Error('Expected JSON array')
         }
 
-        console.log(`Loaded ${data.length} items from ${filename}`)
+        console.log(`Loaded ${data.length} items from ${file}`)
 
         return data
     } catch (error) {
@@ -76,7 +76,7 @@ async function loadRemovedFile(filename) {
             return []
         }
 
-        throw new Error(`Failed to load ${filename}: ${error.message}`)
+        throw new Error(`Failed to load ${file}: ${error.message}`)
     }
 }
 
@@ -90,54 +90,55 @@ function mergeRemovedReleases(removed, live) {
 }
 
 function mergeRemovedEpisodes(removed, live) {
-    const liveByReleaseId = new Map(
-        live.map(x => [x.releaseId, x])
-    )
+    const removedByReleaseId = new Map()
+    const liveByReleaseId = new Map()
 
-    const removedByReleaseId = new Map(
-        removed.map(x => [x.releaseId, x])
-    )
+    for (const episode of removed) {
+        const group = removedByReleaseId.get(episode.releaseId) ?? []
+        group.push(episode)
+        removedByReleaseId.set(episode.releaseId, group)
+    }
+
+    for (const episode of live) {
+        const group = liveByReleaseId.get(episode.releaseId) ?? []
+        group.push(episode)
+        liveByReleaseId.set(episode.releaseId, group)
+    }
 
     const releaseIds = new Set([
         ...removedByReleaseId.keys(),
         ...liveByReleaseId.keys()
     ])
 
-    const result = []
+    const removedResult = []
+    const liveResult = []
 
     for (const releaseId of releaseIds) {
-        const liveRelease = liveByReleaseId.get(releaseId)
-        const removedRelease = removedByReleaseId.get(releaseId)
+        const removedEpisodes = removedByReleaseId.get(releaseId) ?? []
+        const liveEpisodes = liveByReleaseId.get(releaseId) ?? []
 
-        if (!liveRelease) {
-            result.push(removedRelease)
+        if (removedEpisodes.length === 0) {
+            liveResult.push(...liveEpisodes)
             continue
         }
 
-        if (!removedRelease) {
-            result.push(liveRelease)
+        if (liveEpisodes.length === 0) {
+            removedResult.push(...removedEpisodes)
             continue
         }
 
-        const liveEpisodes = liveRelease.items ?? []
-        const removedEpisodes = removedRelease.items ?? []
+        const liveIds = new Set(liveEpisodes.map(x => x.id))
 
-        const liveEpisodeIds = new Set(
-            liveEpisodes.map(x => x.id)
-        )
-
-        const mergedEpisodes = [
-            ...removedEpisodes.filter(x => !liveEpisodeIds.has(x.id)),
+        removedResult.push(
+            ...removedEpisodes.filter(x => !liveIds.has(x.id)),
             ...liveEpisodes
-        ]
-
-        result.push({
-            ...liveRelease,
-            items: mergedEpisodes
-        })
+        )
     }
 
-    return result
+    return [
+        ...removedResult,
+        ...liveResult
+    ]
 }
 
 function mergeRemovedTorrents(removed, live) {
@@ -153,7 +154,7 @@ async function main() {
     console.time('releases')
     const episodes = []
     const torrents = []
-    
+
     const removedReleases = await loadRemovedFile(path.join(removedDir, 'removed_releases.json'))
     const removedEpisodes = await loadRemovedFile(path.join(removedDir, 'removed_episodes.json'))
     const removedTorrents = await loadRemovedFile(path.join(removedDir, 'removed_torrents.json'))
@@ -161,15 +162,15 @@ async function main() {
     const releases = await fetchFullCatalog()
     const transformedReleases = []
 
-    const releasesChunks = chunkArray([...releases.values()].sort((a, b) => a.id - b.id), 50)
+    const releasesChunks = chunkArray([...releases.values()].sort((a, b) => a - b), 50)
     let totalFetched = 0
 
     const missing = new Set()
 
     for (let i = 0; i < releasesChunks.length; i++) {
         const ids = releasesChunks[i]
-        await queue.add(async () => {
 
+        await queue.add(async () => {
             const missingLocal = new Set()
 
             const chunkData = await fetchReleases(ids)
@@ -184,14 +185,12 @@ async function main() {
 
             const successCount = totalFetched
             const missingCount = missingLocal.size
-            const totalProcessed = successCount + missingCount
             const ratio = successCount / releases.size
 
             console.log(`Progress: (${successCount} fetched - ${missingCount} missing) / ${releases.size} = ${ratio.toFixed(4)} (${(ratio * 100).toFixed(2)}%)`)
 
             for (const r of chunkData.data) {
-                const { release, releaseEpisodes, releaseTorrents} = transformRelease(r)
-
+                const { release, releaseEpisodes, releaseTorrents } = transformRelease(r)
 
                 episodes.push(releaseEpisodes)
                 torrents.push(...releaseTorrents)
@@ -199,18 +198,20 @@ async function main() {
             }
 
             if (missingFromThisChunk.length > 0) {
-                console.log(`Some releases missing in list responses`, missingFromThisChunk.join(','))
+                console.log('Some releases missing in list responses', missingFromThisChunk.join(','))
             }
 
             missingLocal.forEach(id => missing.add(id))
         })
     }
 
+    await queue.onIdle()
+
     const totalReleases = transformedReleases.length
     const successRate = (totalFetched / totalReleases * 100).toFixed(2)
     const lossRate = (missing.size / totalReleases * 100).toFixed(2)
 
-    console.log(`\n--------------------------\n`)
+    console.log('\n--------------------------\n')
     console.log(`Total releases in catalog: ${totalReleases}`)
     console.log(`Successfully fetched: ${totalFetched} (${successRate}%)`)
     console.log(`Missing (errors/problems): ${missing.size} (${lossRate}%)`)
@@ -224,19 +225,25 @@ async function main() {
         }, null, 2))
     }
 
-    const mergedReleases = mergeRemovedReleases(removedReleases,transformedReleases)
-    const mergedEpisodes = mergeRemovedEpisodes(removedEpisodes, episodes)
+    const mergedReleases = mergeRemovedReleases(removedReleases, transformedReleases)
+    const mergedEpisodes = mergeRemovedEpisodes(removedEpisodes, episodes.flat())
     const mergedTorrents = mergeRemovedTorrents(removedTorrents, torrents)
     const releasesChunksResult = chunkArray(mergedReleases, 300)
 
     for (let i = 0; i < releasesChunksResult.length; i++) {
-        await fsp.writeFile(path.join(cacheDir, 'releases' + i + '.json'), gitifyJSONArray(releasesChunksResult[i], 'id'))
+        await fsp.writeFile(
+            path.join(cacheDir, 'releases' + i + '.json'),
+            gitifyJSONArray(releasesChunksResult[i], 'id', true)
+        )
     }
 
-    const episodesChunksResult = chunkArray(mergedEpisodes.sort((a, b) => a.releaseId - b.releaseId), 200)
+    const episodesChunksResult = chunkArray(mergedEpisodes, 200)
 
     for (let i = 0; i < episodesChunksResult.length; i++) {
-        await fsp.writeFile(path.join(cacheDir, 'episodes' + i + '.json'), gitifyJSONArray(episodesChunksResult[i], 'releaseId'))
+        await fsp.writeFile(
+            path.join(cacheDir, 'episodes' + i + '.json'),
+            gitifyJSONArray(episodesChunksResult[i], 'releaseId', true)
+        )
     }
 
     await fsp.writeFile(path.join(cacheDir, 'torrents.json'), gitifyJSONArray(mergedTorrents, 'releaseId'))
@@ -397,7 +404,6 @@ async function main() {
     console.table(table)
 }
 
-
 main()
 
 /**
@@ -430,4 +436,3 @@ async function fetchFullCatalog() {
 
     return allReleases
 }
-
