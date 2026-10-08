@@ -1116,5 +1116,57 @@
     },
     "size": 541608565,
     "seeders": 35
+  },
+  {
+    "releaseId": 10353,
+    "time": 1791292457,
+    "hash": "4d5c723e864b0c89e426f283a292e3535e9d674f",
+    "id": 40262,
+    "magnet": "magnet:?xt=urn:btih:4d5c723e864b0c89e426f283a292e3535e9d674f&dn=Tensei+Kizoku+-+Kantei+Skill+de+Nariagaru+S3+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=3035655200&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season - AniLiberty.TOP [WEB-DL 1080p][AVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 3035655200,
+    "seeders": 15
+  },
+  {
+    "releaseId": 10353,
+    "time": 1791299955,
+    "hash": "3d686dbc956d6d31534b428c40f28999b6531640",
+    "id": 40263,
+    "magnet": "magnet:?xt=urn:btih:3d686dbc956d6d31534b428c40f28999b6531640&dn=Tensei+Kizoku+-+Kantei+Skill+de+Nariagaru+S3+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=467365245&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 467365245,
+    "seeders": 23
   }
 ]

@@ -8835,5 +8835,60 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10353,
+    "items": [
+      {
+        "id": "a2dcedad-67fa-41be-a829-ee9c046561cc",
+        "name": "Наместница",
+        "nameEnglish": "",
+        "updatedAt": "2026-09-29T17:09:47+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10353/1/480/cff1c1ebeb3ed8948f598f47d26b77ef.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10353/1/720/35a61476c7d63b5b991dbd0d976b26e1.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10353/1/1080/2cdba8b529372924605d6897354dffc6.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": 1405,
+          "start": 1315
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10353/1/GXIMB8AlJ5Wxd7b9.jpg"
+        }
+      },
+      {
+        "id": "a2e94ad8-953d-4d31-9e0d-c220e6e1b7c2",
+        "name": "Канарре в опасности",
+        "nameEnglish": "",
+        "updatedAt": "2026-10-06T13:28:47+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10353/2/480/a82d1eefd28a25c173ff4c56ae1b9688.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10353/2/720/07c172572f7eb113762f691e457cfacf.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10353/2/1080/a69267e4325f6aec5dcaa088f81e1139.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 295,
+          "start": 205
+        },
+        "ending": {
+          "stop": 1405,
+          "start": 1315
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10353/2/IJcLoJIDFug99reg.jpg"
+        }
+      }
+    ]
   }
 ]
