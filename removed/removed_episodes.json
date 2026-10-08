@@ -8775,5 +8775,35 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10299,
+    "items": [
+      {
+        "id": "a2e53726-d6e6-4683-bffe-c54b02101684",
+        "name": "Начало битвы",
+        "nameEnglish": "",
+        "updatedAt": "2026-10-04T04:34:46+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10299/1/480/1c961f727e0d612af9e1414e09db0e05.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10299/1/720/46b8986dd22dafb9c36e82dc05a8257e.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10299/1/1080/421cf847c0f3577e24223a84029f2824.m3u8",
+        "duration": 1430,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 344,
+          "start": 254
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10299/1/SXhXAgICPx3M6tyU.jpg"
+        }
+      }
+    ]
   }
 ]

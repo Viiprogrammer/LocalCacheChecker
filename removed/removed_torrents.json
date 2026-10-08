@@ -1012,5 +1012,57 @@
     },
     "size": 2171966085,
     "seeders": 26
+  },
+  {
+    "releaseId": 10299,
+    "time": 1791086378,
+    "hash": "dff617aedf591dd77b693cd880a7100dca053cda",
+    "id": 40215,
+    "magnet": "magnet:?xt=urn:btih:dff617aedf591dd77b693cd880a7100dca053cda&dn=Black+Clover+S2+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=1529206382&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover 2nd Season - AniLiberty.TOP [WEB-DL 1080p][AVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 1529206382,
+    "seeders": 28
+  },
+  {
+    "releaseId": 10299,
+    "time": 1791092869,
+    "hash": "a418383856abd7edca550dbcf615bdb443a78a1e",
+    "id": 40216,
+    "magnet": "magnet:?xt=urn:btih:a418383856abd7edca550dbcf615bdb443a78a1e&dn=Black+Clover+S2+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=464950991&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover 2nd Season - AniLiberty.TOP [WEB-DL 1080p][HEVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 464950991,
+    "seeders": 29
   }
 ]
