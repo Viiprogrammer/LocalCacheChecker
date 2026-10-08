@@ -752,5 +752,57 @@
     },
     "size": 4578646593,
     "seeders": 26
+  },
+  {
+    "releaseId": 10211,
+    "time": 1780151653,
+    "hash": "3f216c6f9c0aff1c7351feed55e59285424b9ece",
+    "id": 38486,
+    "magnet": "magnet:?xt=urn:btih:3f216c6f9c0aff1c7351feed55e59285424b9ece&dn=Dorohedoro+2+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=17550080720&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dorohedoro Season 2 - AniLiberty.TOP [WEB-DL 1080p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 17550080720,
+    "seeders": 18
+  },
+  {
+    "releaseId": 10211,
+    "time": 1780152410,
+    "hash": "833eea6513cc0db42c944e6b37e95a63c8a67f59",
+    "id": 38487,
+    "magnet": "magnet:?xt=urn:btih:833eea6513cc0db42c944e6b37e95a63c8a67f59&dn=Dorohedoro+2+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=3827882171&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dorohedoro Season 2 - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 3827882171,
+    "seeders": 26
   }
 ]
