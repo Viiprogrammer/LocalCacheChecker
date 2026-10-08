@@ -804,5 +804,57 @@
     },
     "size": 3827882171,
     "seeders": 26
+  },
+  {
+    "releaseId": 10232,
+    "time": 1791392472,
+    "hash": "51d242a3fdd53f6b954e40b232000132d5799fa0",
+    "id": 40282,
+    "magnet": "magnet:?xt=urn:btih:51d242a3fdd53f6b954e40b232000132d5799fa0&dn=Clevatess+2+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=19735786760&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Clevatess II- Majuu no Ou to Itsuwari no Yuusha Denshou - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19735786760,
+    "seeders": 20
+  },
+  {
+    "releaseId": 10232,
+    "time": 1791444136,
+    "hash": "eeb0470d5fc3db6ffda91be7fce6103749965471",
+    "id": 40296,
+    "magnet": "magnet:?xt=urn:btih:eeb0470d5fc3db6ffda91be7fce6103749965471&dn=Clevatess+2+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=3711703919&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Clevatess II- Majuu no Ou to Itsuwari no Yuusha Denshou - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3711703919,
+    "seeders": 40
   }
 ]
