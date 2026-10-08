@@ -1194,5 +1194,57 @@
     },
     "size": 755039973,
     "seeders": 55
+  },
+  {
+    "releaseId": 9020,
+    "time": 1694796049,
+    "hash": "a7a5e3c4a0588a0317e734010235fddfb3a39e9c",
+    "id": 25300,
+    "magnet": "magnet:?xt=urn:btih:a7a5e3c4a0588a0317e734010235fddfb3a39e9c&dn=Tantei+wa+Mou%2C+Shindeiru+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=15007864481&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tantei wa Mou, Shindeiru - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 15007864481,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9020,
+    "time": 1694796057,
+    "hash": "a0650ba8644b2b9d26dde3d2be785050cbc12504",
+    "id": 25301,
+    "magnet": "magnet:?xt=urn:btih:a0650ba8644b2b9d26dde3d2be785050cbc12504&dn=Tantei+wa+Mou%2C+Shindeiru+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2718982037&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tantei wa Mou, Shindeiru - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2718982037,
+    "seeders": 27
   }
 ]
