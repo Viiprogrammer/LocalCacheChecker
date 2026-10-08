@@ -908,5 +908,57 @@
     },
     "size": 2173865241,
     "seeders": 40
+  },
+  {
+    "releaseId": 10265,
+    "time": 1788532761,
+    "hash": "dc98cebbd80b7dc592e21cb5205786d79a3a07ee",
+    "id": 39838,
+    "magnet": "magnet:?xt=urn:btih:dc98cebbd80b7dc592e21cb5205786d79a3a07ee&dn=Tefuda+ga+Oome+no+Victoria+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=13405053011&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tefuda ga Oome no Victoria - AniLiberty.TOP [WEB-DL 1080p][AVC][1-9].torrent",
+    "description": "1-9",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 13405053011,
+    "seeders": 20
+  },
+  {
+    "releaseId": 10265,
+    "time": 1788535652,
+    "hash": "5523474b6588f65314eac6a6ec73264ec068fba8",
+    "id": 39839,
+    "magnet": "magnet:?xt=urn:btih:5523474b6588f65314eac6a6ec73264ec068fba8&dn=Tefuda+ga+Oome+no+Victoria+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=1809189837&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tefuda ga Oome no Victoria - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-9].torrent",
+    "description": "1-9",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 1809189837,
+    "seeders": 39
   }
 ]
