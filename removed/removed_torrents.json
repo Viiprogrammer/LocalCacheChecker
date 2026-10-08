@@ -544,5 +544,57 @@
     },
     "size": 2798255522,
     "seeders": 40
+  },
+  {
+    "releaseId": 9978,
+    "time": 1766968154,
+    "hash": "f847f79cc2bd29a16110839c5532b992298172ec",
+    "id": 36478,
+    "magnet": "magnet:?xt=urn:btih:f847f79cc2bd29a16110839c5532b992298172ec&dn=Tougen+Anki+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=34216793343&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tougen Anki - AniLiberty.TOP [WEB-DL 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 34216793343,
+    "seeders": 16
+  },
+  {
+    "releaseId": 9978,
+    "time": 1767011789,
+    "hash": "71295a1beebea05a502efbc06e5fdb227db44317",
+    "id": 36481,
+    "magnet": "magnet:?xt=urn:btih:71295a1beebea05a502efbc06e5fdb227db44317&dn=Tougen+Anki+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=7228176471&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tougen Anki - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 7228176471,
+    "seeders": 23
   }
 ]
