@@ -960,5 +960,57 @@
     },
     "size": 1809189837,
     "seeders": 39
+  },
+  {
+    "releaseId": 10270,
+    "time": 1790210407,
+    "hash": "80891ff2ab681887ff0f2089661b2483a9c2a499",
+    "id": 40118,
+    "magnet": "magnet:?xt=urn:btih:80891ff2ab681887ff0f2089661b2483a9c2a499&dn=Sayonara+Lara+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=18014584188&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sayonara Lara - AniLiberty.TOP [WEB-DL 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 18014584188,
+    "seeders": 16
+  },
+  {
+    "releaseId": 10270,
+    "time": 1790330839,
+    "hash": "d09fe402aa4840a5fd9effb1a42f4a2c8dc850b8",
+    "id": 40128,
+    "magnet": "magnet:?xt=urn:btih:d09fe402aa4840a5fd9effb1a42f4a2c8dc850b8&dn=Sayonara+Lara+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=2171966085&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sayonara Lara - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 2171966085,
+    "seeders": 26
   }
 ]
