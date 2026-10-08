@@ -102,5 +102,57 @@
     },
     "size": 74678872,
     "seeders": 25
+  },
+  {
+    "releaseId": 9339,
+    "time": 1679692782,
+    "hash": "61ad38be694a423f065f6e2851b2975f3654a0a3",
+    "id": 23060,
+    "magnet": "magnet:?xt=urn:btih:61ad38be694a423f065f6e2851b2975f3654a0a3&dn=Hyouken+no+Majutsushi+ga+Sekai+wo+Suberu+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=18145387666&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hyouken no Majutsushi ga Sekai wo Suberu - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18145387666,
+    "seeders": 16
+  },
+  {
+    "releaseId": 9339,
+    "time": 1679694178,
+    "hash": "4d8b5c979a12424fee38b814b4e6a04a3c8c1424",
+    "id": 23061,
+    "magnet": "magnet:?xt=urn:btih:4d8b5c979a12424fee38b814b4e6a04a3c8c1424&dn=Hyouken+no+Majutsushi+ga+Sekai+wo+Suberu+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3143792821&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hyouken no Majutsushi ga Sekai wo Suberu - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3143792821,
+    "seeders": 24
   }
 ]
