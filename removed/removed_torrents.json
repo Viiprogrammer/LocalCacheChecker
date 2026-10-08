@@ -596,5 +596,57 @@
     },
     "size": 7228176471,
     "seeders": 23
+  },
+  {
+    "releaseId": 9992,
+    "time": 1758295889,
+    "hash": "5d65ac5656c14d71c830860f99f39aac6e8192c9",
+    "id": 35230,
+    "magnet": "magnet:?xt=urn:btih:5d65ac5656c14d71c830860f99f39aac6e8192c9&dn=Clevatess+-+AniLiberty+%5BWEBRip+1080p%5D&xl=19357315135&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Clevatess- Majuu no Ou to Akago to Shikabane no Yuusha - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19357315135,
+    "seeders": 29
+  },
+  {
+    "releaseId": 9992,
+    "time": 1758297033,
+    "hash": "d82bb9671654c6f514edbcf986cfe6999448bf8e",
+    "id": 35231,
+    "magnet": "magnet:?xt=urn:btih:d82bb9671654c6f514edbcf986cfe6999448bf8e&dn=Clevatess+-+AniLiberty+%5BWEBRip+1080p+HEVC%5D&xl=4112179060&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Clevatess- Majuu no Ou to Akago to Shikabane no Yuusha - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4112179060,
+    "seeders": 62
   }
 ]
