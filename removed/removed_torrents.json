@@ -154,5 +154,239 @@
     },
     "size": 3143792821,
     "seeders": 24
+  },
+  {
+    "releaseId": 5255,
+    "time": 1576140120,
+    "hash": "b623e0336bb1e107224c5ec9203845aa44d5aa11",
+    "id": 9082,
+    "magnet": "magnet:?xt=urn:btih:b623e0336bb1e107224c5ec9203845aa44d5aa11&dn=Black+Clover+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=33702446755&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [HDTVRip 720p][AVC][1-72].torrent",
+    "description": "1-72",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 33702446755,
+    "seeders": 44
+  },
+  {
+    "releaseId": 5255,
+    "time": 1576140480,
+    "hash": "97b531ff5840938940a998d9cf59d3899d8651e7",
+    "id": 9083,
+    "magnet": "magnet:?xt=urn:btih:97b531ff5840938940a998d9cf59d3899d8651e7&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p-LQ_HEVC%5D&xl=9728320518&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][HEVC][73-108].torrent",
+    "description": "73-108",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 9728320518,
+    "seeders": 28
+  },
+  {
+    "releaseId": 5255,
+    "time": 1582664520,
+    "hash": "5cff73d3be1a572a815245af08f080338dff39e6",
+    "id": 9856,
+    "magnet": "magnet:?xt=urn:btih:5cff73d3be1a572a815245af08f080338dff39e6&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=63152233402&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][AVC][73-122].torrent",
+    "description": "73-122",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 63152233402,
+    "seeders": 13
+  },
+  {
+    "releaseId": 5255,
+    "time": 1588107600,
+    "hash": "9d40731dd30cb732bcc984b20a8bc4b05ebe8a7e",
+    "id": 10484,
+    "magnet": "magnet:?xt=urn:btih:9d40731dd30cb732bcc984b20a8bc4b05ebe8a7e&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=14903193148&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][AVC][123-132].torrent",
+    "description": "123-132",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 14903193148,
+    "seeders": 13
+  },
+  {
+    "releaseId": 5255,
+    "time": 1588111500,
+    "hash": "fe464bcfd7d2e2c3d51e4210328dc4e37dedec75",
+    "id": 10485,
+    "magnet": "magnet:?xt=urn:btih:fe464bcfd7d2e2c3d51e4210328dc4e37dedec75&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=6421717470&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][HEVC][109-132].torrent",
+    "description": "109-132",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 6421717470,
+    "seeders": 28
+  },
+  {
+    "releaseId": 5255,
+    "time": 1613537040,
+    "hash": "1bcad82a4c724c44953378f8972436d864d09824",
+    "id": 13936,
+    "magnet": "magnet:?xt=urn:btih:1bcad82a4c724c44953378f8972436d864d09824&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=47720734215&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][AVC][133-164].torrent",
+    "description": "133-164",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 47720734215,
+    "seeders": 15
+  },
+  {
+    "releaseId": 5255,
+    "time": 1613700900,
+    "hash": "b92efbc2748ca125a6db382d7363b79d94bbadce",
+    "id": 13968,
+    "magnet": "magnet:?xt=urn:btih:b92efbc2748ca125a6db382d7363b79d94bbadce&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=8233960754&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][HEVC][133-164].torrent",
+    "description": "133-164",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 8233960754,
+    "seeders": 26
+  },
+  {
+    "releaseId": 5255,
+    "time": 1617171600,
+    "hash": "77100ec0f5c89936274d09dc9c69a4d2d3c169a0",
+    "id": 14588,
+    "magnet": "magnet:?xt=urn:btih:77100ec0f5c89936274d09dc9c69a4d2d3c169a0&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=9073962564&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][AVC][165-170].torrent",
+    "description": "165-170",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 9073962564,
+    "seeders": 12
+  },
+  {
+    "releaseId": 5255,
+    "time": 1617290900,
+    "hash": "af99f8779b4933630f70d705386c47320b3b27a2",
+    "id": 14604,
+    "magnet": "magnet:?xt=urn:btih:af99f8779b4933630f70d705386c47320b3b27a2&dn=Black+Clover+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=1599203556&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover - AniLiberty.TOP [WEBRip 1080p][HEVC][165-170].torrent",
+    "description": "165-170",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1599203556,
+    "seeders": 28
   }
 ]
