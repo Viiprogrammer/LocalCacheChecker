@@ -440,5 +440,57 @@
     },
     "size": 1841553482,
     "seeders": 18
+  },
+  {
+    "releaseId": 9669,
+    "time": 1719325815,
+    "hash": "01bfecff9def8fbea03121aaf0e314865005d758",
+    "id": 29308,
+    "magnet": "magnet:?xt=urn:btih:01bfecff9def8fbea03121aaf0e314865005d758&dn=Tensei+Kizoku+-+Kantei+Skill+de+Nariagaru+-+AniLibria+%5BWEBRip+1080p%5D&xl=17825947932&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tensei Kizoku, Kantei Skill de Nariagaru - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17825947932,
+    "seeders": 19
+  },
+  {
+    "releaseId": 9669,
+    "time": 1719329518,
+    "hash": "ed24556e72ba69204cb7eb9383fbea8cc6fbd9d9",
+    "id": 29310,
+    "magnet": "magnet:?xt=urn:btih:ed24556e72ba69204cb7eb9383fbea8cc6fbd9d9&dn=Tensei+Kizoku+-+Kantei+Skill+de+Nariagaru+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2891456129&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tensei Kizoku, Kantei Skill de Nariagaru - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2891456129,
+    "seeders": 39
   }
 ]
