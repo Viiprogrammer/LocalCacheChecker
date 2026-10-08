@@ -388,5 +388,57 @@
     },
     "size": 1599203556,
     "seeders": 28
+  },
+  {
+    "releaseId": 9518,
+    "time": 1687627177,
+    "hash": "ff1564ea79a3d66f825f16ba1a9e691eeb3e2509",
+    "id": 24256,
+    "magnet": "magnet:?xt=urn:btih:ff1564ea79a3d66f825f16ba1a9e691eeb3e2509&dn=Black+Clover+-+Mahou+Tei+no+Ken+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=4423797732&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover- Mahou Mikado no Ken - AniLiberty.TOP [WEBRip 1080p][AVC][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4423797732,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9518,
+    "time": 1716156236,
+    "hash": "794d8ece014fccb11fa974cba56be26639c7a230",
+    "id": 28854,
+    "magnet": "magnet:?xt=urn:btih:794d8ece014fccb11fa974cba56be26639c7a230&dn=Black+Clover+-+Mahou+Tei+no+Ken+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=1841553482&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Black Clover- Mahou Mikado no Ken - AniLiberty.TOP [WEBRip 1080p][HEVC][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1841553482,
+    "seeders": 18
   }
 ]
