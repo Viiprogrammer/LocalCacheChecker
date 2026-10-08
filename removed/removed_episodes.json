@@ -8805,5 +8805,35 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10313,
+    "items": [
+      {
+        "id": "a2e6cde4-a1cb-43d7-a10d-94178a2cdae4",
+        "name": "Начнём обучение!",
+        "nameEnglish": "",
+        "updatedAt": "2026-10-04T14:15:15+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10313/1/480/fdc36b759271c3211d5a181681653459.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10313/1/720/ff0250fb3fc1e24b2faa7f9d413c8686.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10313/1/1080/9a4f05b44a2cb1e2d1880d40e018a482.m3u8",
+        "duration": 1392,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 1386,
+          "start": 1296
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10313/1/nkdWdOXNXf0hjiHb.jpg"
+        }
+      }
+    ]
   }
 ]

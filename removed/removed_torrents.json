@@ -1064,5 +1064,57 @@
     },
     "size": 464950991,
     "seeders": 29
+  },
+  {
+    "releaseId": 10313,
+    "time": 1791123838,
+    "hash": "fb1ce77d9eaaf2e7a1742a40ac945cc093009d6a",
+    "id": 40220,
+    "magnet": "magnet:?xt=urn:btih:fb1ce77d9eaaf2e7a1742a40ac945cc093009d6a&dn=Tougen+Anki+Nikko+Kegon+no+Taki-hen+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=1789969219&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tougen Anki- Nikko Kegon no Taki-hen - AniLiberty.TOP [WEB-DL 1080p][AVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 1789969219,
+    "seeders": 26
+  },
+  {
+    "releaseId": 10313,
+    "time": 1791125132,
+    "hash": "6546b555649e62dbd7d86cec4a1b535b70e64e6e",
+    "id": 40221,
+    "magnet": "magnet:?xt=urn:btih:6546b555649e62dbd7d86cec4a1b535b70e64e6e&dn=Tougen+Anki+Nikko+Kegon+no+Taki-hen+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=541608565&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tougen Anki- Nikko Kegon no Taki-hen - AniLiberty.TOP [WEB-DL 1080p][HEVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 541608565,
+    "seeders": 35
   }
 ]
