@@ -9255,5 +9255,35 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10327,
+    "items": [
+      {
+        "id": "a2e959d9-f4d0-4c2d-bea9-633483a006af",
+        "name": "А у парней ведь тоже есть дырка...",
+        "nameEnglish": "",
+        "updatedAt": "2026-10-05T21:12:40+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/10327/1/480/16af4eec10412ce1c69bb412e7f70b61.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/10327/1/720/4186268138c2832334220d1ebeea68d4.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/10327/1/1080/1420e14657c9713af11f137d9797714e.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 115,
+          "start": 25
+        },
+        "ending": {
+          "stop": 1413,
+          "start": 1324
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10327/1/mcMQ91w7F5VlCa79.jpg"
+        }
+      }
+    ]
   }
 ]
