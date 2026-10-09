@@ -1246,5 +1246,57 @@
     },
     "size": 2718982037,
     "seeders": 27
+  },
+  {
+    "releaseId": 8936,
+    "time": 1614445020,
+    "hash": "d20666a208b918be040e7ee231ea4c629784b94e",
+    "id": 14120,
+    "magnet": "magnet:?xt=urn:btih:d20666a208b918be040e7ee231ea4c629784b94e&dn=Dorohedoro_OVA_%5B01-06%5D_%5BAniLibria_TV%5D_%5BWEBRip_1080p%5D.mkv&xl=1617660158&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dorohedoro- Ma no Omake - AniLiberty.TOP [WEBRip 1080p][AVC][1-6].torrent",
+    "description": "1-6",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1617660158,
+    "seeders": 13
+  },
+  {
+    "releaseId": 8936,
+    "time": 1614445165,
+    "hash": "c793a5d6c1c500678a9588e40d5ee1f2bd1cf834",
+    "id": 14121,
+    "magnet": "magnet:?xt=urn:btih:c793a5d6c1c500678a9588e40d5ee1f2bd1cf834&dn=Dorohedoro_OVA_%5B01-06%5D_%5BAniLibria_TV%5D_%5BWEBRip_1080p_HEVC%5D.mkv&xl=433528171&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dorohedoro- Ma no Omake - AniLiberty.TOP [WEBRip 1080p][HEVC][1-6].torrent",
+    "description": "1-6",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 433528171,
+    "seeders": 20
   }
 ]
