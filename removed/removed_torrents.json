@@ -5204,5 +5204,57 @@
     },
     "size": 4359970883,
     "seeders": 27
+  },
+  {
+    "releaseId": 9769,
+    "time": 1735563570,
+    "hash": "07e8e0b19b99d9d78294589d68ab83502e4950c4",
+    "id": 31825,
+    "magnet": "magnet:?xt=urn:btih:07e8e0b19b99d9d78294589d68ab83502e4950c4&dn=Kengan+Ashura+2+Part+2+-+AniLibria+%5BWEB-DLRip+1080p%5D&xl=19225161798&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kengan Ashura Season 2 Part 2 - AniLiberty.TOP [WEB-DLRip 1080p][AVC][13-28].torrent",
+    "description": "13-28",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 19225161798,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9769,
+    "time": 1735563613,
+    "hash": "615f759245bd89b824bded2aca270fe007205440",
+    "id": 31826,
+    "magnet": "magnet:?xt=urn:btih:615f759245bd89b824bded2aca270fe007205440&dn=Kengan+Ashura+2+Part+2+-+AniLibria+%5BWEB-DLRip+1080p+HEVC%5D&xl=5853772807&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kengan Ashura Season 2 Part 2 - AniLiberty.TOP [WEB-DLRip 1080p][HEVC][13-28].torrent",
+    "description": "13-28",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 5853772807,
+    "seeders": 13
   }
 ]
