@@ -5620,5 +5620,57 @@
     },
     "size": 5219733992,
     "seeders": 32
+  },
+  {
+    "releaseId": 9754,
+    "time": 1726504962,
+    "hash": "83a1be13234c962b3b842b18468c8127f70fcd6e",
+    "id": 30418,
+    "magnet": "magnet:?xt=urn:btih:83a1be13234c962b3b842b18468c8127f70fcd6e&dn=Shoushimin+Series+-+AniLibria+%5BWEBRip+1080p%5D&xl=14295578630&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shoushimin Series - AniLiberty.TOP [WEBRip 1080p][AVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 14295578630,
+    "seeders": 19
+  },
+  {
+    "releaseId": 9754,
+    "time": 1726514317,
+    "hash": "4fcdd79c45eb7cafa7fd5360d4e4f9e943e256ac",
+    "id": 30424,
+    "magnet": "magnet:?xt=urn:btih:4fcdd79c45eb7cafa7fd5360d4e4f9e943e256ac&dn=Shoushimin+Series+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=1699711102&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shoushimin Series - AniLiberty.TOP [WEBRip 1080p][HEVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1699711102,
+    "seeders": 29
   }
 ]
