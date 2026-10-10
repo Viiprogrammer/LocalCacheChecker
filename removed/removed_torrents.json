@@ -13090,5 +13090,32 @@
     },
     "size": 3055884742,
     "seeders": 7
+  },
+  {
+    "releaseId": 7433,
+    "time": 1615043770,
+    "hash": "3863e9850ea8e15445d8f71b580ee1e6fdbf6a50",
+    "id": 14232,
+    "magnet": "magnet:?xt=urn:btih:3863e9850ea8e15445d8f71b580ee1e6fdbf6a50&dn=Tensei+Shitara+Slime+Datta+Ken+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=11909588120&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Tensei shitara Slime Datta Ken - AniLibria.TOP [WEBRip 720p][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 11909588120,
+    "seeders": 59,
+    "updatedAt": ""
   }
 ]
