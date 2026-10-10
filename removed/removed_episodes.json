@@ -84803,5 +84803,160 @@
         "preview": {}
       }
     ]
+  },
+  {
+    "releaseId": 2119,
+    "items": [
+      {
+        "id": "95af7cb7-789e-11ec-ae92-0242ac120002",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/1/480/42eb8733a92becc9e92c2ba1584a4b50.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/1/720/425c00632e764798ac9c89be2a3d0e58.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:49:53+00:00",
+        "opening": {
+          "start": 83,
+          "stop": 182
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af7d25-789e-11ec-ae92-0242ac120002",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/2/480/0e49fd49c92aefc26e2491a2597f8878.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/2/720/598f28a67f7f43bcccbf65605d9b9f5c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:49:14+00:00",
+        "opening": {
+          "start": 188,
+          "stop": 287
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af7d94-789e-11ec-ae92-0242ac120002",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/3/480/fdd4955ce963f35c1a37c1a60486e5b9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/3/720/5049aab80c3a7c631eea39803f2b0616.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:49:58+00:00",
+        "opening": {
+          "start": 51,
+          "stop": 150
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af7e03-789e-11ec-ae92-0242ac120002",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/4/480/337e73bc43f69d1c7fc3e328418474b8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/4/720/1c1125e7b6686d83d5a70e09af426e5b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:49:28+00:00",
+        "opening": {
+          "start": 98,
+          "stop": 197
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af7e73-789e-11ec-ae92-0242ac120002",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/5/480/bc16fc582614adab1c5036e1b54ed07d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/5/720/e65c154076e3409bd8b463a230c3bfac.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:50:10+00:00",
+        "opening": {
+          "start": 69,
+          "stop": 168
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af7ee1-789e-11ec-ae92-0242ac120002",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/6/480/927c6cd05b432853b8cc18059985dd65.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/6/720/cee2cd2b88df78447b4535020765126d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:49:18+00:00",
+        "opening": {
+          "start": 111,
+          "stop": 210
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af7f53-789e-11ec-ae92-0242ac120002",
+        "ordinal": 7,
+        "sortOrder": 6,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/7/480/ca0d144624f0468a31584c3ea5837784.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/7/720/5ac3a205974e4266dba089b747192366.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:49:40+00:00",
+        "opening": {
+          "start": 33,
+          "stop": 132
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af7fbf-789e-11ec-ae92-0242ac120002",
+        "ordinal": 8,
+        "sortOrder": 7,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/8/480/fadaa18b203b8d651a7ec8b425ea0872.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/8/720/1573a358b3edac963756e97504b1a346.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:51:04+00:00",
+        "opening": {
+          "start": 59,
+          "stop": 158
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af802d-789e-11ec-ae92-0242ac120002",
+        "ordinal": 9,
+        "sortOrder": 8,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/9/480/e2e593adf674b19bb54b5991d72cedc7.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/9/720/92829c119e8f1faf60b00386900b92df.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:50:15+00:00",
+        "opening": {
+          "start": 33,
+          "stop": 132
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95af809c-789e-11ec-ae92-0242ac120002",
+        "ordinal": 10,
+        "sortOrder": 9,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/2119/10/480/5b8d490216daea2ea1c684277fed728a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/2119/10/720/01728641280e1cc28e6ef0f0d3c12680.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1440,
+        "updatedAt": "2019-01-15T14:49:23+00:00",
+        "opening": {
+          "start": 98,
+          "stop": 197
+        },
+        "ending": {},
+        "preview": {}
+      }
+    ]
   }
 ]

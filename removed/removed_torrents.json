@@ -13752,5 +13752,32 @@
     },
     "size": 13389352643,
     "seeders": 29
+  },
+  {
+    "releaseId": 2119,
+    "time": 1550054985,
+    "hash": "9b0569955501356d8db227ea07cd8a511c5ad2c4",
+    "id": 1955,
+    "magnet": "magnet:?xt=urn:btih:9b0569955501356d8db227ea07cd8a511c5ad2c4&dn=Super+Lovers+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=4246045971&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Super Lovers - AniLibria.TOP [HDTVRip 720p][AVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4246045971,
+    "seeders": 6,
+    "updatedAt": ""
   }
 ]
