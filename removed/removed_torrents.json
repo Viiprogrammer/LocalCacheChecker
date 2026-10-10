@@ -2574,5 +2574,57 @@
     },
     "size": 4668867958,
     "seeders": 21
+  },
+  {
+    "releaseId": 9916,
+    "time": 1759969621,
+    "hash": "cc29eae80a1c3869848babd5c1e4aa1190b3ebfd",
+    "id": 35491,
+    "magnet": "magnet:?xt=urn:btih:cc29eae80a1c3869848babd5c1e4aa1190b3ebfd&dn=Witch+Watch+-+AniLibria+%5BWEB-DLRip+1080p%5D&xl=37898333065&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Witch Watch - AniLiberty.TOP [WEB-DLRip 1080p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 37898333065,
+    "seeders": 16
+  },
+  {
+    "releaseId": 9916,
+    "time": 1760001191,
+    "hash": "82a49e6cdec37470130bff7be9ec47b9337d0e74",
+    "id": 35493,
+    "magnet": "magnet:?xt=urn:btih:82a49e6cdec37470130bff7be9ec47b9337d0e74&dn=Witch+Watch+-+AniLibria+%5BWEB-DLRip+1080p+HEVC%5D&xl=7903415303&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Witch Watch - AniLiberty.TOP [WEB-DLRip 1080p][HEVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 7903415303,
+    "seeders": 32
   }
 ]
