@@ -5308,5 +5308,57 @@
     },
     "size": 2978826819,
     "seeders": 13
+  },
+  {
+    "releaseId": 9763,
+    "time": 1733078616,
+    "hash": "e331ea9c472362b388580abdaeb6aec5eca53745",
+    "id": 31478,
+    "magnet": "magnet:?xt=urn:btih:e331ea9c472362b388580abdaeb6aec5eca53745&dn=Delicos+Nursery+-+AniLibria+%5BWEBRip+1080p%5D&xl=19307037579&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Delico's Nursery - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19307037579,
+    "seeders": 9
+  },
+  {
+    "releaseId": 9763,
+    "time": 1733582573,
+    "hash": "8d2f48de7c8618ff550a781f742ed1742974818b",
+    "id": 31555,
+    "magnet": "magnet:?xt=urn:btih:8d2f48de7c8618ff550a781f742ed1742974818b&dn=Delicos+Nursery+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3832696688&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Delico's Nursery - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3832696688,
+    "seeders": 12
   }
 ]
