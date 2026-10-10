@@ -10506,5 +10506,59 @@
     "size": 386367943,
     "seeders": 7,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8939,
+    "time": 1614598140,
+    "hash": "ccc68ba2c36fbdc22feadda9b366308ef5dd5ec6",
+    "id": 14153,
+    "magnet": "magnet:?xt=urn:btih:ccc68ba2c36fbdc22feadda9b366308ef5dd5ec6&dn=Kara_no_Kyoukai_1_Fukan_Fuukei_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=2115321732&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 1- Fukan Fuukei - AniLibria.TOP [BDRip 1080p][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 2115321732,
+    "seeders": 7,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8939,
+    "time": 1614694173,
+    "hash": "dd9b5314f97558915ff53aacafb3844c85ac42ff",
+    "id": 14164,
+    "magnet": "magnet:?xt=urn:btih:dd9b5314f97558915ff53aacafb3844c85ac42ff&dn=Kara_no_Kyoukai_1_Fukan_Fuukei_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=317414961&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 1- Fukan Fuukei - AniLibria.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 317414961,
+    "seeders": 7,
+    "updatedAt": ""
   }
 ]
