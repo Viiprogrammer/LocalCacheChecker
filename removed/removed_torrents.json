@@ -11198,5 +11198,59 @@
     "size": 2910336240,
     "seeders": 22,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8676,
+    "time": 1609090620,
+    "hash": "feb79116a970f5bd1710b2d71958aae5c7899937",
+    "id": 13236,
+    "magnet": "magnet:?xt=urn:btih:feb79116a970f5bd1710b2d71958aae5c7899937&dn=Toradora%21+-+AniLibria.TV+%5BBDRip+1080p%5D&xl=35061064444&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Toradora! - AniLibria.TOP [BDRip 1080p][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 35061064444,
+    "seeders": 7,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8676,
+    "time": 1609094785,
+    "hash": "d2afbdd083116127846ec6d3c106aa85c52694e7",
+    "id": 13237,
+    "magnet": "magnet:?xt=urn:btih:d2afbdd083116127846ec6d3c106aa85c52694e7&dn=Toradora%21+-+AniLibria.TV+%5BBDRip+1080p+HEVC%5D&xl=4544956502&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Toradora! - AniLibria.TOP [BDRip 1080p][HEVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 4544956502,
+    "seeders": 9,
+    "updatedAt": ""
   }
 ]
