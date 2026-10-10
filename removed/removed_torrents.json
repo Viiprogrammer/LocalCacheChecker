@@ -5672,5 +5672,57 @@
     },
     "size": 1699711102,
     "seeders": 29
+  },
+  {
+    "releaseId": 9753,
+    "time": 1726573478,
+    "hash": "d02019acdd1f50e990898000eac0fe91ec3c5cff",
+    "id": 30430,
+    "magnet": "magnet:?xt=urn:btih:d02019acdd1f50e990898000eac0fe91ec3c5cff&dn=Bye+Bye+Earth+-+AniLibria+%5BWEBRip+1080p%5D&xl=14896114883&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Bye-Bye, Earth - AniLiberty.TOP [WEBRip 1080p][AVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 14896114883,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9753,
+    "time": 1726591460,
+    "hash": "46a48105dd32a6023436381376f1cf70666ddf1d",
+    "id": 30436,
+    "magnet": "magnet:?xt=urn:btih:46a48105dd32a6023436381376f1cf70666ddf1d&dn=Bye+Bye+Earth+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3135585577&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Bye-Bye, Earth - AniLiberty.TOP [WEBRip 1080p][HEVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3135585577,
+    "seeders": 21
   }
 ]
