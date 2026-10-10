@@ -43561,5 +43561,298 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9665,
+    "items": [
+      {
+        "id": "9bb67a30-53c2-4a63-ac13-1f0445934357",
+        "name": "Я теперь седьмой принц",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/1/480/06f0ecb014fdf863578acf0bced1734d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/1/720/ac485224b23abe37b02ea3f19fd32b49.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/1/1080/80ad34a35d4a2a869a393eac47234002.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-04-09T18:42:49+00:00",
+        "opening": {
+          "start": 173,
+          "stop": 263
+        },
+        "ending": {
+          "start": 1325,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/1/qYfYrWIHlEUlE5Fu.jpg"
+        }
+      },
+      {
+        "id": "9bc488cb-ad73-492f-a528-aec95841e471",
+        "name": "Встреча с авантюристом",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/2/480/20059c9ca505def08de09d89c6858029.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/2/720/a493451102cb0b41778fc53af5edd3cf.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/2/1080/51ca09655b71cba8abfe6eefdc9e6985.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-04-09T18:03:39+00:00",
+        "opening": {
+          "start": 53,
+          "stop": 143
+        },
+        "ending": {
+          "start": 1259,
+          "stop": 1349
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/2/eJaS0u8CvvcCdaU8.jpg"
+        }
+      },
+      {
+        "id": "9bd2cddd-d365-456b-a722-46902594ab17",
+        "name": "Техника ци и магические чары",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/3/480/f6df4e06e9ff77c6650c1bac2fa28f55.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/3/720/960958098040a89518b5d608e27575f7.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/3/1080/c3c49a905625c44fd2763e4a5a0ca725.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-04-23T19:04:14+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1325,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/3/C01AiELbYNSW64p3.jpg"
+        }
+      },
+      {
+        "id": "9be0c332-f186-403e-a8a5-26099fa0bda3",
+        "name": "Охота на монстра",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/4/480/43b505e0b863899e0c853f91a1e41cde.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/4/720/826f1a425b6f6df73bc97951746a9fb7.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/4/1080/0805bb7c2c8b07b6d087ad0afe64c1a8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-04-24T19:12:37+00:00",
+        "opening": {
+          "start": 68,
+          "stop": 158
+        },
+        "ending": {
+          "start": 1325,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/4/ElrruwlsfIJ4qa2W.jpg"
+        }
+      },
+      {
+        "id": "9beebab3-d01e-4c22-b7f7-f8a96f733e25",
+        "name": "Демон в ярости",
+        "nameEnglish": "",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/5/480/53dc2966b95f2bda10348b04b1d8cfb2.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/5/720/78deb9f5f30130722d36b63b230b5cf8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/5/1080/0927a943214989d1e07a7c59bd92e96d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-04-30T17:23:16+00:00",
+        "opening": {
+          "start": 99,
+          "stop": 189
+        },
+        "ending": {
+          "start": 1325,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/5/Lt2woaifyWYVrg9D.jpg"
+        }
+      },
+      {
+        "id": "9bfcf608-f7e6-4d46-938a-f3f21127ca12",
+        "name": "Сёстры, монстры, особенные мечи и братья",
+        "nameEnglish": "",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/6/480/7632aa9e15b8f915840d9f5d1eb44520.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/6/720/3c08173fae679b9f3c297ba00907b1e7.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/6/1080/7896f902c4fe6affe70c5e7b009fa0e6.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1431,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-05-07T19:13:44+00:00",
+        "opening": {
+          "start": 75,
+          "stop": 165
+        },
+        "ending": {
+          "start": 1325,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/6/C335rldBWsMkBrDZ.jpg"
+        }
+      },
+      {
+        "id": "9c0afbf1-d0ee-47fd-8a8d-3a11c1fa755d",
+        "name": "Пора сразиться с ассасинами",
+        "nameEnglish": "",
+        "ordinal": 7,
+        "sortOrder": 6,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/7/480/d391759e2f81ca492ce0a1a8a71ec185.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/7/720/981355db7bdf153be145d18f208517b8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/7/1080/763e0a695e268f638e77d9b59c41c7ad.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1431,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-05-14T18:33:53+00:00",
+        "opening": {
+          "start": 62,
+          "stop": 152
+        },
+        "ending": {
+          "start": 1325,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/7/pOQl3eiaoNWYmSiA.jpg"
+        }
+      },
+      {
+        "id": "9c18dfe8-5a16-482b-b186-915b1c3a9405",
+        "name": "Знакомство с Джейдом",
+        "nameEnglish": "",
+        "ordinal": 8,
+        "sortOrder": 7,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/8/480/1515ada6d1253c4515bb13cc6abb7516.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/8/720/ab19f029c029c2f2594066b3c727e0e2.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/8/1080/bafcd9eef1c938ebc60dd7555f57ac9a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-05-21T16:14:40+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/8/KzkvGrC1zoKR1xYv.jpg"
+        }
+      },
+      {
+        "id": "9c27e411-8e3e-4bfb-bf49-132885351f69",
+        "name": "Бедствие по имени Гизарм",
+        "nameEnglish": "",
+        "ordinal": 9,
+        "sortOrder": 8,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/9/480/40a9537aaa2af4bd1ebb6f2e0589a99b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/9/720/358c636ec5c05afde57470700fee99cb.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/9/1080/e485c66bd0e22276907138132637d88e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-05-29T03:23:06+00:00",
+        "opening": {
+          "start": 159,
+          "stop": 249
+        },
+        "ending": {
+          "start": 1278,
+          "stop": 1368
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/9/df4SnyON6mHfzm3Z.jpg"
+        }
+      },
+      {
+        "id": "9c358895-d417-47d3-b7c9-683bbcfde192",
+        "name": "Клинок Сильфы",
+        "nameEnglish": "",
+        "ordinal": 10,
+        "sortOrder": 9,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/10/480/f3e4211412cc8310c4f68ef19068b50d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/10/720/34a1de656d8418cf0131c3a485bb0785.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/10/1080/88825c94f28489f57546d99a9bfef747.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-06-04T22:07:54+00:00",
+        "opening": {
+          "start": 60,
+          "stop": 150
+        },
+        "ending": {
+          "start": 1325,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/10/Gdel94Zv58DGc9Y4.jpg"
+        }
+      },
+      {
+        "id": "9c434b5a-2cce-4483-8710-3a2e0f4d0524",
+        "name": "Последние слова Джейда",
+        "nameEnglish": "",
+        "ordinal": 11,
+        "sortOrder": 10,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/11/480/ecdf26b922a27aed775dcb81fdf25029.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/11/720/fcbef12495f92e8bd7974a630a8b71d3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/11/1080/8547ecd1d4a1f50bab6d159c79b6dca8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-06-11T18:28:33+00:00",
+        "opening": {
+          "start": 104,
+          "stop": 194
+        },
+        "ending": {
+          "start": 1365,
+          "stop": 1415
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/11/XHjEmIMsPiqvuZ8g.jpg"
+        }
+      },
+      {
+        "id": "9c515c00-3084-4b99-8c7b-68b67a56379e",
+        "name": "Ответ Ллойда",
+        "nameEnglish": "",
+        "ordinal": 12,
+        "sortOrder": 11,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9665/12/480/ea1dd70b09b6589b84dcf0d38d62748b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9665/12/720/096418218d51303693fd80e3f449712f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9665/12/1080/26098b866d6fa8fb4e9ca2b525268a11.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2024-06-18T18:56:08+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1333,
+          "stop": 1425
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9665/12/uwsoYDodIGucvlSA.jpg"
+        }
+      }
+    ]
   }
 ]

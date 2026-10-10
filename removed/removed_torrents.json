@@ -7054,5 +7054,57 @@
     "size": 3049245048,
     "seeders": 52,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9665,
+    "time": 1718732698,
+    "hash": "83c2b4c15fc7b0c41930d029b912f3f273f8eb7c",
+    "id": 29234,
+    "magnet": "magnet:?xt=urn:btih:83c2b4c15fc7b0c41930d029b912f3f273f8eb7c&dn=Dainanaoji+-+AniLibria+%5BWEBRip+1080p%5D&xl=17962365005&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 17962365005,
+    "seeders": 0
+  },
+  {
+    "releaseId": 9665,
+    "time": 1718824046,
+    "hash": "48a3209be6d3328076281857926c03371bb9110e",
+    "id": 29248,
+    "magnet": "magnet:?xt=urn:btih:48a3209be6d3328076281857926c03371bb9110e&dn=Dainanaoji+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=4069326189&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 4069326189,
+    "seeders": 0
   }
 ]
