@@ -3124,5 +3124,57 @@
     },
     "size": 3774865378,
     "seeders": 27
+  },
+  {
+    "releaseId": 9828,
+    "time": 1735049389,
+    "hash": "ae8ed40126f04506eb860669ff2bfd7316c53bd0",
+    "id": 31785,
+    "magnet": "magnet:?xt=urn:btih:ae8ed40126f04506eb860669ff2bfd7316c53bd0&dn=Seirei+Gensouki+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=17922980135&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Seirei Gensouki 2 - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17922980135,
+    "seeders": 17
+  },
+  {
+    "releaseId": 9828,
+    "time": 1735053584,
+    "hash": "6d8db465c91f88f10447b5856ec36946b85311c3",
+    "id": 31786,
+    "magnet": "magnet:?xt=urn:btih:6d8db465c91f88f10447b5856ec36946b85311c3&dn=Seirei+Gensouki+2+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2876185233&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Seirei Gensouki 2 - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2876185233,
+    "seeders": 38
   }
 ]
