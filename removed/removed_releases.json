@@ -4717,5 +4717,27 @@
     "year": "2007",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "ensei-shitara-slime-datta-ken-ova",
+    "countTorrents": 2,
+    "countVideos": 0,
+    "description": "Дополнительные эпизоды аниме-сериала «О моём перерождении в слизь», выпущенные в комплекте с двенадцатым и тринадцатым томами манги.",
+    "genres": "Сёнен, Фэнтези",
+    "id": 8934,
+    "originalName": "Tensei shitara Slime Datta Ken OVA",
+    "poster": "/storage/releases/posters/8934/mjXjx0uzlBVIvbYhwfT1SqJflNSouLj2.jpg",
+    "rating": 3132,
+    "season": "Лето",
+    "series": "(5)",
+    "status": "Озвучка завершена",
+    "timestamp": 1616568968,
+    "title": "О моём перерождении в слизь OVA [DEL]",
+    "type": "OVA",
+    "voices": "Silv, Hekomi, Malevich, Sharon",
+    "year": "2019",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
