@@ -9178,5 +9178,57 @@
     },
     "size": 4780896236,
     "seeders": 12
+  },
+  {
+    "releaseId": 9284,
+    "time": 1671712722,
+    "hash": "9c5d64601cf7a5f92d1db5bb348a1a66e82fa492",
+    "id": 21768,
+    "magnet": "magnet:?xt=urn:btih:9c5d64601cf7a5f92d1db5bb348a1a66e82fa492&dn=Shinobi+no+Ittoki+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=17838719398&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shinobi no Ittoki - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17838719398,
+    "seeders": 9
+  },
+  {
+    "releaseId": 9284,
+    "time": 1672031424,
+    "hash": "effac1d05328b4ffe139a3eef29b616f7cf89d1a",
+    "id": 21810,
+    "magnet": "magnet:?xt=urn:btih:effac1d05328b4ffe139a3eef29b616f7cf89d1a&dn=Shinobi+no+Ittoki+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2044952974&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shinobi no Ittoki - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2044952974,
+    "seeders": 12
   }
 ]
