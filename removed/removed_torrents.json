@@ -13461,5 +13461,31 @@
     },
     "size": 7943006787,
     "seeders": 11
+  },
+  {
+    "releaseId": 3974,
+    "time": 1550054992,
+    "hash": "77e895567fc174e40499f989810a37b6c6b6cab0",
+    "id": 2840,
+    "magnet": "magnet:?xt=urn:btih:77e895567fc174e40499f989810a37b6c6b6cab0&dn=Usagi+Drop+-+AniLibria.TV+%5BBDRip+720p%5D&xl=6944643656&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Usagi Drop - AniLiberty.TOP [BDRip 720p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 6944643656,
+    "seeders": 13
   }
 ]
