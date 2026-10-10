@@ -4684,5 +4684,57 @@
     },
     "size": 3157763282,
     "seeders": 45
+  },
+  {
+    "releaseId": 9785,
+    "time": 1739979343,
+    "hash": "e52949ac26a2fa3f9b3c23a1fc7ded79882ad74b",
+    "id": 32490,
+    "magnet": "magnet:?xt=urn:btih:e52949ac26a2fa3f9b3c23a1fc7ded79882ad74b&dn=Arifureta+Shokugyou+de+Sekai+Saikyou+3nd+Season+-+AniLibria+%5BWEBRip+1080p%5D&xl=23782193519&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Arifureta Shokugyou de Sekai Saikyou Season 3 - AniLiberty.TOP [WEBRip 1080p][AVC][1-16].torrent",
+    "description": "1-16",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 23782193519,
+    "seeders": 29
+  },
+  {
+    "releaseId": 9785,
+    "time": 1739984097,
+    "hash": "4a3596f9913945734acb2afc78a200029f981f2e",
+    "id": 32493,
+    "magnet": "magnet:?xt=urn:btih:4a3596f9913945734acb2afc78a200029f981f2e&dn=Arifureta+Shokugyou+de+Sekai+Saikyou+3nd+Season+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3732550640&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Arifureta Shokugyou de Sekai Saikyou Season 3 - AniLiberty.TOP [WEBRip 1080p][HEVC][1-16].torrent",
+    "description": "1-16",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3732550640,
+    "seeders": 54
   }
 ]
