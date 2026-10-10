@@ -13806,5 +13806,32 @@
     "size": 10931583636,
     "seeders": 13,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 1339,
+    "time": 1550054940,
+    "hash": "51d767510642e9d349946e5ee843d99ef09dc258",
+    "id": 768,
+    "magnet": "magnet:?xt=urn:btih:51d767510642e9d349946e5ee843d99ef09dc258&dn=Deadman+Wonderland&xl=9676153202&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Deadman Wonderland - AniLibria.TOP [BDRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 9676153202,
+    "seeders": 8,
+    "updatedAt": ""
   }
 ]

@@ -6846,5 +6846,28 @@
     "year": "2016",
     "isOngoing": false,
     "ageRating": "Запрещено для распространения среди детей (18+)"
+  },
+  {
+    "announce": "",
+    "code": "deadman-wonderland",
+    "countTorrents": 1,
+    "countVideos": 12,
+    "description": "Игараси Ганта - обычный японский школьник, который любит своих друзей-одноклассников и живёт без забот. Но, внезапно, тихая и спокойная жизнь Ганты превращается в ад, когда на одном из школьных занятий появляется странный Красный человек, парящий напротив окна школы и зверски убивает всех в классе, кроме самого Ганты. Зачем Красный человек убил их? И почему он оставил в живых одного Ганту?",
+    "genres": "Драма, Фантастика, Приключения",
+    "id": 1339,
+    "originalName": "Deadman Wonderland",
+    "poster": "/storage/releases/posters/1339/l7nYn0gichLQk7ZpnFZs6lfmy4rkqt4Q.jpg",
+    "rating": 5708,
+    "season": "Не указано",
+    "series": "(12)",
+    "status": "Озвучка завершена",
+    "timestamp": 1445762554,
+    "title": "Страна чудес смертников [DEL]",
+    "type": "ТВ",
+    "voices": "Lupin, Itashi, Reni, HectoR, Silv",
+    "team": "Lupin, Itashi, Reni, HectoR, Silv, Dreamers Team",
+    "year": "2011",
+    "isOngoing": false,
+    "ageRating": "Запрещено для распространения среди детей (18+)"
   }
 ]
