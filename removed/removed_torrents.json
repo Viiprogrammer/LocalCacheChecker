@@ -7968,5 +7968,31 @@
     },
     "size": 39270391534,
     "seeders": 14
+  },
+  {
+    "releaseId": 9559,
+    "time": 1712269307,
+    "hash": "9d23e9150bed53b8ad86be6738c4cbd0dd8d6517",
+    "id": 28230,
+    "magnet": "magnet:?xt=urn:btih:9d23e9150bed53b8ad86be6738c4cbd0dd8d6517&dn=Nanatsu+no+Taizai+Mokushiroku+no+Yonkishi+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=14528413699&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Nanatsu no Taizai- Mokushiroku no Yonkishi - AniLiberty.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 14528413699,
+    "seeders": 18
   }
 ]
