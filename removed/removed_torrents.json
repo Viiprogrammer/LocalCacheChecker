@@ -5984,5 +5984,57 @@
     },
     "size": 3518362107,
     "seeders": 16
+  },
+  {
+    "releaseId": 9747,
+    "time": 1726839167,
+    "hash": "c928e5861466a38a2bf02dff2ea708af9c273edc",
+    "id": 30473,
+    "magnet": "magnet:?xt=urn:btih:c928e5861466a38a2bf02dff2ea708af9c273edc&dn=Ore+wa+Subete+wo+Parry+suru+-+AniLibria+%5BWEBRip+1080p%5D&xl=11826418432&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "I Parry Everything - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 11826418432,
+    "seeders": 18
+  },
+  {
+    "releaseId": 9747,
+    "time": 1727420120,
+    "hash": "64c8b4ababcc67c074eae3c13fb4a01e76b6935e",
+    "id": 30563,
+    "magnet": "magnet:?xt=urn:btih:64c8b4ababcc67c074eae3c13fb4a01e76b6935e&dn=Ore+wa+Subete+wo+Parry+suru+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2934567159&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "I Parry Everything - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2934567159,
+    "seeders": 31
   }
 ]
