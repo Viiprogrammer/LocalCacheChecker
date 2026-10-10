@@ -12332,5 +12332,31 @@
     "size": 2421787188,
     "seeders": 16,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8373,
+    "time": 1555274724,
+    "hash": "778cd44dc0627be82feb25d43471b2fdccbd3ab3",
+    "id": 6789,
+    "magnet": "magnet:?xt=urn:btih:778cd44dc0627be82feb25d43471b2fdccbd3ab3&dn=Devil+Survivor+2+The+Animation+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=7035484070&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Devil Survivor 2 The Animation  - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 7035484070,
+    "seeders": 13
   }
 ]
