@@ -2104,5 +2104,57 @@
     },
     "size": 1485492094,
     "seeders": 25
+  },
+  {
+    "releaseId": 10036,
+    "time": 1762631004,
+    "hash": "9bd1cb9fefcbdd637b04689c5e059724d9e2d9d7",
+    "id": 35891,
+    "magnet": "magnet:?xt=urn:btih:9bd1cb9fefcbdd637b04689c5e059724d9e2d9d7&dn=Mugen+Gacha+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=1655816670&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mugen Gacha - AniLibria.TOP [WEB-DL 1080p][HEVC][1-6].torrent",
+    "description": "1-6",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 1655816670,
+    "seeders": 0
+  },
+  {
+    "releaseId": 10036,
+    "time": 1763233173,
+    "hash": "7d18104596b04dad49826558d2ac2079e983f5ca",
+    "id": 35969,
+    "magnet": "magnet:?xt=urn:btih:7d18104596b04dad49826558d2ac2079e983f5ca&dn=Mugen+Gacha+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=4469833864&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mugen Gacha - AniLibria.TOP [WEB-DL 1080p][AVC][1-7].torrent",
+    "description": "1-7",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 4469833864,
+    "seeders": 0
   }
 ]
