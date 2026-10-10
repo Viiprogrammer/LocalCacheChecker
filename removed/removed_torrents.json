@@ -10182,5 +10182,59 @@
     },
     "size": 31266203382,
     "seeders": 13
+  },
+  {
+    "releaseId": 8945,
+    "time": 1613939460,
+    "hash": "dd8f7075aa528e03e3e18d03117b061219b94154",
+    "id": 14032,
+    "magnet": "magnet:?xt=urn:btih:dd8f7075aa528e03e3e18d03117b061219b94154&dn=Kara_no_Kyoukai_7_Satsujin_Kousatsu_%28Go%29_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=11483269950&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 7- Satsujin Kousatsu (Go) - AniLibria.TOP [BDRip 1080p][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 11483269950,
+    "seeders": 6,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8945,
+    "time": 1614694272,
+    "hash": "676ca74161662f74e86dc873c95e6c488c76631a",
+    "id": 14170,
+    "magnet": "magnet:?xt=urn:btih:676ca74161662f74e86dc873c95e6c488c76631a&dn=Kara_no_Kyoukai_7_Satsujin_Kousatsu_%28Go%29_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=761346391&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 7- Satsujin Kousatsu (Go) - AniLibria.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 761346391,
+    "seeders": 7,
+    "updatedAt": ""
   }
 ]
