@@ -7628,5 +7628,57 @@
     },
     "size": 2893595965,
     "seeders": 31
+  },
+  {
+    "releaseId": 9609,
+    "time": 1711871597,
+    "hash": "70401994cab7eed273846e1f97d1af9a573d4b3a",
+    "id": 28175,
+    "magnet": "magnet:?xt=urn:btih:70401994cab7eed273846e1f97d1af9a573d4b3a&dn=Chiyu+Mahou+no+Machigatta+Tsukaikata+Senjou+wo+Kakeru+Kaifuku+Youin+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=19258337208&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chiyu Mahou no Machigatta Tsukaikata- Senjou wo Kakeru Kaifuku Youin - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19258337208,
+    "seeders": 19
+  },
+  {
+    "releaseId": 9609,
+    "time": 1711892884,
+    "hash": "2f0bb040a6096cc3e67b5789bad0c44d396de2ba",
+    "id": 28177,
+    "magnet": "magnet:?xt=urn:btih:2f0bb040a6096cc3e67b5789bad0c44d396de2ba&dn=Chiyu+Mahou+no+Machigatta+Tsukaikata+Senjou+wo+Kakeru+Kaifuku+Youin+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3446281090&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chiyu Mahou no Machigatta Tsukaikata- Senjou wo Kakeru Kaifuku Youin - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3446281090,
+    "seeders": 45
   }
 ]
