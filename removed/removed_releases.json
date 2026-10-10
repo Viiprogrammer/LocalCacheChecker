@@ -5196,5 +5196,28 @@
     "year": "2018",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "nekopara-tv",
+    "countTorrents": 2,
+    "countVideos": 12,
+    "description": "Любите сладости? Замечательно. Любите некодевочек? Ещё лучше. Проведите свои деньки вместе с забавными мега-кавайными официантками кондитерской, которые ну просто не могут работать спокойно.",
+    "genres": "Комедия, Романтика",
+    "id": 8562,
+    "originalName": "Nekopara (TV)",
+    "poster": "/storage/releases/posters/8562/m29N3MwCw9oJUZLu8dqfzUvDfmPDADUI.jpg",
+    "rating": 5697,
+    "season": "Зима",
+    "series": "(12)",
+    "status": "Озвучка завершена",
+    "timestamp": 1585777199,
+    "title": "Кошачий рай (TV) [DEL]",
+    "type": "ТВ",
+    "voices": "Silv, Sharon, Hekomi, MyAska",
+    "team": "Silv, Sharon, Hekomi, MyAska, Selv, Kosaka, Pomidorchik, NaRVioN",
+    "year": "2020",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
