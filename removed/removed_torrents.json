@@ -13939,5 +13939,31 @@
     },
     "size": 8131511439,
     "seeders": 9
+  },
+  {
+    "releaseId": 820,
+    "time": 1550054975,
+    "hash": "d5d44f6fb233970854e8245f828d7836cce64ffb",
+    "id": 389,
+    "magnet": "magnet:?xt=urn:btih:d5d44f6fb233970854e8245f828d7836cce64ffb&dn=Astarotte_no_Omocha%21_%5BAniLibria.TV%5D_%5BBDRip_720p%5D&xl=6405686823&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Astarotte no Omocha! - AniLibria.TOP [BDRip 720p][AVC][12 + OVA].torrent",
+    "description": "12 + OVA",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 6405686823,
+    "seeders": 8
   }
 ]
