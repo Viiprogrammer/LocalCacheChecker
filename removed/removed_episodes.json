@@ -53806,5 +53806,271 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9365,
+    "items": [
+      {
+        "id": "8dd712f8-fa74-48ef-9523-550e95233d66",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/1/480/66c51cb055704455c2ec3b558b651857.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/1/720/39bc03f3da2723e9d043796a0ffdf29a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/1/1080/e551493a3b91a286baa9547e828c7475.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-01-11T20:27:16+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/1/G3a0MGxAOArZweVd.jpg"
+        }
+      },
+      {
+        "id": "0d5ee317-f75c-4044-92ec-2d2e699b5588",
+        "name": "Мой фамильяр-живая легенда!",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/2/480/140754fffb4f4d2f3e64d5ee5d62219a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/2/720/5478360b31f0d9fd905f70b5f7f492f4.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/2/1080/988ec97758bacbe63b771c41e0f0bd75.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-01-18T21:05:01+00:00",
+        "opening": {
+          "start": 52,
+          "stop": 141
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/2/KHEiiHuHFUUvyQFp.jpg"
+        }
+      },
+      {
+        "id": "565202c8-b269-4497-aaca-c4bd3c66446d",
+        "name": "Пусть огромная сила поможет в готовке!",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/3/480/39902e4457c451b389f5b0cd0ac685a9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/3/720/7371a08317f9c6e44fbb9ad7b774eab9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/3/1080/0849a88a100f18638c24e0cda690ea16.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-01-25T20:56:08+00:00",
+        "opening": {
+          "start": 41,
+          "stop": 131
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/3/PRSn7JVdysJanDhN.jpg"
+        }
+      },
+      {
+        "id": "488eec6d-9d07-47a1-85e0-4f88fee0bb4f",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/4/480/e09f656c15dc01d12b69dde3c53e862a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/4/720/c6c12a81aaf9093cc36315a04865663f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/4/1080/0a185c354c58e8b965d121b0a904ad16.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-02-02T22:04:49+00:00",
+        "opening": {
+          "start": 156,
+          "stop": 246
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/4/fpsuu3YijqHD3QTD.jpg"
+        }
+      },
+      {
+        "id": "ffdee927-6708-4940-ad81-3c817d4e88f8",
+        "name": "Богиня ветра — сладкоежка",
+        "nameEnglish": "",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/5/480/3ee3aa643e08377f0ab7f06811709f0e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/5/720/483857cb54a29985a780d548b42c25aa.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/5/1080/56573600a6ce72e3b1e54604a4be161e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-02-11T12:18:40+00:00",
+        "opening": {
+          "start": 22,
+          "stop": 112
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/5/CSc4qdeEgHerNqOH.jpg"
+        }
+      },
+      {
+        "id": "53225320-93a1-49bd-9bb5-8354e1e7b8f6",
+        "name": "Неожиданный рост!",
+        "nameEnglish": "",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/6/480/c0c91ae0df04ad2545d251f4a135dd67.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/6/720/157ade80f108b5ecd88fe897a68ae09c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/6/1080/c00681be86cb984af86c6d89bec0f620.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1437,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-02-16T18:07:05+00:00",
+        "opening": {
+          "start": 100,
+          "stop": 190
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/6/VMSKT8Rlvjh7CKzy.jpg"
+        }
+      },
+      {
+        "id": "b20f7051-e6e0-4b02-bad5-2a467186a741",
+        "name": "Волк, танцующий с монстрами",
+        "nameEnglish": "",
+        "ordinal": 7,
+        "sortOrder": 6,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/7/480/eeff9501f13bb9e7bc1ab0beee1e9a7f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/7/720/21c9e4313e8e4624715c36c4007bdf93.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/7/1080/7fb8cac9d1e63720c96eb3974a3843ff.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-02-22T21:13:41+00:00",
+        "opening": {
+          "start": 134,
+          "stop": 224
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/7/cOnaiAgX5tvLCQP8.jpg"
+        }
+      },
+      {
+        "id": "98c61bf0-0a25-4df1-b98e-11f9643a5783",
+        "name": "Все монстры-боссы вкусные",
+        "nameEnglish": "",
+        "ordinal": 8,
+        "sortOrder": 7,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/8/480/f505ba07f09d575963de53a0938e5531.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/8/720/4cd892100e3cc67d9647c5668358e50c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/8/1080/66f45fc62722755d8ddd5ce6df82891f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-03-02T18:42:17+00:00",
+        "opening": {
+          "start": 77,
+          "stop": 167
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/8/YoHf73h2p2dLQEHy.jpg"
+        }
+      },
+      {
+        "id": "9c68fb6b-4074-4639-9f0a-d0381a916f10",
+        "name": "Охота-это мясо и деньги!",
+        "nameEnglish": "",
+        "ordinal": 9,
+        "sortOrder": 8,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/9/480/034637cfbcee362fb1da4b54fd285a47.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/9/720/c936b354e869181450d1971ee866536a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/9/1080/8e110988a97b9488755a67722cd15db4.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1435,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-03-10T20:14:40+00:00",
+        "opening": {
+          "start": 32,
+          "stop": 122
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/9/mfz2chKHo25lwt9i.jpg"
+        }
+      },
+      {
+        "id": "98b443a8-78e4-43a2-9e92-59c53132dc6f",
+        "name": "Оба моих фамильяра слишком сильны!",
+        "nameEnglish": "",
+        "ordinal": 10,
+        "sortOrder": 9,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/10/480/728b00afc52156603c3cb8413fa0ba4d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/10/720/b3175270784ce4b26caa9c64aff1dc07.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/10/1080/de7906e205f00de89683b31461f15794.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-03-16T21:16:12+00:00",
+        "opening": {
+          "start": 41,
+          "stop": 131
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/10/J07hmw7Mf157j8Xm.jpg"
+        }
+      },
+      {
+        "id": "98c55a6d-17eb-4837-9e3b-3027bd813e24",
+        "name": "Подарок для жены!",
+        "nameEnglish": "",
+        "ordinal": 11,
+        "sortOrder": 10,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/11/480/b8a539ff95c56a4dea9493ea418812b6.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/11/720/4fa555eedaf95a0b408905acf8f4671f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/11/1080/1e276d5153a91fd795a63f11af509aaf.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-03-25T09:59:15+00:00",
+        "opening": {
+          "start": 98,
+          "stop": 188
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/11/ZrRe5pbddDkZvc8Y.jpg"
+        }
+      },
+      {
+        "id": "98d07bf6-29e7-4f7d-8da4-5b421a7bd3a1",
+        "name": "Еды и приключений хватит на всех!",
+        "nameEnglish": "",
+        "ordinal": 12,
+        "sortOrder": 11,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9365/12/480/00c41e6afb6815c9f1db5940ea54884b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9365/12/720/c674c536aaa9ac31380cdcf4fbfcc388.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9365/12/1080/55f42c3f20ff18f073368440b3bf632f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1436,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2023-03-30T22:01:29+00:00",
+        "opening": {
+          "start": 84,
+          "stop": 173
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9365/12/hJ7oo6IGcx1NrHoO.jpg"
+        }
+      }
+    ]
   }
 ]
