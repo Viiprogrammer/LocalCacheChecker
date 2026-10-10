@@ -12123,5 +12123,31 @@
     },
     "size": 8097235270,
     "seeders": 10
+  },
+  {
+    "releaseId": 8385,
+    "time": 1556053129,
+    "hash": "8ed3072315cfacfffe6c5f578d0dc17fcd7e9e45",
+    "id": 6846,
+    "magnet": "magnet:?xt=urn:btih:8ed3072315cfacfffe6c5f578d0dc17fcd7e9e45&dn=Robotics%3BNotes+-+AniLibria.TV+%5BBDRip+720p%5D&xl=16332221969&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Robotics;Notes - AniLiberty.TOP [BDRip 720p][AVC][1-22].torrent",
+    "description": "1-22",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 16332221969,
+    "seeders": 14
   }
 ]
