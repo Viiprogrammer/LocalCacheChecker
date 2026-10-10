@@ -13992,5 +13992,31 @@
     "size": 4864355988,
     "seeders": 12,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 758,
+    "time": 1550055001,
+    "hash": "ff3e1dae3fe7a4c20d5c102a88e8fa19b0dd19a4",
+    "id": 4731,
+    "magnet": "magnet:?xt=urn:btih:ff3e1dae3fe7a4c20d5c102a88e8fa19b0dd19a4&dn=God+Eater+-+AniLibria.TV+%5BHDTV-Rip_720p%5D&xl=8697939937&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "God Eater - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 8697939937,
+    "seeders": 12
   }
 ]

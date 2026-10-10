@@ -7007,5 +7007,28 @@
     "year": "2015",
     "isOngoing": false,
     "ageRating": "Запрещено для распространения среди детей (18+)"
+  },
+  {
+    "announce": "",
+    "code": "god-eater",
+    "countTorrents": 1,
+    "countVideos": 13,
+    "description": "В далёком будущем, огромные чудовища, имя которым \"арагами\" стали главной бедой человечества. Для противостояния им была создана организация \"Фенрир\", сотрудники которой вооружены \"божественными орудиями\", состоящими из клеток этих самых огромных монстров. Их называют - \"Пожиратели богов\". \n© Lupin, AniLibria.TV ",
+    "genres": "Приключения",
+    "id": 758,
+    "timestamp": 0,
+    "originalName": "God Eater",
+    "title": "Пожиратель богов [DEL]",
+    "poster": "/storage/releases/posters/758/6YAIfWYG6jjRE9gXiKQ2FYUbEMuuKNSy.jpg",
+    "rating": 4126,
+    "season": "Лето",
+    "series": "(13)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "ТВ",
+    "voices": "",
+    "team": "",
+    "year": "2015",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
