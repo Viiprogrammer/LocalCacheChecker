@@ -9282,5 +9282,31 @@
     },
     "size": 2165851792,
     "seeders": 24
+  },
+  {
+    "releaseId": 9279,
+    "time": 1671369183,
+    "hash": "5d05e97e4f7118f2d71597618b6b13fc8614d114",
+    "id": 21724,
+    "magnet": "magnet:?xt=urn:btih:5d05e97e4f7118f2d71597618b6b13fc8614d114&dn=Noumin+Kanren+no+Skill+Bakka+Agetetara+Nazeka+Tsuyoku+Natta+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=5076001248&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Noumin Kanren no Skill Bakka Agetetara Nazeka Tsuyoku Natta - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 5076001248,
+    "seeders": 35
   }
 ]
