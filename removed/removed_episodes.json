@@ -12985,5 +12985,235 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9951,
+    "items": [
+      {
+        "id": "9e51c1ee-88b8-4432-bb5b-08741932a841",
+        "name": "Тяжела корона",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/1/480/3c75844c1ce31d86a22c2fb5d4e8dc7a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/1/720/41796f1e7435d0fbf2a1169863dabfab.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/1/1080/a1e1fe3dd50c1aafe6e07c5a1e8bf905.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2415,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T14:49:10+00:00",
+        "opening": {
+          "start": 166,
+          "stop": 227
+        },
+        "ending": {
+          "start": 2228,
+          "stop": 2318
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/1/QCUm90GdIShqcJIg.jpg"
+        }
+      },
+      {
+        "id": "9e532c6a-fba1-4c68-adec-dde2f28850ed",
+        "name": "Смотрите, как все горит",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/2/480/7dc05fd3a37e6fd3c347f0e4607526f3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/2/720/ea41634831065c6f387dce3930c0f4e8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/2/1080/872b35e2c4ea82a614fa2a0d5fb5414a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2371,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T14:48:52+00:00",
+        "opening": {
+          "start": 133,
+          "stop": 194
+        },
+        "ending": {
+          "start": 2179,
+          "stop": 2270
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/2/D2IMEfuefe3xPOB7.jpg"
+        }
+      },
+      {
+        "id": "9e532da5-2e86-4398-a1fd-612106ce3991",
+        "name": "Наконец-то правильно назвала имя",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/3/480/9493c9a263848d2d027422c910f0b0ac.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/3/720/7f0a437e301486fa4b4e394553bbdd13.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/3/1080/23dff9accba6838f49f16b5debbf1964.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2406,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T15:14:38+00:00",
+        "opening": {
+          "start": 133,
+          "stop": 194
+        },
+        "ending": {
+          "start": 2179,
+          "stop": 2270
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/3/zmtvyIePppPi8JRr.jpg"
+        }
+      },
+      {
+        "id": "9e532ded-3a51-46d2-8029-95ce5f538148",
+        "name": "Покрасьте город в синий",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/4/480/fc5f7709a022d531e8135bfaf6762e71.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/4/720/bde410cfb221fe7e16ae86dbd7d13464.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/4/1080/62ce2076723e345f35043d66ff045724.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2346,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T19:22:03+00:00",
+        "opening": {
+          "start": 99,
+          "stop": 159
+        },
+        "ending": {
+          "start": 2158,
+          "stop": 2244
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/4/Fm0EHXOVefgE3TMD.jpg"
+        }
+      },
+      {
+        "id": "9e533411-202c-4ced-af70-92406490a71f",
+        "name": "Из камня, покрытого пузырями",
+        "nameEnglish": "",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/5/480/d474ad6e7dad44979e5d1c51c1031c7c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/5/720/a41adc337f7d70b04874e43fd7530e8e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/5/1080/4907e3d3063454ef17da1b077eb0c72b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2540,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T15:15:06+00:00",
+        "opening": {
+          "start": 230,
+          "stop": 292
+        },
+        "ending": {
+          "start": 2431,
+          "stop": 2443
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/5/obzMSKQvd7X4V8Fr.jpg"
+        }
+      },
+      {
+        "id": "9e53403d-bbfb-43ec-b0cc-3a85180f2c44",
+        "name": "Послание, скрытое в узоре",
+        "nameEnglish": "",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/6/480/60d47ecb67766f378220db1a1b3201ac.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/6/720/bbe64c2572907e7e6aaf09a21f1623f3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/6/1080/b76efecf46a9772c83c6a9bae4bc3ae1.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2367,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T15:09:10+00:00",
+        "opening": {
+          "start": 125,
+          "stop": 185
+        },
+        "ending": {
+          "start": 2180,
+          "stop": 2268
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/6/xVsAOjYAKNywmA33.jpg"
+        }
+      },
+      {
+        "id": "9e53cafa-232c-4847-a421-e888dbd0392e",
+        "name": "Притворись, что это в первый раз",
+        "nameEnglish": "",
+        "ordinal": 7,
+        "sortOrder": 6,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/7/480/d5c139e154a1fee7fd17ef2a20c5566c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/7/720/8aadfd1f981e4c5100273d6ea3c1feae.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/7/1080/b0423c657e78626448a91fc1240ad805.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2493,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-04-17T16:32:18+00:00",
+        "opening": {
+          "start": 111,
+          "stop": 171
+        },
+        "ending": {
+          "start": 2308,
+          "stop": 2339
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/7/CkhmZQ2fueFzHQ74.jpg"
+        }
+      },
+      {
+        "id": "9e53ec71-0785-496b-858e-68998ba8bd3b",
+        "name": "Убийство - это цикл",
+        "nameEnglish": "",
+        "ordinal": 8,
+        "sortOrder": 7,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/8/480/e02eae4b9bcee9dfe180e199dd74ffc5.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/8/720/cdbb86f5900dfa4ba0369a1a191b19b1.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/8/1080/105bf63c052f815821fbf874e59f29b6.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 2412,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T15:13:01+00:00",
+        "opening": {
+          "start": 276,
+          "stop": 337
+        },
+        "ending": {
+          "start": 2230,
+          "stop": 2310
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/8/1gYtopgmUYw599pv.jpg"
+        }
+      },
+      {
+        "id": "9e53fd33-02dd-4c4e-85b0-948e95d4c7e7",
+        "name": "Грязь под твоими ногтями",
+        "nameEnglish": "",
+        "ordinal": 9,
+        "sortOrder": 8,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9951/9/480/909bbd49d88835793ff73cd2d72b7e87.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9951/9/720/9a64601bfd98658a36ee95a02a0e0898.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9951/9/1080/ce419ed7280a39c28948efe86b6e8505.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 3021,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-03-01T15:14:22+00:00",
+        "opening": {
+          "start": 193,
+          "stop": 254
+        },
+        "ending": {
+          "start": 2824,
+          "stop": 2835
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9951/9/09AKEIsitkBEQE0c.jpg"
+        }
+      }
+    ]
   }
 ]

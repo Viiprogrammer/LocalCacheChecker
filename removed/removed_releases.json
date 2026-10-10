@@ -987,5 +987,28 @@
     "year": "2025",
     "isOngoing": true,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "arcane-league-of-legends-2",
+    "countTorrents": 2,
+    "countVideos": 9,
+    "description": null,
+    "genres": "Драма, Экшен, Фантастика, Фэнтези",
+    "id": 9951,
+    "originalName": "Arcane: League of Legends",
+    "poster": "/storage/releases/posters/9951/Ijuj3aHjTKbTehIOQ3fV2akK1UerTGF0.jpg",
+    "rating": 2341,
+    "season": "Зима",
+    "series": "(9)",
+    "status": "Озвучка завершена",
+    "timestamp": 1740843595,
+    "title": "Аркейн: Лига Легенд 2 [DEL]",
+    "type": "ОNA",
+    "voices": "SlivciS, OkanaTsoy, Dejz, Zozya, Amikiri, Cleo-chan, NastyhaGrizli",
+    "team": "SlivciS, OkanaTsoy, Dejz, Zozya, Amikiri, Cleo-chan, NastyhaGrizli, Команда переводчиков AniLibria, yuma",
+    "year": "2025",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
