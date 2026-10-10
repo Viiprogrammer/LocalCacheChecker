@@ -3592,5 +3592,57 @@
     },
     "size": 3080858443,
     "seeders": 25
+  },
+  {
+    "releaseId": 9814,
+    "time": 1734375344,
+    "hash": "fc598e138e08cf5e140d840c7f61f0222f84a4c3",
+    "id": 31695,
+    "magnet": "magnet:?xt=urn:btih:fc598e138e08cf5e140d840c7f61f0222f84a4c3&dn=Maou-sama%2C+Retry%21+R+-+AniLibria+%5BWEBRip+1080p%5D&xl=17922059158&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Maou-sama, Retry! R - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17922059158,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9814,
+    "time": 1734417828,
+    "hash": "4f59e75c425d9b2329784e69b80275d3ad6da81b",
+    "id": 31701,
+    "magnet": "magnet:?xt=urn:btih:4f59e75c425d9b2329784e69b80275d3ad6da81b&dn=Maou-sama%2C+Retry%21+R+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2941002992&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Maou-sama, Retry! R - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2941002992,
+    "seeders": 29
   }
 ]
