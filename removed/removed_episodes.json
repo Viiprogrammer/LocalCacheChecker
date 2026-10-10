@@ -9720,5 +9720,160 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10168,
+    "items": [
+      {
+        "id": "a186074b-f2c4-4a58-8aad-5f29026c66d4",
+        "name": "Страшно-Страшный учитель",
+        "nameEnglish": "Spooky Scary Sensei",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10168/1/480/4caba35ee2f6aff1d1c549057e58863c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10168/1/720/690a913786b3a89f7bf42f8e86d64025.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10168/1/1080/0fb39556b6fe9a461a414c42e46c8496.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1422,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-04-19T14:22:50+00:00",
+        "opening": {
+          "start": 5,
+          "stop": 89
+        },
+        "ending": {
+          "start": 1331,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10168/1/CUoOHlCoTlJehnOe.jpg"
+        }
+      },
+      {
+        "id": "a194d8be-06fc-4191-ac01-c724e9b2aec3",
+        "name": "Слабый-слабый после школы",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10168/2/480/d4baa7c1a1fa36b6de2aa3a06e8e98d3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10168/2/720/145b99156090699c3900b800078e63a3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10168/2/1080/0c264ac6cd9389ae1b30790ffc0063e8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1422,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-04-19T14:06:35+00:00",
+        "opening": {
+          "start": 7,
+          "stop": 91
+        },
+        "ending": {
+          "start": 1332,
+          "stop": 1422
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10168/2/CpWThEKhWOnH3NSQ.jpg"
+        }
+      },
+      {
+        "id": "a1a30829-f56d-40c4-9bd1-66d601d63287",
+        "name": "Общение через прикосновения",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10168/3/480/77172f9bf68480dab6ad8d78773ede35.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10168/3/720/d01155b84aad4e003927da1b799221be.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10168/3/1080/963515e5989347a63bb129fd64475e02.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1422,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-04-26T15:20:46+00:00",
+        "opening": {
+          "start": 7,
+          "stop": 91
+        },
+        "ending": {
+          "start": 1332,
+          "stop": 1422
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10168/3/8VLLSgxJJxKDb0xP.jpg"
+        }
+      },
+      {
+        "id": "a1b20ceb-6a59-4a61-96c0-4e16dff75bc3",
+        "name": "Слабый-слабый школьный лагерь",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10168/4/480/6a4c01bfa64e82927f3add6efbf8b901.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10168/4/720/9dae8fbba6f55e6d18d75285860e7c2d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10168/4/1080/336f1c1736ea34bf59839086ee026ea7.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1422,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-05-04T02:31:59+00:00",
+        "opening": {
+          "start": 7,
+          "stop": 90
+        },
+        "ending": {
+          "start": 1332,
+          "stop": 1422
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10168/4/K6IueuHSzUzjKTEV.jpg"
+        }
+      },
+      {
+        "id": "a1beeb52-9f41-43f9-9ea0-0ab0143e9d5a",
+        "name": "Слабо-слабое свидание",
+        "nameEnglish": "A Weak and Wimpy Date",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10168/5/480/878f875431f9504a3d2ed0336219ec82.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10168/5/720/752b204ed99ce15ee81233ab15ccb608.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10168/5/1080/74e68b8281b5bb811df130706bcfa411.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1422,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-05-10T12:03:51+00:00",
+        "opening": {
+          "start": 5,
+          "stop": 89
+        },
+        "ending": {
+          "start": 1331,
+          "stop": 1421
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10168/5/RT81yzlRRcHgiNjG.jpg"
+        }
+      },
+      {
+        "id": "a1ce41a2-291c-4c45-9a58-c55e8431c67a",
+        "name": "Слабый-слабый шантаж",
+        "nameEnglish": "",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10168/6/480/1b79ac89f79b888024aafc1cd1db4347.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10168/6/720/bd3afb1b206e75b364f82ec569d9b246.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10168/6/1080/e42e5d545bc75093f63db88971822d1f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1422,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-05-18T03:01:58+00:00",
+        "opening": {
+          "start": 7,
+          "stop": 91
+        },
+        "ending": {
+          "start": 1332,
+          "stop": 1422
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10168/6/w1i770ZTthEelliT.jpg"
+        }
+      }
+    ]
   }
 ]
