@@ -12436,5 +12436,31 @@
     },
     "size": 4377995537,
     "seeders": 14
+  },
+  {
+    "releaseId": 8368,
+    "time": 1555030659,
+    "hash": "789c94110ceb7c1892dcf17267e0b14ec3e8d979",
+    "id": 6753,
+    "magnet": "magnet:?xt=urn:btih:789c94110ceb7c1892dcf17267e0b14ec3e8d979&dn=Gin+no+Saji+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4040439963&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Gin no  Saji  - AniLiberty.TOP [HDTVRip 720p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4040439963,
+    "seeders": 10
   }
 ]
