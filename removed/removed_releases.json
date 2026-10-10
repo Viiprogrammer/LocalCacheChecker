@@ -4427,5 +4427,28 @@
     "year": "2022",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "super-crooks",
+    "countTorrents": 2,
+    "countVideos": 13,
+    "description": "Мелкий мошенник Джонни Болт набирает команду из восьми суперзлодеев, чтобы совершить сверхмощное ограбление в Японии.",
+    "genres": "Сёнен, Фантастика, Этти",
+    "id": 9146,
+    "originalName": "Super Crooks",
+    "poster": "/storage/releases/posters/9146/yiAemndmliYMj7RHERlYUbtZUNVRPxhI.jpg",
+    "rating": 1930,
+    "season": "Осень",
+    "series": "(13)",
+    "status": "Озвучка завершена",
+    "timestamp": 1648405708,
+    "title": "Супер Воры [DEL]",
+    "type": "ТВ",
+    "voices": "Lupin, Itashi, Zozya",
+    "team": "Lupin, Itashi, Zozya, Den Sato",
+    "year": "2021",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

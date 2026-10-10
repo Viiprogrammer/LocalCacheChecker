@@ -9835,5 +9835,57 @@
     "size": 7018776115,
     "seeders": 29,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9146,
+    "time": 1648575021,
+    "hash": "50a5ef62b1e17f64e3541959c527164f4d3b5427",
+    "id": 18846,
+    "magnet": "magnet:?xt=urn:btih:50a5ef62b1e17f64e3541959c527164f4d3b5427&dn=Super+Crooks+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=16275540789&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Super Crooks - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 16275540789,
+    "seeders": 9
+  },
+  {
+    "releaseId": 9146,
+    "time": 1648575021,
+    "hash": "f6db43b1043fcc24fa44679924fa2c80f971105a",
+    "id": 18865,
+    "magnet": "magnet:?xt=urn:btih:f6db43b1043fcc24fa44679924fa2c80f971105a&dn=Super+Crooks+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2779445403&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Super Crooks - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 2779445403,
+    "seeders": 12
   }
 ]
