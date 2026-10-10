@@ -1662,5 +1662,57 @@
     },
     "size": 2393769329,
     "seeders": 32
+  },
+  {
+    "releaseId": 10111,
+    "time": 1768401842,
+    "hash": "eed351c8c752b38f122ad1a93a9f3faf8ff59772",
+    "id": 36622,
+    "magnet": "magnet:?xt=urn:btih:eed351c8c752b38f122ad1a93a9f3faf8ff59772&dn=Toumei+Otoko+to+Ningen+Onna+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=143127536&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Toumei Otoko to Ningen Onna- Sonouchi Fuufu ni Naru Futari - AniLibria.TOP [WEB-DL 1080p][HEVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 143127536,
+    "seeders": 42
+  },
+  {
+    "releaseId": 10111,
+    "time": 1768586969,
+    "hash": "c87e42fe3d102331fc6de28d0ad9ea54afb3341e",
+    "id": 36649,
+    "magnet": "magnet:?xt=urn:btih:c87e42fe3d102331fc6de28d0ad9ea54afb3341e&dn=Toumei+Otoko+to+Ningen+Onna+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=3002549182&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Toumei Otoko to Ningen Onna- Sonouchi Fuufu ni Naru Futari - AniLibria.TOP [WEB-DL 1080p][AVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 3002549182,
+    "seeders": 10
   }
 ]

@@ -10687,5 +10687,57 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10111,
+    "items": [
+      {
+        "id": "a0d5bff6-9d12-470d-bd3c-1cf1b23d63e1",
+        "name": "Пара, обречённая на свадьбу",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10111/1/480/9785a4f81671ef4ba29b9fa4e3092657.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10111/1/720/283c9f584e5b73410c11018d7ca9f4c5.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10111/1/1080/4f0f91ae21f2179ed3a8cb1cb21c6bef.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-01-14T14:16:24+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1330,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10111/1/yCmAl5Iez83gIHeV.jpg"
+        }
+      },
+      {
+        "id": "a0da18ff-e3db-46f8-adaf-703fd06f1fe3",
+        "name": "Большие планы на свидание",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10111/2/480/6998ed3fbf7ea467f0d1b50514ebf2aa.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10111/2/720/cb671bae01093fa6f8e4108c67d8fb2e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10111/2/1080/81dd00e77dc0ea291855f81a370329f9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2026-01-16T18:11:58+00:00",
+        "opening": {
+          "start": 1,
+          "stop": 90
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10111/2/y4HZTedaOQYDCGCD.jpg"
+        }
+      }
+    ]
   }
 ]
