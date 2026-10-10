@@ -6948,5 +6948,57 @@
     },
     "size": 1031341758,
     "seeders": 15
+  },
+  {
+    "releaseId": 9711,
+    "time": 1711744098,
+    "hash": "c6652fb0f0adc5c5d9df9ec60ad7c0cded4f256c",
+    "id": 28166,
+    "magnet": "magnet:?xt=urn:btih:c6652fb0f0adc5c5d9df9ec60ad7c0cded4f256c&dn=Alice_to_Therese_no_Maboroshi_Koujou_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=4836700307&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Alice to Therese no Maboroshi Koujou - AniLiberty.TOP [BDRip 1080p][AVC][фильм].torrent",
+    "description": "фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 4836700307,
+    "seeders": 22
+  },
+  {
+    "releaseId": 9711,
+    "time": 1712308542,
+    "hash": "daf8a20aef2eaeefa24bd69902b8d74f4c1ded1b",
+    "id": 28234,
+    "magnet": "magnet:?xt=urn:btih:daf8a20aef2eaeefa24bd69902b8d74f4c1ded1b&dn=Alice_to_Therese_no_Maboroshi_Koujou_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=1237460314&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Alice to Therese no Maboroshi Koujou - AniLiberty.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1237460314,
+    "seeders": 20
   }
 ]
