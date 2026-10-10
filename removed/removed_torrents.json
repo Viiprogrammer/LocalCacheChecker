@@ -8866,5 +8866,31 @@
     "size": 4127811921,
     "seeders": 18,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9324,
+    "time": 1668901718,
+    "hash": "99c0f23bc03357f145da83fb945d89a851e8f8bd",
+    "id": 21417,
+    "magnet": "magnet:?xt=urn:btih:99c0f23bc03357f145da83fb945d89a851e8f8bd&dn=Nanatsu+no+Taizai+Movie+2+Hikari+ni+Norowareshi+Mono-tachi+-+AniLibria.TV+%5BWEB-DLRip+1080p%5D&xl=2595292115&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Nanatsu no Taizai Movie 2- Hikari ni Norowareshi Mono-tachi - AniLiberty.TOP [WEB-DLRip 1080p][AVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 2595292115,
+    "seeders": 14
   }
 ]
