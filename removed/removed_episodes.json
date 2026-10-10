@@ -28418,5 +28418,635 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9787,
+    "items": [
+      {
+        "id": "9d3e26e1-2255-48c5-b335-5058a6c94d84",
+        "name": "Полуголый птицечеловек с друзьями в раю для големов",
+        "nameEnglish": "",
+        "updatedAt": "2024-10-14T11:20:12+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/1/480/080cebfa3d7da3a275a5b993358340a6.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/1/720/d52ea6619489d268c4c6f8fc05523be6.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/1/1080/405e3d668df4f179bb837e26efcb5e65.m3u8",
+        "duration": 1430,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 134,
+          "start": 48
+        },
+        "ending": {
+          "stop": 1272,
+          "start": 1183
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/1/59u1o7oF1IDz1OU2.jpg"
+        }
+      },
+      {
+        "id": "9d4c4094-7ec3-4ff1-9fd6-76b5a363255b",
+        "name": "Непреклонный страж врат",
+        "nameEnglish": "",
+        "updatedAt": "2024-11-10T18:25:39+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/2/480/cd29c13d7e11e4b47291856a2fb5f9bb.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/2/720/bdbe10f3593eb1b0c7c12ca861db3bd2.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/2/1080/94331e7ec8acf5f0e214272c062868df.m3u8",
+        "duration": 1430,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 125,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1363,
+          "start": 1273
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/2/bvpSXgFEZVmRC12u.jpg"
+        }
+      },
+      {
+        "id": "9d5a0640-f3b7-457e-8b47-fc6689c9fd9c",
+        "name": "Внезапные встречи, сильные желания и новые начинания",
+        "nameEnglish": "",
+        "updatedAt": "2024-10-28T07:35:29+00:00",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/3/480/3140852152841a5991bae702cb40a2c6.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/3/720/ce6e202518707bc6c9d88b67a36b0171.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/3/1080/f9643746f42f3edce39ee7efb63b497b.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 122,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1332
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/3/nvKpTmVUNfgWhoZA.jpg"
+        }
+      },
+      {
+        "id": "9d6870dc-4ecc-4919-adf0-b35a5ef296ee",
+        "name": "Мечты о невозможном ведут человечество в небеса",
+        "nameEnglish": "",
+        "updatedAt": "2024-11-10T18:44:34+00:00",
+        "ordinal": 4,
+        "sortOrder": 4,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/4/480/914ced07f30f9c47d03605eb545abae9.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/4/720/2841e20862ba43293f421603dafa6be4.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/4/1080/66417b2282dc4a52f1d1332b56569db4.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 153,
+          "start": 67
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1332
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/4/yfB5sks1yll7Ne96.jpg"
+        }
+      },
+      {
+        "id": "9d76546c-a24a-4010-a3bb-6514d439a928",
+        "name": "Пробуждение голода и настойчивость жажды",
+        "nameEnglish": "",
+        "updatedAt": "2024-11-11T09:23:16+00:00",
+        "ordinal": 5,
+        "sortOrder": 5,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/5/480/63927e57a21cf6d86f0e9c79aa9ffa86.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/5/720/4f908220690425e74ecf3c79e0cde6b9.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/5/1080/0db67e3dbc8ea68a324abd0c147d8c05.m3u8",
+        "duration": 1430,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 124,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1359,
+          "start": 1269
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/5/1hX1KOupV4KGxAuE.jpg"
+        }
+      },
+      {
+        "id": "9d84991f-5e9d-4123-8a23-ef01ab926f5f",
+        "name": "Отчаяние после яростной битвы",
+        "nameEnglish": "",
+        "updatedAt": "2025-03-10T22:12:56+00:00",
+        "ordinal": 6,
+        "sortOrder": 6,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/6/480/79055d90b230a4742ff8a16025e67218.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/6/720/65c5cf05e906cd14d6b82dfc3d66aa58.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/6/1080/b19982f78c99224f65ad2d1e5cc125f7.m3u8",
+        "duration": 1438,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 135,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1309,
+          "start": 1219
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/6/n44ySbR42Sy62aAG.jpg"
+        }
+      },
+      {
+        "id": "9d92eac6-1dcd-4197-a383-c186d2c314ea",
+        "name": "Крылья и ничья",
+        "nameEnglish": "",
+        "updatedAt": "2024-11-25T14:28:24+00:00",
+        "ordinal": 7,
+        "sortOrder": 7,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/7/480/1e2520372963b6d050c7083bfe3470c4.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/7/720/8fddf1d7a25cbb66fdd925ac42c8dd48.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/7/1080/d673a3bbb10a01401d152dbe2cac1fc0.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 135,
+          "start": 49
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1332
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/7/oRkEaITkryZlvzH0.jpg"
+        }
+      },
+      {
+        "id": "9da08384-3b16-460b-9551-abe91aa92783",
+        "name": "Лев ловит кролика изо всех сил Краб же ловит феникса пиццерезкой",
+        "nameEnglish": "",
+        "updatedAt": "2024-12-02T08:34:34+00:00",
+        "ordinal": 8,
+        "sortOrder": 8,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/8/480/39c72835d3700c13706093241c3a63df.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/8/720/02e6c528cef3ab8c7e7186671e053f62.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/8/1080/7c6458bc1bc85dd27f7b91e65fa13295.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 138,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/8/izxREeU0Uh9GCBHj.jpg"
+        }
+      },
+      {
+        "id": "9daecc6d-58c9-41fd-8fe1-4869ea583159",
+        "name": "Забег, движимый нетерпением",
+        "nameEnglish": "",
+        "updatedAt": "2024-12-09T11:00:00+00:00",
+        "ordinal": 9,
+        "sortOrder": 9,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/9/480/e118a22ba091191d0ef22bea650dde12.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/9/720/73533de9398c42c51a3490c3fea0214b.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/9/1080/6ed9f3e5c97038004e8801a26510ae66.m3u8",
+        "duration": 1430,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 97,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1316,
+          "start": 1226
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/9/L6WvU95pE1Q3OGka.jpg"
+        }
+      },
+      {
+        "id": "9dbcecf5-aafd-4e49-8f63-65ca7d732b7c",
+        "name": "По следам, словно гончая",
+        "nameEnglish": "",
+        "updatedAt": "2024-12-16T11:48:20+00:00",
+        "ordinal": 10,
+        "sortOrder": 10,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/10/480/38d85b863ccaf4ce9a5cb37613da0ba1.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/10/720/e17f9d6609f340cb2d6f1a6b0ae7709b.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/10/1080/c7948977f7e2b6bf08ff49ad4a3d74c3.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 122,
+          "start": 39
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1332
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/10/xwLjeIINdHUVPemu.jpg"
+        }
+      },
+      {
+        "id": "9dcaf5d0-bf00-40cc-8939-73d180fd850d",
+        "name": "Прими свет амбиций, часть 1",
+        "nameEnglish": "",
+        "updatedAt": "2024-12-23T11:01:52+00:00",
+        "ordinal": 11,
+        "sortOrder": 11,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/11/480/0c6315026bab55b8c4d13de678a0fa14.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/11/720/4483ebbecc1626197bf2a50beec8109a.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/11/1080/4f84f5ce00ce7786b34d1407bdff3da4.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 88,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1332
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/11/UET8hISAyin98xF3.jpg"
+        }
+      },
+      {
+        "id": "9dd7ffa2-d4d7-4230-b3db-1717de296bc3",
+        "name": "Прими свет амбиций, часть 2",
+        "nameEnglish": "",
+        "updatedAt": "2024-12-29T22:36:08+00:00",
+        "ordinal": 12,
+        "sortOrder": 12,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/12/480/a7035e566c68aac1a0725e57cdf082f4.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/12/720/f9ceb2980f23de937180a0bef645182a.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/12/1080/463fd585c95c0b70b010cbcb74fcd246.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 119,
+          "start": 34
+        },
+        "ending": {
+          "stop": 1400,
+          "start": 1310
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/12/KKSCmiDRqdUQg1dx.jpg"
+        }
+      },
+      {
+        "id": "9de72da8-0a37-459b-bfd9-7b7a51e9b54c",
+        "name": "Прими свет амбиций, часть 3",
+        "nameEnglish": "",
+        "updatedAt": "2025-01-13T10:07:25+00:00",
+        "ordinal": 13,
+        "sortOrder": 13,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/13/480/196c2f4769542505b984e9d86dbee060.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/13/720/cbd28f9938b0b2438c21a76083c49f22.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/13/1080/4cc03a448e79161d962d27c55049de77.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 124,
+          "start": 34
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1332
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/13/w5mYeJqZPEeAI1Gc.jpg"
+        }
+      },
+      {
+        "id": "9df54aff-42f1-41e9-9733-e4bd3e6bbc2a",
+        "name": "Прими свет амбиций, часть 4",
+        "nameEnglish": "",
+        "updatedAt": "2025-01-13T12:07:17+00:00",
+        "ordinal": 14,
+        "sortOrder": 14,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/14/480/69d3208596c91ea9395787cffe56accc.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/14/720/8d815881a34e8200369a8e42cd7bb105.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/14/1080/4edc67d8b2c1a79d973f372337105859.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 184,
+          "start": 98
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/14/bB6pgJXIhLpN4yNm.jpg"
+        }
+      },
+      {
+        "id": "9e03b0ca-771e-4806-be6b-d860e0e582be",
+        "name": "Прими свет амбиций, часть 5",
+        "nameEnglish": "",
+        "updatedAt": "2025-01-20T15:48:01+00:00",
+        "ordinal": 15,
+        "sortOrder": 15,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/15/480/274460528b93840c858f1fb9ef448278.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/15/720/ff30afa78973a2e3ce0b68d03ff50033.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/15/1080/bb1b4190062fd48ffd62936a6fce4719.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 86,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/15/CYo9a3AqWURpM4gj.jpg"
+        }
+      },
+      {
+        "id": "9e1143d2-591e-4c23-a1c0-3eef887d278e",
+        "name": "Зачем ты играешь в игры? Их ответы",
+        "nameEnglish": "",
+        "updatedAt": "2025-01-27T09:45:30+00:00",
+        "ordinal": 16,
+        "sortOrder": 16,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/16/480/13a902219c8c47e090c6591d369ae7af.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/16/720/3f87d27c4d92e67fef5566d08dfb9708.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/16/1080/4af81deae31573342af0eb08dabb8ef9.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 85,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/16/C1faLnLuqqcoboZv.jpg"
+        }
+      },
+      {
+        "id": "9e1f6f08-fb94-47d0-97ed-a920f793a873",
+        "name": "Стрит-флэш и пара джокеров",
+        "nameEnglish": "",
+        "updatedAt": "2025-03-10T22:31:38+00:00",
+        "ordinal": 17,
+        "sortOrder": 17,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/17/480/330e29b6e26c1330aa2e08bfd2c5f85e.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/17/720/94ba078ad824133e6c7ddf236365faca.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/17/1080/bb1bfdf1373d7e148db9f905dbc56906.m3u8",
+        "duration": 1419,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 151,
+          "start": 65
+        },
+        "ending": {
+          "stop": 1418,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/17/THGg0jZOxLGduexi.jpg"
+        }
+      },
+      {
+        "id": "9e2d8841-10a1-4bb3-8772-0f1ac2fce1f4",
+        "name": "Встреча Алого кита с рыбами-монстрами",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-10T11:00:24+00:00",
+        "ordinal": 18,
+        "sortOrder": 18,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/18/480/4cfa1a216aac81b0da581ec65a9dbcfc.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/18/720/24f3aa3b1f8505386027719cddeaecdb.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/18/1080/db720d2c44087eebb08fabb132f203a2.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 84,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/18/Hn6kUmVT2fvi0229.jpg"
+        }
+      },
+      {
+        "id": "9e3b9936-8352-4f22-864b-25ac29fc23d6",
+        "name": "Пробудись, Перевёрнутый Город, ведь покоя тебе не видать",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-17T10:52:18+00:00",
+        "ordinal": 19,
+        "sortOrder": 19,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/19/480/f39f454994218e0d490e52e304fe6758.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/19/720/1e6b1e6c35b04205d168632051df8c85.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/19/1080/59c0fa85871b1655a5d62e086f43f350.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 85,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/19/JZ3TJXhBy4MXexEJ.jpg"
+        }
+      },
+      {
+        "id": "9e49bfd7-4c80-4566-abe6-ea88fd4c7d81",
+        "name": "Филе из рыбодракона",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-24T11:41:11+00:00",
+        "ordinal": 20,
+        "sortOrder": 20,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/20/480/a9134f559581109dd69b728fa78570b6.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/20/720/da5aa69680db4f268aae679be04a8d85.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/20/1080/7d6f57ea395871ce26f74e13ad757f43.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 148,
+          "start": 63
+        },
+        "ending": {
+          "stop": 1393,
+          "start": 1304
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/20/CL7RArFnwVNo4N2r.jpg"
+        }
+      },
+      {
+        "id": "9e577c7a-5864-40f5-8a95-78a7fa43cf05",
+        "name": "Отважные волки: Из пучины моря к небоскрёбам",
+        "nameEnglish": "",
+        "updatedAt": "2025-03-03T07:29:30+00:00",
+        "ordinal": 21,
+        "sortOrder": 21,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/21/480/1bcea7b117af15962aba4500e2ea70a4.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/21/720/005199a60992db842315542defe0fd38.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/21/1080/fa73bbcb66a137317b47eea2c69dea86.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 82,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/21/6GkFlwXi5jnn5LPw.jpg"
+        }
+      },
+      {
+        "id": "9e65e4ab-3b27-4886-9bb2-b6370bef33b7",
+        "name": "Свет сияет ярко лишь мгновение",
+        "nameEnglish": "",
+        "updatedAt": "2025-03-10T21:52:49+00:00",
+        "ordinal": 22,
+        "sortOrder": 22,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/22/480/ae288e863d8115c7ed1b6468e60c1be1.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/22/720/b6c8ea41bf92d1ed40a57444b7ff7bae.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/22/1080/c64c36cdbdd4a4b73233e0cd318c4a01.m3u8",
+        "duration": 1430,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 85,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1359,
+          "start": 1270
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/22/jJ1Ci6CWtPK0FKt4.jpg"
+        }
+      },
+      {
+        "id": "9e73f238-1943-4f76-b610-39f7b711938b",
+        "name": "}Угроза со скоростью сто метров в секунду",
+        "nameEnglish": "",
+        "updatedAt": "2025-03-17T11:05:19+00:00",
+        "ordinal": 23,
+        "sortOrder": 23,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/23/480/0c03a5b2b300aa71d0b122a0fef021f0.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/23/720/f59302a0b16b88fdbe4dce592b0105a0.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/23/1080/52de206e0f8c13a6248f48289be44110.m3u8",
+        "duration": 1572,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 85,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/23/tmvdHnsQ9CPWt8Nl.jpg"
+        }
+      },
+      {
+        "id": "9e819b27-77ac-413a-82b9-dd99831586cb",
+        "name": "О великий король глубин, смиренно прошу вас подохнуть",
+        "nameEnglish": "",
+        "updatedAt": "2025-03-24T06:06:19+00:00",
+        "ordinal": 24,
+        "sortOrder": 24,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/24/480/b7adff72f2efb6e6d98d70035ecc6e6c.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/24/720/46154e93aceb7e27ef229275da929f9e.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/24/1080/66dbd09b91ebd881b6028b2b4ec76975.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 120,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1333
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/24/9oPdtv0UeQMNsC8M.jpg"
+        }
+      },
+      {
+        "id": "9e90234c-5255-4534-908d-5716404b550d",
+        "name": "Загадочная (а ещё дурная) команда и большие проблемы",
+        "nameEnglish": "",
+        "updatedAt": "2025-03-31T11:22:02+00:00",
+        "ordinal": 25,
+        "sortOrder": 25,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9787/25/480/ad14b674c5f5e9be767f5bc104f63a2f.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9787/25/720/fdb17e16e79d5b3e8721c855a660e63e.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9787/25/1080/2fee428aeb7bbcdb2ff9adbe0a4f0a65.m3u8",
+        "duration": 1407,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 83,
+          "start": 1
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9787/25/dF1BIylbVqh8yIbR.jpg"
+        }
+      }
+    ]
   }
 ]
