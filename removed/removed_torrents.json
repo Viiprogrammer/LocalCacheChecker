@@ -7524,5 +7524,57 @@
     },
     "size": 2848396716,
     "seeders": 32
+  },
+  {
+    "releaseId": 9621,
+    "time": 1711485811,
+    "hash": "e6031e2273d684c4d83a205705e2b3eb53cf6c45",
+    "id": 28130,
+    "magnet": "magnet:?xt=urn:btih:e6031e2273d684c4d83a205705e2b3eb53cf6c45&dn=Yubisaki+to+Renren+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=18079237309&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yubisaki to Renren - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18079237309,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9621,
+    "time": 1712929634,
+    "hash": "c55acac9b5c3fc5e5dbaba67088b77f2cf5d2fcb",
+    "id": 28313,
+    "magnet": "magnet:?xt=urn:btih:c55acac9b5c3fc5e5dbaba67088b77f2cf5d2fcb&dn=Yubisaki+to+Renren+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2394891496&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yubisaki to Renren - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2394891496,
+    "seeders": 20
   }
 ]
