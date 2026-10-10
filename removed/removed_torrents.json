@@ -1402,5 +1402,57 @@
     },
     "size": 12411260138,
     "seeders": 1
+  },
+  {
+    "releaseId": 10192,
+    "time": 1780518092,
+    "hash": "7a44d3c3bc1d96ae85daef0e5c27c62c1fd160e8",
+    "id": 38539,
+    "magnet": "magnet:?xt=urn:btih:7a44d3c3bc1d96ae85daef0e5c27c62c1fd160e8&dn=Needy+Girl+Overdose+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=13713461983&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Needy Girl Overdose - AniLiberty.TOP [WEB-DL 1080p][AVC][1-9].torrent",
+    "description": "1-9",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 13713461983,
+    "seeders": 19
+  },
+  {
+    "releaseId": 10192,
+    "time": 1780645392,
+    "hash": "c621fc82e26690430ba0ff49900d60cab4c3bdbc",
+    "id": 38555,
+    "magnet": "magnet:?xt=urn:btih:c621fc82e26690430ba0ff49900d60cab4c3bdbc&dn=Needy+Girl+Overdose+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=3481349698&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Needy Girl Overdose - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-9].torrent",
+    "description": "1-9",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 3481349698,
+    "seeders": 27
   }
 ]
