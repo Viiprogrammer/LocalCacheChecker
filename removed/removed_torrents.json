@@ -12801,5 +12801,31 @@
     },
     "size": 4263615296,
     "seeders": 13
+  },
+  {
+    "releaseId": 8353,
+    "time": 1554396444,
+    "hash": "be354a978780b3ad0eb84230229e29fb116848f9",
+    "id": 6669,
+    "magnet": "magnet:?xt=urn:btih:be354a978780b3ad0eb84230229e29fb116848f9&dn=Danganronpa+%282013%29+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=5150275881&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Danganronpa (2013) - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 5150275881,
+    "seeders": 10
   }
 ]
