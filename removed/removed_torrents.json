@@ -7680,5 +7680,31 @@
     },
     "size": 3446281090,
     "seeders": 45
+  },
+  {
+    "releaseId": 9603,
+    "time": 1711995048,
+    "hash": "78841eaa92e7a505a4a87ba2a1e9dfe609fbfc7e",
+    "id": 28199,
+    "magnet": "magnet:?xt=urn:btih:78841eaa92e7a505a4a87ba2a1e9dfe609fbfc7e&dn=Boku+no+Kokoro+no+Yabai+Yatsu+2nd+Season+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=5024752269&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Boku no Kokoro no Yabai Yatsu Season 2 - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 5024752269,
+    "seeders": 33
   }
 ]
