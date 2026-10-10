@@ -11038,5 +11038,31 @@
     },
     "size": 3828134871,
     "seeders": 12
+  },
+  {
+    "releaseId": 8755,
+    "time": 1595159184,
+    "hash": "a4034d13c20928dae1b09f5b4b4fa8c144b81a87",
+    "id": 11151,
+    "magnet": "magnet:?xt=urn:btih:a4034d13c20928dae1b09f5b4b4fa8c144b81a87&dn=Togainu+no+Chi+-+%5BAniLibria.TV%5D+%5BHDTVRip+720p%5D&xl=2896895943&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Togainu no Chi - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 2896895943,
+    "seeders": 2
   }
 ]

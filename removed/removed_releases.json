@@ -4922,5 +4922,28 @@
     "year": "2024",
     "isOngoing": false,
     "ageRating": "Запрещено для распространения среди детей (18+)"
+  },
+  {
+    "announce": "",
+    "code": "togainu-no-chi",
+    "countTorrents": 1,
+    "countVideos": 12,
+    "description": "Разоренная после Третьей Мировой войны Япония раскололась на две части. Спустя несколько лет после окончания войны преступная организация под названием «Вискио» получает контроль над разрушенным городом Тошима (ранее известный как Токио, столица Японии), где ее члены организуют смертельную «Игру»",
+    "genres": "Экшен, Фантастика",
+    "id": 8755,
+    "originalName": "Togainu no Chi",
+    "poster": "/storage/releases/posters/8755/HPmVDwpzcazyAgE78X6Hc4rvKWu9mZeS.jpg",
+    "rating": 2326,
+    "season": "Осень",
+    "series": "(12)",
+    "status": "Озвучка завершена",
+    "timestamp": 1595164810,
+    "title": "Кровь окаянного пса [DEL]",
+    "type": "ТВ",
+    "voices": "Descipe, Briff, MefistoO, Itashi, JazzJack",
+    "team": "Descipe, Briff, MefistoO, Itashi, JazzJack, Deveson",
+    "year": "2010",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
