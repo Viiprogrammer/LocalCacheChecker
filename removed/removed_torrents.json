@@ -13409,5 +13409,31 @@
     },
     "size": 1960544438,
     "seeders": 12
+  },
+  {
+    "releaseId": 4644,
+    "time": 1550054996,
+    "hash": "9b97f7c6f0ac79946f3ea479daa517758ac97d7f",
+    "id": 3635,
+    "magnet": "magnet:?xt=urn:btih:9b97f7c6f0ac79946f3ea479daa517758ac97d7f&dn=Made+in+Abyss+-+AniLibria_TV+%5BHDTVRip_720p%5D&xl=5715548208&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Made in Abyss - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 5715548208,
+    "seeders": 53
   }
 ]
