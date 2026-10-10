@@ -6766,5 +6766,57 @@
     "size": 1751208328,
     "seeders": 52,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9724,
+    "time": 1728303622,
+    "hash": "69300fa23f9a5e4c7f7fae2f6a4783527134bfa2",
+    "id": 30683,
+    "magnet": "magnet:?xt=urn:btih:69300fa23f9a5e4c7f7fae2f6a4783527134bfa2&dn=OSHI+NO+KO+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=18598833095&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "OSHI NO KO 2 - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18598833095,
+    "seeders": 25
+  },
+  {
+    "releaseId": 9724,
+    "time": 1728550472,
+    "hash": "0af2daf130d300ebdb56eeecb645fc092ba69d00",
+    "id": 30727,
+    "magnet": "magnet:?xt=urn:btih:0af2daf130d300ebdb56eeecb645fc092ba69d00&dn=OSHI+NO+KO+2+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2635426971&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "OSHI NO KO 2 - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2635426971,
+    "seeders": 36
   }
 ]
