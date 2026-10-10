@@ -12959,5 +12959,57 @@
     "size": 5662558782,
     "seeders": 7,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8112,
+    "time": 1550055009,
+    "hash": "fb4a12b36bc2c8d4f4bcba979c8931dbac47cf3c",
+    "id": 6113,
+    "magnet": "magnet:?xt=urn:btih:fb4a12b36bc2c8d4f4bcba979c8931dbac47cf3c&dn=Rakuen_Tsuihou_Expelled_from_Paradise_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=8381672326&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Rakuen Tsuihou - AniLiberty.TOP [BDRip 1080p][AVC][П-ф фильм].torrent",
+    "description": "П/ф фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 8381672326,
+    "seeders": 10
+  },
+  {
+    "releaseId": 8112,
+    "time": 1715622652,
+    "hash": "a91ac6b52fdad74cdf624127ff58d4371eae94c7",
+    "id": 28760,
+    "magnet": "magnet:?xt=urn:btih:a91ac6b52fdad74cdf624127ff58d4371eae94c7&dn=Rakuen_Tsuihou_Expelled_from_Paradise_%5BAniLibria%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=1380120474&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Rakuen Tsuihou - AniLiberty.TOP [BDRip 1080p][HEVC][П-ф фильм].torrent",
+    "description": "П/ф фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1380120474,
+    "seeders": 14
   }
 ]
