@@ -1610,5 +1610,57 @@
     },
     "size": 359435439,
     "seeders": 13
+  },
+  {
+    "releaseId": 10125,
+    "time": 1774055970,
+    "hash": "cf43ea66728f0dc5051455302147d1ed560ca699",
+    "id": 37524,
+    "magnet": "magnet:?xt=urn:btih:cf43ea66728f0dc5051455302147d1ed560ca699&dn=Maou+no+Musume+wa+Yasashisugiru%21+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=17910576446&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Maou no Musume wa Yasashisugiru!! - AniLiberty.TOP [WEB-DL 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 17910576446,
+    "seeders": 16
+  },
+  {
+    "releaseId": 10125,
+    "time": 1774211084,
+    "hash": "0af00acceb5536c6d5cc9b5c6dbda908d3483274",
+    "id": 37542,
+    "magnet": "magnet:?xt=urn:btih:0af00acceb5536c6d5cc9b5c6dbda908d3483274&dn=Maou+no+Musume+wa+Yasashisugiru%21+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=2393769329&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Maou no Musume wa Yasashisugiru!! - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 2393769329,
+    "seeders": 32
   }
 ]
