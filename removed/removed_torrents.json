@@ -3852,5 +3852,57 @@
     },
     "size": 2026848135,
     "seeders": 18
+  },
+  {
+    "releaseId": 9804,
+    "time": 1739136306,
+    "hash": "8406c5af334a6a0940f81dd3ab2bcd0f642d4164",
+    "id": 32360,
+    "magnet": "magnet:?xt=urn:btih:8406c5af334a6a0940f81dd3ab2bcd0f642d4164&dn=Nanatsu+no+Taizai+Mokushiroku+no+Yonkishi+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=12017711426&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Nanatsu no Taizai- Mokushiroku no Yonkishi 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 12017711426,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9804,
+    "time": 1739220754,
+    "hash": "dbaf11483529ea8814dacb3709374208e4c6abc2",
+    "id": 32387,
+    "magnet": "magnet:?xt=urn:btih:dbaf11483529ea8814dacb3709374208e4c6abc2&dn=Nanatsu+no+Taizai+Mokushiroku+no+Yonkishi+2+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3629105180&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Nanatsu no Taizai- Mokushiroku no Yonkishi 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3629105180,
+    "seeders": 13
   }
 ]
