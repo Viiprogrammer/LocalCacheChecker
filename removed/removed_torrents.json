@@ -5412,5 +5412,57 @@
     },
     "size": 3062701548,
     "seeders": 15
+  },
+  {
+    "releaseId": 9759,
+    "time": 1735419841,
+    "hash": "4befcae290aa5a0927e30ca7b391e72ebf3e4ec6",
+    "id": 31815,
+    "magnet": "magnet:?xt=urn:btih:4befcae290aa5a0927e30ca7b391e72ebf3e4ec6&dn=Sengoku+Youko+Senma+Konton-hen+-+AniLibria+%5BWEBRip+1080p%5D&xl=32971290097&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sengoku Youko- Senma Konton-hen - AniLiberty.TOP [WEBRip 1080p][AVC][1-22].torrent",
+    "description": "1-22",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 32971290097,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9759,
+    "time": 1735577660,
+    "hash": "0c1ac429809837945e94ff40e8c37b01e23974fe",
+    "id": 31830,
+    "magnet": "magnet:?xt=urn:btih:0c1ac429809837945e94ff40e8c37b01e23974fe&dn=Sengoku+Youko+Senma+Konton-hen+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=6939514897&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sengoku Youko- Senma Konton-hen - AniLiberty.TOP [WEBRip 1080p][HEVC][1-22].torrent",
+    "description": "1-22",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 6939514897,
+    "seeders": 13
   }
 ]
