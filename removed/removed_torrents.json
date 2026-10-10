@@ -8630,5 +8630,57 @@
     },
     "size": 4051691226,
     "seeders": 23
+  },
+  {
+    "releaseId": 9395,
+    "time": 1672000769,
+    "hash": "86f4183676217837335a592cb58c0aa8c61bc86c",
+    "id": 21806,
+    "magnet": "magnet:?xt=urn:btih:86f4183676217837335a592cb58c0aa8c61bc86c&dn=Fate_stay_night_Heaven%27s_Feel_III_Spring_Song_2020_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=7711966476&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Fate-stay night Movie- Heaven's Feel - III. Spring Song - AniLiberty.TOP [BDRip 1080p][AVC][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 7711966476,
+    "seeders": 9
+  },
+  {
+    "releaseId": 9395,
+    "time": 1672000830,
+    "hash": "ea1e6a5bf54ef55a5a2adc18521ec4e4e865dac6",
+    "id": 21808,
+    "magnet": "magnet:?xt=urn:btih:ea1e6a5bf54ef55a5a2adc18521ec4e4e865dac6&dn=Fate_stay_night_Heaven%27s_Feel_III_Spring_Song_2020_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=1214287191&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Fate-stay night Movie- Heaven's Feel - III. Spring Song - AniLiberty.TOP [BDRip 1080p][HEVC][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1214287191,
+    "seeders": 18
   }
 ]
