@@ -3856,5 +3856,28 @@
     "team": "",
     "year": "2020",
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "the-cuphead-show-3",
+    "countTorrents": 1,
+    "countVideos": 11,
+    "description": "Основанный на популярной видеоигре мультсериал о злоключениях импульсивного Чашека и его послушного брата Кружека.",
+    "genres": "Комедия, Приключения",
+    "id": 9378,
+    "timestamp": 1671050980,
+    "originalName": "The Cuphead Show! 3",
+    "title": "Шоу Чашека! 3 [DEL]",
+    "poster": "/storage/releases/posters/9378/9gyC7Ol5cBfX5fwrteMVTI2gisED65rN.jpg",
+    "rating": 419,
+    "season": "Осень",
+    "series": "(11)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "ТВ",
+    "voices": "",
+    "team": "",
+    "year": "2022",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
