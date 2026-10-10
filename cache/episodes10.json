@@ -36,7 +36,7 @@
 {"releaseId":10346,"items":[]},
 {"releaseId":10347,"items":[]},
 {"releaseId":10348,"items":[]},
-{"releaseId":10349,"items":[{"id":"a2f304b9-d56d-4719-b1ad-4e3bf4b3925d","name":"","nameEnglish":"","updatedAt":"2026-10-10T15:33:20+00:00","ordinal":1,"sortOrder":1,"duration":0,"rutubeId":null,"youtubeId":null,"opening":{"stop":null,"start":null},"ending":{"stop":null,"start":null},"preview":{"src":null}}]},
+{"releaseId":10349,"items":[{"id":"a2f304b9-d56d-4719-b1ad-4e3bf4b3925d","name":"","nameEnglish":"","updatedAt":"2026-10-10T16:10:31+00:00","ordinal":1,"sortOrder":1,"hls_480":"https://cache.libria.fun/videos/media/ts/10349/1/480/4c6eecea2f6c9dc3b2729756c1d5e754.m3u8","hls_720":"https://cache.libria.fun/videos/media/ts/10349/1/720/63081c14e812959663a9035c933712aa.m3u8","duration":1578,"rutubeId":null,"youtubeId":null,"opening":{"stop":null,"start":null},"ending":{"stop":null,"start":null},"preview":{"src":"/storage/releases/episodes/previews/10349/1/3b0D3pFSUsD9NbpQ.jpg"}}]},
 {"releaseId":10350,"items":[]},
 {"releaseId":10351,"items":[]},
 {"releaseId":10352,"items":[]},
