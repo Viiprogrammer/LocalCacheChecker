@@ -8500,5 +8500,31 @@
     "size": 3008319350,
     "seeders": 40,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9426,
+    "time": 1687193099,
+    "hash": "80c6e7708d4102213a57ce482e48f0815d54f74d",
+    "id": 24207,
+    "magnet": "magnet:?xt=urn:btih:80c6e7708d4102213a57ce482e48f0815d54f74d&dn=Boku+no+Kokoro+no+Yabai+Yatsu+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=3097843765&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Boku no Kokoro no Yabai Yatsu - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3097843765,
+    "seeders": 32
   }
 ]
