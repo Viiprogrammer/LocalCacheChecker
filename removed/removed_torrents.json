@@ -3904,5 +3904,57 @@
     },
     "size": 3629105180,
     "seeders": 13
+  },
+  {
+    "releaseId": 9801,
+    "time": 1742838900,
+    "hash": "f2f03b93da3b7917cdc16be7051728d2273d5b30",
+    "id": 32901,
+    "magnet": "magnet:?xt=urn:btih:f2f03b93da3b7917cdc16be7051728d2273d5b30&dn=Rurouni+Kenshin+Meiji+Kenkaku+Romantan+-+Kyoto+Douran+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=4576665721&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Rurouni Kenshin- Meiji Kenkaku Romantan - Kyoto Douran - AniLiberty.TOP [WEBRip 1080p][HEVC][1-23].torrent",
+    "description": "1-23",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4576665721,
+    "seeders": 18
+  },
+  {
+    "releaseId": 9801,
+    "time": 1742839300,
+    "hash": "6f818c3f214c6b37bea30885408deecdac7772e4",
+    "id": 32902,
+    "magnet": "magnet:?xt=urn:btih:6f818c3f214c6b37bea30885408deecdac7772e4&dn=Rurouni+Kenshin+Meiji+Kenkaku+Romantan+-+Kyoto+Douran+-+AniLibria+%5BWEBRip+1080p%5D&xl=32822475747&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Rurouni Kenshin- Meiji Kenkaku Romantan - Kyoto Douran - AniLiberty.TOP [WEBRip 1080p][AVC][1-23].torrent",
+    "description": "1-23",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 32822475747,
+    "seeders": 10
   }
 ]
