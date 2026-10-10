@@ -7368,5 +7368,57 @@
     },
     "size": 2151553581,
     "seeders": 16
+  },
+  {
+    "releaseId": 9627,
+    "time": 1711469128,
+    "hash": "8df9345ab6ccda9df19095aabd78a932bc001d9a",
+    "id": 28126,
+    "magnet": "magnet:?xt=urn:btih:8df9345ab6ccda9df19095aabd78a932bc001d9a&dn=Hime-sama+Goumon+no+Jikan+Desu+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=18037688295&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Himesama \"Goumon\" no Jikan desu - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18037688295,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9627,
+    "time": 1711482639,
+    "hash": "922693bb22ee665301f7ee651b2773a2b59e6e18",
+    "id": 28129,
+    "magnet": "magnet:?xt=urn:btih:922693bb22ee665301f7ee651b2773a2b59e6e18&dn=Hime-sama+Goumon+no+Jikan+Desu+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3007437814&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Himesama \"Goumon\" no Jikan desu - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3007437814,
+    "seeders": 22
   }
 ]
