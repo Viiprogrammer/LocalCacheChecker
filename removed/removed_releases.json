@@ -6161,5 +6161,27 @@
     "year": "2019",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "kono-oto-tomare",
+    "countTorrents": 2,
+    "countVideos": 0,
+    "description": "Клуб традиционного японского инструмента Кото находится под угрозой закрытия из-за нехватки участников. Курате — единственному члену клуба, необходимо как можно скорее найти желающих играть на этом инструменте. Но вызывался только один человек, и это главный хулиган школы. Что же из этого выйдет?",
+    "genres": "Сёнен, Школа, Драма, Экшен",
+    "id": 8327,
+    "originalName": "Kono Oto Tomare!",
+    "poster": "/storage/releases/posters/8327/NXyhfFWQeF9XhwQQGUj0tS9HIlVV6VrA.jpg",
+    "rating": 3452,
+    "season": "Весна",
+    "series": "(26)",
+    "status": "Озвучка завершена",
+    "timestamp": 1577736279,
+    "title": "Задержи этот звук! [DEL]",
+    "type": "ТВ",
+    "voices": "OkanaTsoy, MyAska, HectoR, Arato",
+    "year": "2019",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
