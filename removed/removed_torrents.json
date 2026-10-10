@@ -8286,5 +8286,57 @@
     "size": 2737910988,
     "seeders": 15,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9488,
+    "time": 1695394316,
+    "hash": "0e9d6b6edfc808eccc60396dd04e69b68aa49bd9",
+    "id": 25405,
+    "magnet": "magnet:?xt=urn:btih:0e9d6b6edfc808eccc60396dd04e69b68aa49bd9&dn=Higeki+no+Genkyou+to+Naru+Saikyou+Gedou+Last+Boss+Joou+no+Tame+ni+Tsukushimasu+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=4780527640&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 4780527640,
+    "seeders": 3
+  },
+  {
+    "releaseId": 9488,
+    "time": 1695466932,
+    "hash": "8453c67f3a5d968e07a200cfc5a82cf1709b2558",
+    "id": 25417,
+    "magnet": "magnet:?xt=urn:btih:8453c67f3a5d968e07a200cfc5a82cf1709b2558&dn=Higeki+no+Genkyou+to+Naru+Saikyou+Gedou+Last+Boss+Joou+no+Tame+ni+Tsukushimasu+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2230217740&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 2230217740,
+    "seeders": 16
   }
 ]
