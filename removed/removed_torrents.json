@@ -3540,5 +3540,57 @@
     },
     "size": 2107622625,
     "seeders": 15
+  },
+  {
+    "releaseId": 9815,
+    "time": 1734777417,
+    "hash": "4510ad635548b858cf7330ae2dc93b3462a757bd",
+    "id": 31741,
+    "magnet": "magnet:?xt=urn:btih:4510ad635548b858cf7330ae2dc93b3462a757bd&dn=Kekkon+Surutte+Hontou+Desuka+-+AniLibria+%5BWEBRip+1080p%5D&xl=15951465423&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kekkon suru tte, Hontou desu ka - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 15951465423,
+    "seeders": 21
+  },
+  {
+    "releaseId": 9815,
+    "time": 1734780657,
+    "hash": "5a32b263e146c109b1d9a3b77640f98988d2daba",
+    "id": 31743,
+    "magnet": "magnet:?xt=urn:btih:5a32b263e146c109b1d9a3b77640f98988d2daba&dn=Kekkon+Surutte+Hontou+Desuka+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3080858443&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kekkon suru tte, Hontou desu ka - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3080858443,
+    "seeders": 25
   }
 ]
