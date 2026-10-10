@@ -10772,5 +10772,59 @@
     "size": 3357601711,
     "seeders": 48,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8875,
+    "time": 1616792400,
+    "hash": "c449ecdb159ec8ecaa356eb2c7f851b0b6146a7f",
+    "id": 14528,
+    "magnet": "magnet:?xt=urn:btih:c449ecdb159ec8ecaa356eb2c7f851b0b6146a7f&dn=Mushoku+Tensei+Isekai+Ittara+Honki+Dasu+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=16080096397&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Mushoku Tensei- Isekai Ittara Honki Dasu - AniLibria.TOP [WEBRip 1080p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 16080096397,
+    "seeders": 18,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8875,
+    "time": 1616837099,
+    "hash": "82123a045471d4f002edfc9d523339fbec76de22",
+    "id": 14529,
+    "magnet": "magnet:?xt=urn:btih:82123a045471d4f002edfc9d523339fbec76de22&dn=Mushoku+Tensei+Isekai+Ittara+Honki+Dasu+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3564599916&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Mushoku Tensei- Isekai Ittara Honki Dasu - AniLibria.TOP [WEBRip 1080p][HEVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 3564599916,
+    "seeders": 44,
+    "updatedAt": ""
   }
 ]
