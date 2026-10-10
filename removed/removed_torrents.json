@@ -14018,5 +14018,32 @@
     },
     "size": 8697939937,
     "seeders": 12
+  },
+  {
+    "releaseId": 580,
+    "time": 1550054981,
+    "hash": "65e601f686a4e81ed3bdd1fdf3b927b3fb67c103",
+    "id": 1113,
+    "magnet": "magnet:?xt=urn:btih:65e601f686a4e81ed3bdd1fdf3b927b3fb67c103&dn=Yamada-kun+and+the+Seven+Witches+-+AniLibria.TV+%5BBD-Rip_720p%5D&xl=4505438189&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Yamada-kun to 7-nin no Majo - AniLibria.TOP [BDRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 4505438189,
+    "seeders": 12,
+    "updatedAt": ""
   }
 ]
