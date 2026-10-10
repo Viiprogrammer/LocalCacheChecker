@@ -4060,5 +4060,57 @@
     },
     "size": 3358227624,
     "seeders": 23
+  },
+  {
+    "releaseId": 9797,
+    "time": 1734778346,
+    "hash": "565dbe9b624a2968eaa82fe364b983bab89b94b9",
+    "id": 31742,
+    "magnet": "magnet:?xt=urn:btih:565dbe9b624a2968eaa82fe364b983bab89b94b9&dn=Kamierabi+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=16721385444&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kamierabi 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 16721385444,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9797,
+    "time": 1737457934,
+    "hash": "45fc3a877af1e1c95b2950742efaea7eb1feeeb8",
+    "id": 32104,
+    "magnet": "magnet:?xt=urn:btih:45fc3a877af1e1c95b2950742efaea7eb1feeeb8&dn=Kamierabi+2+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3655136822&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kamierabi 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3655136822,
+    "seeders": 13
   }
 ]
