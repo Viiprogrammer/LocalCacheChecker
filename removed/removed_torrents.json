@@ -12749,5 +12749,31 @@
     },
     "size": 16404881407,
     "seeders": 11
+  },
+  {
+    "releaseId": 8356,
+    "time": 1554394814,
+    "hash": "28f11254b6f695434bdc67f770a83a81433559b8",
+    "id": 6665,
+    "magnet": "magnet:?xt=urn:btih:28f11254b6f695434bdc67f770a83a81433559b8&dn=Densetsu+no+Yuusha+no+Densetsu+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=9235850407&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Densetsu no Yuusha no Densetsu  - AniLiberty.TOP [HDTVRip 720p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 9235850407,
+    "seeders": 14
   }
 ]
