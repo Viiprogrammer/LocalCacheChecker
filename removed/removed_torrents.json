@@ -2994,5 +2994,57 @@
     },
     "size": 4105844059,
     "seeders": 18
+  },
+  {
+    "releaseId": 9834,
+    "time": 1729771711,
+    "hash": "5e5d6603589ca58766d915f589f57935031177d3",
+    "id": 30941,
+    "magnet": "magnet:?xt=urn:btih:5e5d6603589ca58766d915f589f57935031177d3&dn=Uzumaki+-+AniLibria+%5BWEBRip+1080p%5D&xl=7501803109&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Uzumaki - AniLiberty.TOP [WEBRip 1080p][AVC][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 7501803109,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9834,
+    "time": 1729788785,
+    "hash": "68f9c22fddfa9f75fb699c21cc1a9fdf06511b02",
+    "id": 30945,
+    "magnet": "magnet:?xt=urn:btih:68f9c22fddfa9f75fb699c21cc1a9fdf06511b02&dn=Uzumaki+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2092683798&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Uzumaki - AniLiberty.TOP [WEBRip 1080p][HEVC][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2092683798,
+    "seeders": 15
   }
 ]
