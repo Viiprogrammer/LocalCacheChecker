@@ -3696,5 +3696,57 @@
     },
     "size": 4731387439,
     "seeders": 26
+  },
+  {
+    "releaseId": 9807,
+    "time": 1734900078,
+    "hash": "726c42eab0acd8070cd78f8d53ce9795b674374a",
+    "id": 31757,
+    "magnet": "magnet:?xt=urn:btih:726c42eab0acd8070cd78f8d53ce9795b674374a&dn=Mecha-ude+-+AniLibria+%5BWEBRip+1080p%5D&xl=17712710352&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mecha-ude - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17712710352,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9807,
+    "time": 1734950375,
+    "hash": "4b49dbb2cb5dd3ae9a857b28f3a4c28b7d269acb",
+    "id": 31762,
+    "magnet": "magnet:?xt=urn:btih:4b49dbb2cb5dd3ae9a857b28f3a4c28b7d269acb&dn=Mecha-ude+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3029861084&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mecha-ude - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3029861084,
+    "seeders": 22
   }
 ]
