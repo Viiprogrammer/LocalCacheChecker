@@ -8812,5 +8812,59 @@
     },
     "size": 2877471303,
     "seeders": 24
+  },
+  {
+    "releaseId": 9354,
+    "time": 1684002727,
+    "hash": "d21a861d3f307ba2d5c56ffcb10aff01887f767c",
+    "id": 23726,
+    "magnet": "magnet:?xt=urn:btih:d21a861d3f307ba2d5c56ffcb10aff01887f767c&dn=Oniichan+wa+Oshimai%21+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=15460187769&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Oniichan wa Oshimai! - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 15460187769,
+    "seeders": 17,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9354,
+    "time": 1684218368,
+    "hash": "8fb832ac013e84649e4a50e125c8944841233d84",
+    "id": 23762,
+    "magnet": "magnet:?xt=urn:btih:8fb832ac013e84649e4a50e125c8944841233d84&dn=Oniichan+wa+Oshimai%21+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=4127811921&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Oniichan wa Oshimai! - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 4127811921,
+    "seeders": 18,
+    "updatedAt": ""
   }
 ]
