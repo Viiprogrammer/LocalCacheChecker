@@ -9492,5 +9492,59 @@
     },
     "size": 3345622341,
     "seeders": 26
+  },
+  {
+    "releaseId": 9258,
+    "time": 1661190945,
+    "hash": "793bd7a28cf1684f9b0538e2dc52575d2f80860c",
+    "id": 20446,
+    "magnet": "magnet:?xt=urn:btih:793bd7a28cf1684f9b0538e2dc52575d2f80860c&dn=Kara_no_Kyoukai_Movie_Mirai_Fukuin_%5BMovie%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=10038973787&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai Movie- Mirai Fukuin - AniLibria.TOP [BDRip 1080p][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 10038973787,
+    "seeders": 8,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9258,
+    "time": 1661190967,
+    "hash": "bc3257a3c9a52771bea9b031db97084958a7a445",
+    "id": 20447,
+    "magnet": "magnet:?xt=urn:btih:bc3257a3c9a52771bea9b031db97084958a7a445&dn=Kara_no_Kyoukai_Movie_Mirai_Fukuin_%5BMovie%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=597456380&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai Movie- Mirai Fukuin - AniLibria.TOP [BDRip 1080p][HEVC][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 597456380,
+    "seeders": 8,
+    "updatedAt": ""
   }
 ]
