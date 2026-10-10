@@ -9887,5 +9887,32 @@
     },
     "size": 2779445403,
     "seeders": 12
+  },
+  {
+    "releaseId": 9064,
+    "time": 1647986068,
+    "hash": "8f6c5e3937bec5982ef72049b010db0baf01ee7a",
+    "id": 18801,
+    "magnet": "magnet:?xt=urn:btih:8f6c5e3937bec5982ef72049b010db0baf01ee7a&dn=Shuumatsu+no+Harem+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=6611687460&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Shuumatsu no Harem - AniLibria.TOP [WEBRip 1080p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 6611687460,
+    "seeders": 20,
+    "updatedAt": ""
   }
 ]
