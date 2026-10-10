@@ -9152,5 +9152,31 @@
     },
     "size": 1159786153,
     "seeders": 14
+  },
+  {
+    "releaseId": 9291,
+    "time": 1672496998,
+    "hash": "81e9a155cade8605a573b5e15854782a10ea5873",
+    "id": 21861,
+    "magnet": "magnet:?xt=urn:btih:81e9a155cade8605a573b5e15854782a10ea5873&dn=Renai+Flops+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=4780896236&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Renai Flops - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 4780896236,
+    "seeders": 12
   }
 ]
