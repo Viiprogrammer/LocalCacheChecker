@@ -8944,5 +8944,57 @@
     },
     "size": 193404076,
     "seeders": 12
+  },
+  {
+    "releaseId": 9321,
+    "time": 1669797310,
+    "hash": "d9ea28cea10f3d69b49312eedf40dbc6b8c10820",
+    "id": 21542,
+    "magnet": "magnet:?xt=urn:btih:d9ea28cea10f3d69b49312eedf40dbc6b8c10820&dn=Hanamonogatari+-+AniLibria.TV+%5BBDRip+1080p%5D&xl=8185543744&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hanamonogatari - AniLiberty.TOP [BDRip 1080p][AVC][1-5].torrent",
+    "description": "1-5",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 8185543744,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9321,
+    "time": 1748149338,
+    "hash": "144810d182f5616e2b03564c5e0942e2d16997da",
+    "id": 33634,
+    "magnet": "magnet:?xt=urn:btih:144810d182f5616e2b03564c5e0942e2d16997da&dn=Hanamonogatari+-+AniLibria.TV+%5BBDRip+1080p+HEVC%5D&xl=1522816644&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hanamonogatari - AniLiberty.TOP [BDRip 1080p][HEVC][1-5].torrent",
+    "description": "1-5",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1522816644,
+    "seeders": 22
   }
 ]
