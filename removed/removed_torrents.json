@@ -12305,5 +12305,32 @@
     },
     "size": 9272757605,
     "seeders": 15
+  },
+  {
+    "releaseId": 8378,
+    "time": 1555498740,
+    "hash": "bc8b651cd83fe2ba0e7e968055ca80ca39da2cd6",
+    "id": 6804,
+    "magnet": "magnet:?xt=urn:btih:bc8b651cd83fe2ba0e7e968055ca80ca39da2cd6&dn=Nanatsu_no_Taizai_The_Movie-Prisoners_of_the_Sky_%5BAniLibria_TV%5D_%5BWEB-DLRip_1080p%5D.mkv&xl=2421787188&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Nanatsu no Taizai Movie- Tenkuu no Torawarebito - AniLibria.TOP [HDRip 1080p][HEVC][П-ф].torrent",
+    "description": "П/ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "HDRip",
+      "description": "HDRip",
+      "label": ""
+    },
+    "size": 2421787188,
+    "seeders": 16,
+    "updatedAt": ""
   }
 ]

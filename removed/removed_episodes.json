@@ -71676,5 +71676,23 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 8378,
+    "items": [
+      {
+        "id": "95c820e1-789e-11ec-ae92-0242ac120002",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/8378/1/480/a14ec31f7ce4182cc379b5aef0ab659b.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/8378/1/720/8fda651514382a26442dfd67f7f788a4.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/8378/1/1080/2685b937389c519607207a8a9cc51b9a.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 5974,
+        "updatedAt": "2019-04-17T10:13:07+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {}
+      }
+    ]
   }
 ]
