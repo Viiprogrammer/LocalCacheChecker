@@ -6556,5 +6556,57 @@
     },
     "size": 3243068135,
     "seeders": 16
+  },
+  {
+    "releaseId": 9729,
+    "time": 1726941276,
+    "hash": "f043d03616d2415b80f6cb151aac4024c8c711e8",
+    "id": 30485,
+    "magnet": "magnet:?xt=urn:btih:f043d03616d2415b80f6cb151aac4024c8c711e8&dn=Megami+no+Cafe+Terrace+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=17892979106&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Megami no Cafe Terrace 2 - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17892979106,
+    "seeders": 17
+  },
+  {
+    "releaseId": 9729,
+    "time": 1727070999,
+    "hash": "0452e514e0caef8c59319128e4e5a449d4348746",
+    "id": 30503,
+    "magnet": "magnet:?xt=urn:btih:0452e514e0caef8c59319128e4e5a449d4348746&dn=Megami+no+Cafe+Terrace+2+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2668302248&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Megami no Cafe Terrace 2 - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2668302248,
+    "seeders": 23
   }
 ]
