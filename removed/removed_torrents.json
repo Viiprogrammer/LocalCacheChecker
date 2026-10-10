@@ -12775,5 +12775,31 @@
     },
     "size": 9235850407,
     "seeders": 14
+  },
+  {
+    "releaseId": 8355,
+    "time": 1554398053,
+    "hash": "503f93ca67a540d4c89f3780d136d458e5027185",
+    "id": 6672,
+    "magnet": "magnet:?xt=urn:btih:503f93ca67a540d4c89f3780d136d458e5027185&dn=Tamako+Market+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4263615296&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tamako Market - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4263615296,
+    "seeders": 13
   }
 ]
