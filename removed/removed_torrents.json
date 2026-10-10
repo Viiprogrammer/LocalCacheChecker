@@ -14337,5 +14337,59 @@
     },
     "size": 5038294150,
     "seeders": 16
+  },
+  {
+    "releaseId": 386,
+    "time": 1550054968,
+    "hash": "5346d662f0fe746a5a84c5ff78f47635e629bc02",
+    "id": 184,
+    "magnet": "magnet:?xt=urn:btih:5346d662f0fe746a5a84c5ff78f47635e629bc02&dn=Shinmai+Maou+no+Testament&xl=4719071847&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Shinmai Maou no Testament - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4719071847,
+    "seeders": 14,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 386,
+    "time": 1550054975,
+    "hash": "13b8887625933b0965d5a428a63f6ed60584e67e",
+    "id": 351,
+    "magnet": "magnet:?xt=urn:btih:13b8887625933b0965d5a428a63f6ed60584e67e&dn=Shinmai_Maou_no_Testament_%5BOVA-1%5D_%5BAnilibria_TV%5D_%5BBD-Rip_720p%5D.mkv&xl=460852337&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Shinmai Maou no Testament - AniLibria.TOP [BDRip 720p][AVC][OVA-1].torrent",
+    "description": "OVA-1",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 460852337,
+    "seeders": 11,
+    "updatedAt": ""
   }
 ]
