@@ -12827,5 +12827,31 @@
     },
     "size": 5150275881,
     "seeders": 10
+  },
+  {
+    "releaseId": 8352,
+    "time": 1554394846,
+    "hash": "6671747559c7607fb0e580d7f86ffb5611ed1e60",
+    "id": 6666,
+    "magnet": "magnet:?xt=urn:btih:6671747559c7607fb0e580d7f86ffb5611ed1e60&dn=Dansai+Bunri+no+Crime+Edge+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4601297549&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dansai Bunri no Crime Edge  - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4601297549,
+    "seeders": 10
   }
 ]
