@@ -11518,5 +11518,57 @@
     "size": 5324378783,
     "seeders": 11,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8632,
+    "time": 1585252860,
+    "hash": "110a9e4d327a11d19e339d99004c26fa91c08c34",
+    "id": 10157,
+    "magnet": "magnet:?xt=urn:btih:110a9e4d327a11d19e339d99004c26fa91c08c34&dn=Sakurasou+no+Pet+na+Kanojo+-+AniLibria.TV+%5BHDTVRip+720p+HEVC%5D&xl=3631895412&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sakurasou no Pet na Kanojo - AniLiberty.TOP [HDTVRip 720p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 3631895412,
+    "seeders": 17
+  },
+  {
+    "releaseId": 8632,
+    "time": 1585253394,
+    "hash": "a3556f30a248243962d8b2bf1a2f37bce966480b",
+    "id": 10158,
+    "magnet": "magnet:?xt=urn:btih:a3556f30a248243962d8b2bf1a2f37bce966480b&dn=Sakurasou+no+Pet+na+Kanojo+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=8412520643&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sakurasou no Pet na Kanojo - AniLiberty.TOP [HDTVRip 720p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 8412520643,
+    "seeders": 12
   }
 ]
