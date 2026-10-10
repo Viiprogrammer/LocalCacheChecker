@@ -6754,5 +6754,28 @@
     "year": "2016",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "prison-school-ova",
+    "countTorrents": 1,
+    "countVideos": 1,
+    "description": "Продолжение аниме \"Школа-Тюрьма\", в котором нам покажут жизнь ребят в школе. Как же изменится их жизнь в школе после свержения подпольного студенческого совета?! Смотрим и наслаждаемся! Ну и ждём 2-й сезон!",
+    "genres": "Комедия, Сейнен, Школа, Романтика, Этти",
+    "id": 2336,
+    "originalName": "Prison School OVA",
+    "poster": "/storage/releases/posters/2336/1RAcSsVQKoGeBwEv880sraztnEvPPySD.jpg",
+    "rating": 1022,
+    "season": "Зима",
+    "series": "(1)",
+    "status": "Озвучка завершена",
+    "timestamp": 1460903582,
+    "title": "Школа-Тюрьма OVA [DEL]",
+    "type": "OVA",
+    "voices": "Kari, Mikrobelka, Aemi",
+    "team": "Kari, Mikrobelka, Aemi, General TAB, FeLiX, Evafan Satin",
+    "year": "2016",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
