@@ -14151,5 +14151,31 @@
     "size": 9455692789,
     "seeders": 22,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 432,
+    "time": 1550054969,
+    "hash": "55a39eb1746e613be6cf7e1a10b5738bd004449b",
+    "id": 205,
+    "magnet": "magnet:?xt=urn:btih:55a39eb1746e613be6cf7e1a10b5738bd004449b&dn=Tokyo+Ghoul_%5B01-12%5D_%5BAniLibria.TV%5D&xl=3992702013&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tokyo Ghoul - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 3992702013,
+    "seeders": 17
   }
 ]
