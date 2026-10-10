@@ -14285,5 +14285,57 @@
     "size": 10188079237,
     "seeders": 12,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 405,
+    "time": 1550054974,
+    "hash": "f09c1c9e324c60e32e9e41361612c3a6e3d89342",
+    "id": 329,
+    "magnet": "magnet:?xt=urn:btih:f09c1c9e324c60e32e9e41361612c3a6e3d89342&dn=Claymore+-+AniLibria.TV+%5BBDRip+1080p%5D&xl=26216060714&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Claymore - AniLiberty.TOP [BDRip 1080p][AVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 26216060714,
+    "seeders": 13
+  },
+  {
+    "releaseId": 405,
+    "time": 1713886898,
+    "hash": "fb3cd4f926f4b602e5eb871c63b42a9298c417f0",
+    "id": 28477,
+    "magnet": "magnet:?xt=urn:btih:fb3cd4f926f4b602e5eb871c63b42a9298c417f0&dn=Claymore+-+AniLibria.TV+%5BBDRip+1080p+HEVC%5D&xl=5038294150&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Claymore - AniLiberty.TOP [BDRip 1080p][HEVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 5038294150,
+    "seeders": 16
   }
 ]
