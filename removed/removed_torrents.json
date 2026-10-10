@@ -9308,5 +9308,59 @@
     },
     "size": 5076001248,
     "seeders": 35
+  },
+  {
+    "releaseId": 9278,
+    "time": 1679952818,
+    "hash": "cb4c687e2a7474930fb41c4c4573ca0d3246f09a",
+    "id": 23090,
+    "magnet": "magnet:?xt=urn:btih:cb4c687e2a7474930fb41c4c4573ca0d3246f09a&dn=Blue+Lock+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=35369834814&tr=http://tr.libria.fun:2710/announce",
+    "filename": "BLUELOCK - AniLibria.TOP [WEBRip 1080p][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 35369834814,
+    "seeders": 11,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9278,
+    "time": 1679973222,
+    "hash": "565842682ec077a8ef8c14c9021fbb793308c1ab",
+    "id": 23093,
+    "magnet": "magnet:?xt=urn:btih:565842682ec077a8ef8c14c9021fbb793308c1ab&dn=Blue+Lock+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=10184561767&tr=http://tr.libria.fun:2710/announce",
+    "filename": "BLUELOCK - AniLibria.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 10184561767,
+    "seeders": 14,
+    "updatedAt": ""
   }
 ]
