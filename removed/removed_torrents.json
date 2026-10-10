@@ -12227,5 +12227,31 @@
     },
     "size": 7599253044,
     "seeders": 11
+  },
+  {
+    "releaseId": 8381,
+    "time": 1555881449,
+    "hash": "0e717d954681cef9fe042cfa392ca7c0b23d282f",
+    "id": 6829,
+    "magnet": "magnet:?xt=urn:btih:0e717d954681cef9fe042cfa392ca7c0b23d282f&dn=Natsuyuki+Rendezvous+-+AniLibria.TV+%5BBDRip+720p%5D&xl=5726316780&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Natsuyuki Rendezvous  - AniLiberty.TOP [BDRip 720p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 5726316780,
+    "seeders": 10
   }
 ]
