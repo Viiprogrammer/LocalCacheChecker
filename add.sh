@@ -301,13 +301,13 @@ ids=(
   9775
 )
 
+mapfile -t ids < <(printf '%s\n' "${ids[@]}" | sort -rn)
+
 for id in "${ids[@]}"; do
     echo "===== Restoring $id ====="
 
-    node ./scripts/populate-removed.js "$id" &&
+    node ./scripts/populate-removed.js "$id" --skip-build &&
     git add -A &&
     git commit -m "chore: restore $id" &&
     git push || exit 1
-
-    sleep 3
 done
