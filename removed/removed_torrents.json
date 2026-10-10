@@ -11939,5 +11939,57 @@
     },
     "size": 5017442135,
     "seeders": 9
+  },
+  {
+    "releaseId": 8409,
+    "time": 1569611040,
+    "hash": "93ab68853b9ed270137764f6c4a216e445611b10",
+    "id": 8333,
+    "magnet": "magnet:?xt=urn:btih:93ab68853b9ed270137764f6c4a216e445611b10&dn=HenSuki+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=17795021752&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka- - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 17795021752,
+    "seeders": 4
+  },
+  {
+    "releaseId": 8409,
+    "time": 1569776712,
+    "hash": "2e6002c50f2d650dfdc0ff4a11dcefa39621ffa7",
+    "id": 8346,
+    "magnet": "magnet:?xt=urn:btih:2e6002c50f2d650dfdc0ff4a11dcefa39621ffa7&dn=HenSuki+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2065992538&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka- - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 2065992538,
+    "seeders": 9
   }
 ]
