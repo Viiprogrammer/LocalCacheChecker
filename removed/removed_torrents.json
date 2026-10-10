@@ -12541,5 +12541,31 @@
     },
     "size": 10840866907,
     "seeders": 15
+  },
+  {
+    "releaseId": 8364,
+    "time": 1554512568,
+    "hash": "201e059846e14567a755f93cfb3705065fbfa4ea",
+    "id": 6688,
+    "magnet": "magnet:?xt=urn:btih:201e059846e14567a755f93cfb3705065fbfa4ea&dn=Muv-Luv+Alternative+Total+Eclips+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=8937275778&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Muv-Luv Alternative- Total Eclipse - AniLiberty.TOP [HDTVRip 720p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 8937275778,
+    "seeders": 15
   }
 ]
