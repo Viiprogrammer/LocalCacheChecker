@@ -13117,5 +13117,31 @@
     "size": 11909588120,
     "seeders": 59,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 6840,
+    "time": 1550055006,
+    "hash": "1022b302cdb51de596c0d613ea9c08fb4e2ab399",
+    "id": 5518,
+    "magnet": "magnet:?xt=urn:btih:1022b302cdb51de596c0d613ea9c08fb4e2ab399&dn=Free%21+Dive+to+the+Future+-+AniLibria.TV+%5BWEBRip+720p%5D&xl=5689040176&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Free!- Dive to the Future - AniLiberty.TOP [WEBRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 5689040176,
+    "seeders": 9
   }
 ]
