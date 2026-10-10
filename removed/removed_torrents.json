@@ -10666,5 +10666,57 @@
     },
     "size": 1233910210,
     "seeders": 52
+  },
+  {
+    "releaseId": 8925,
+    "time": 1608817080,
+    "hash": "7ed66eba31d8d0bf703ed71d1ca913746e9f2709",
+    "id": 13159,
+    "magnet": "magnet:?xt=urn:btih:7ed66eba31d8d0bf703ed71d1ca913746e9f2709&dn=Sora+no+Aosa+wo+Shiru+Hito+yo+-+AniLibria.TV+%5BBDRip+1080p%5D&xl=2480731670&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sora no Aosa wo Shiru Hito yo - AniLiberty.TOP [BDRip 1080p][AVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 2480731670,
+    "seeders": 9
+  },
+  {
+    "releaseId": 8925,
+    "time": 1608817560,
+    "hash": "9f3fdb6eb1ee1d7b6c61e6a33cc4a517029e9903",
+    "id": 13164,
+    "magnet": "magnet:?xt=urn:btih:9f3fdb6eb1ee1d7b6c61e6a33cc4a517029e9903&dn=Sora+no+Aosa+wo+Shiru+Hito+yo+-+AniLibria.TV+%5BBDRip+1080p+HEVC%5D&xl=731762796&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sora no Aosa wo Shiru Hito yo - AniLiberty.TOP [BDRip 1080p][HEVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 731762796,
+    "seeders": 10
   }
 ]

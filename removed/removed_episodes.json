@@ -60844,5 +60844,35 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 8925,
+    "items": [
+      {
+        "id": "95d94e9f-789e-11ec-ae92-0242ac120002",
+        "name": "",
+        "nameEnglish": "",
+        "updatedAt": "2020-12-21T01:14:55+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/8925/1/480/dd2305e8cd10c1a1b2585cf81c3b710e.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/8925/1/720/a81bb1d5ae974d60b25a67bfea5f1b74.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/8925/1/1080/0510305b1dd33e675447e1a12b7ae4a6.m3u8",
+        "duration": 6391,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": null
+        }
+      }
+    ]
   }
 ]
