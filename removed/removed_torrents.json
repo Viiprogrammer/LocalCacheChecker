@@ -13514,5 +13514,32 @@
     "size": 1063439911,
     "seeders": 10,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 3599,
+    "time": 1550054990,
+    "hash": "8b5753dc4052981850404c4745588e853d68f12d",
+    "id": 2732,
+    "magnet": "magnet:?xt=urn:btih:8b5753dc4052981850404c4745588e853d68f12d&dn=Fuuka+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=4063353850&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Fuuka - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4063353850,
+    "seeders": 8,
+    "updatedAt": ""
   }
 ]
