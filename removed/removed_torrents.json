@@ -7000,5 +7000,59 @@
     },
     "size": 1237460314,
     "seeders": 20
+  },
+  {
+    "releaseId": 9703,
+    "time": 1719847129,
+    "hash": "0269b8060b827b0460b7d62ee2d20c8403ae3110",
+    "id": 29375,
+    "magnet": "magnet:?xt=urn:btih:0269b8060b827b0460b7d62ee2d20c8403ae3110&dn=Mushoku+Tensei+Isekai+Ittara+Honki+Dasu+2nd+Season+Part+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=17969088929&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Mushoku Tensei- Isekai Ittara Honki Dasu 2nd Season Part 2 - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 17969088929,
+    "seeders": 30,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9703,
+    "time": 1719853433,
+    "hash": "affc2c80987609bc0a235996c8ea8fa93a4c0f3e",
+    "id": 29377,
+    "magnet": "magnet:?xt=urn:btih:affc2c80987609bc0a235996c8ea8fa93a4c0f3e&dn=Mushoku+Tensei+Isekai+Ittara+Honki+Dasu+2nd+Season+Part+2+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3049245048&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Mushoku Tensei- Isekai Ittara Honki Dasu 2nd Season Part 2 - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 3049245048,
+    "seeders": 52,
+    "updatedAt": ""
   }
 ]
