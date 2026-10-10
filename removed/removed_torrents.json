@@ -12645,5 +12645,31 @@
     },
     "size": 13522397552,
     "seeders": 10
+  },
+  {
+    "releaseId": 8360,
+    "time": 1554400498,
+    "hash": "6160c6c3e3aa834591308043bebf47606ae4d693",
+    "id": 6673,
+    "magnet": "magnet:?xt=urn:btih:6160c6c3e3aa834591308043bebf47606ae4d693&dn=Kami+nomi+zo+Shiru+Sekai+Megami+Hen+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4715121567&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kami nomi zo Shiru Sekai Megami Hen   - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4715121567,
+    "seeders": 12
   }
 ]
