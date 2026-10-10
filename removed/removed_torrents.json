@@ -6504,5 +6504,57 @@
     },
     "size": 2598626465,
     "seeders": 36
+  },
+  {
+    "releaseId": 9730,
+    "time": 1723892623,
+    "hash": "10c4b26784b5709c80d05f72ac1f7100736c1e5b",
+    "id": 30006,
+    "magnet": "magnet:?xt=urn:btih:10c4b26784b5709c80d05f72ac1f7100736c1e5b&dn=Isekai+Suicide+Squad+-+AniLibria+%5BWEBRip+1080p%5D&xl=12736553734&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Isekai Suicide Squad - AniLiberty.TOP [WEBRip 1080p][AVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 12736553734,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9730,
+    "time": 1723892650,
+    "hash": "60de0618e3f80fc46b1f4cad5ac8afd7444b0a8d",
+    "id": 30007,
+    "magnet": "magnet:?xt=urn:btih:60de0618e3f80fc46b1f4cad5ac8afd7444b0a8d&dn=Isekai+Suicide+Squad+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3243068135&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Isekai Suicide Squad - AniLiberty.TOP [WEBRip 1080p][HEVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3243068135,
+    "seeders": 16
   }
 ]
