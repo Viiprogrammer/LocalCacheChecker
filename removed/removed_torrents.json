@@ -4944,5 +4944,57 @@
     },
     "size": 6688378859,
     "seeders": 14
+  },
+  {
+    "releaseId": 9776,
+    "time": 1719860729,
+    "hash": "bf1905b3decd9ad8701a2e31e96fb37e9b0b267b",
+    "id": 29379,
+    "magnet": "magnet:?xt=urn:btih:bf1905b3decd9ad8701a2e31e96fb37e9b0b267b&dn=Kuramerukagari_%5BAniLibria%5D_%5BWEBRip_1080p%5D.mkv&xl=3855069728&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kuramerukagari - AniLiberty.TOP [WEBRip 1080p][AVC][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3855069728,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9776,
+    "time": 1719861057,
+    "hash": "6dfa9ec249561570c158de97c4a0200bafe2c616",
+    "id": 29380,
+    "magnet": "magnet:?xt=urn:btih:6dfa9ec249561570c158de97c4a0200bafe2c616&dn=Kuramerukagari_%5BAniLibria%5D_%5BWEBRip_1080p_HEVC%5D.mkv&xl=575451530&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kuramerukagari - AniLiberty.TOP [WEBRip 1080p][HEVC][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 575451530,
+    "seeders": 20
   }
 ]
