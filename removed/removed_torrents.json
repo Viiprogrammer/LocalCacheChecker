@@ -4112,5 +4112,57 @@
     },
     "size": 3655136822,
     "seeders": 13
+  },
+  {
+    "releaseId": 9796,
+    "time": 1735393171,
+    "hash": "475d18663ad7875e3bf58b2da8e55ce4d2cb4f1d",
+    "id": 31811,
+    "magnet": "magnet:?xt=urn:btih:475d18663ad7875e3bf58b2da8e55ce4d2cb4f1d&dn=Yarinaoshi+Reijou+wa+Ryuutei+Heika+wo+Kouryakuchuu+-+AniLibria+%5BWEBRip+1080p%5D&xl=18100278673&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18100278673,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9796,
+    "time": 1735408178,
+    "hash": "3344edfdcee8b6055637e45229609bb85f32b391",
+    "id": 31812,
+    "magnet": "magnet:?xt=urn:btih:3344edfdcee8b6055637e45229609bb85f32b391&dn=Yarinaoshi+Reijou+wa+Ryuutei+Heika+wo+Kouryakuchuu+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2491305617&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2491305617,
+    "seeders": 27
   }
 ]
