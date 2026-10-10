@@ -7706,5 +7706,57 @@
     },
     "size": 5024752269,
     "seeders": 33
+  },
+  {
+    "releaseId": 9602,
+    "time": 1711889044,
+    "hash": "0e8e08469b355443c5c5cda7957bfb95911eda1b",
+    "id": 28176,
+    "magnet": "magnet:?xt=urn:btih:0e8e08469b355443c5c5cda7957bfb95911eda1b&dn=Mashle+2nd+Season+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=18000851554&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mashle 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18000851554,
+    "seeders": 20
+  },
+  {
+    "releaseId": 9602,
+    "time": 1711894256,
+    "hash": "d1eab06ac802ac713ec273dcf76d532caeef8781",
+    "id": 28179,
+    "magnet": "magnet:?xt=urn:btih:d1eab06ac802ac713ec273dcf76d532caeef8781&dn=Mashle+2nd+Season+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=4045097483&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mashle 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4045097483,
+    "seeders": 36
   }
 ]
