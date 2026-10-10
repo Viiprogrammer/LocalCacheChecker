@@ -5256,5 +5256,57 @@
     },
     "size": 5853772807,
     "seeders": 13
+  },
+  {
+    "releaseId": 9767,
+    "time": 1727096881,
+    "hash": "e02d898aba065ed1960f885439d3bac62021da38",
+    "id": 30507,
+    "magnet": "magnet:?xt=urn:btih:e02d898aba065ed1960f885439d3bac62021da38&dn=Ramen+Akaneko+-+AniLibria+%5BWEBRip+1080p%5D&xl=17517903713&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ramen Akaneko - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17517903713,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9767,
+    "time": 1727097712,
+    "hash": "6115c8faac74537f5679fb353c04a605d9d03780",
+    "id": 30509,
+    "magnet": "magnet:?xt=urn:btih:6115c8faac74537f5679fb353c04a605d9d03780&dn=Ramen+Akaneko+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2978826819&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ramen Akaneko - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2978826819,
+    "seeders": 13
   }
 ]
