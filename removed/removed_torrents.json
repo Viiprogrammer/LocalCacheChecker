@@ -12567,5 +12567,57 @@
     },
     "size": 8937275778,
     "seeders": 15
+  },
+  {
+    "releaseId": 8362,
+    "time": 1554411600,
+    "hash": "46f2ef02e52d5459520d45c592d0a78278c2b99b",
+    "id": 6682,
+    "magnet": "magnet:?xt=urn:btih:46f2ef02e52d5459520d45c592d0a78278c2b99b&dn=Kimi+no+Iru+Machi+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=3014448760&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kimi no Iru Machi  - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 3014448760,
+    "seeders": 17
+  },
+  {
+    "releaseId": 8362,
+    "time": 1554472233,
+    "hash": "f79ac207669ddca8a0cc8d51ad9d2ba3662a02d8",
+    "id": 6684,
+    "magnet": "magnet:?xt=urn:btih:f79ac207669ddca8a0cc8d51ad9d2ba3662a02d8&dn=Kimi+no+Iru+Machi+Tasogare+Kousaten+OVA+-+AniLibria.TV+%5BDVDRip+720p%5D&xl=1378677445&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kimi no Iru Machi  - AniLiberty.TOP [DVDRip 720p][AVC][13-14 OVA].torrent",
+    "description": "13-14 OVA",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "DVDRip",
+      "description": "DVDRip"
+    },
+    "size": 1378677445,
+    "seeders": 16
   }
 ]
