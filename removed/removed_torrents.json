@@ -9704,5 +9704,57 @@
     },
     "size": 3908888379,
     "seeders": 21
+  },
+  {
+    "releaseId": 9202,
+    "time": 1669877832,
+    "hash": "6cd941661b6e57a16b1b70b84b67e4bb66e57a26",
+    "id": 21551,
+    "magnet": "magnet:?xt=urn:btih:6cd941661b6e57a16b1b70b84b67e4bb66e57a26&dn=Yu-Gi-Oh%21+Shadow+Game+-+AniLibria.TV+%5BTVRip+720p%5D&xl=13681070884&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yu-Gi-Oh! Shadow Game - AniLiberty.TOP [TVRip 720p][AVC][1-27].torrent",
+    "description": "1-27",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "TVRip",
+      "description": "TVRip"
+    },
+    "size": 13681070884,
+    "seeders": 0
+  },
+  {
+    "releaseId": 9202,
+    "time": 1670344129,
+    "hash": "7bc4d69621a64e1bb1d2b42a1c7acb7aa40d4dfa",
+    "id": 21606,
+    "magnet": "magnet:?xt=urn:btih:7bc4d69621a64e1bb1d2b42a1c7acb7aa40d4dfa&dn=Yu-Gi-Oh%21+Shadow+Game+-+AniLibria.TV+%5BTVRip+720p+HEVC%5D&xl=5428065163&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yu-Gi-Oh! Shadow Game - AniLiberty.TOP [TVRip 720p][HEVC][1-27].torrent",
+    "description": "1-27",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "TVRip",
+      "description": "TVRip"
+    },
+    "size": 5428065163,
+    "seeders": 12
   }
 ]
