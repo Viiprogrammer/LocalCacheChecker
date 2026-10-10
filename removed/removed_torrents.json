@@ -4008,5 +4008,57 @@
     },
     "size": 2955078920,
     "seeders": 31
+  },
+  {
+    "releaseId": 9799,
+    "time": 1734969170,
+    "hash": "641f2ebc29956adeaa2a59d01e9c9e77ec457371",
+    "id": 31768,
+    "magnet": "magnet:?xt=urn:btih:641f2ebc29956adeaa2a59d01e9c9e77ec457371&dn=Ao+no+Exorcist+-+Yuki+no+Hate+Hen+-+AniLibria+%5BWEBRip+1080p%5D&xl=17830470750&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ao no Exorcist- Yuki no Hate-hen - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17830470750,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9799,
+    "time": 1734973868,
+    "hash": "786a8e6f6f5d1c7147c762b67f9c0f12eafad245",
+    "id": 31772,
+    "magnet": "magnet:?xt=urn:btih:786a8e6f6f5d1c7147c762b67f9c0f12eafad245&dn=Ao+no+Exorcist+-+Yuki+no+Hate+Hen+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3358227624&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ao no Exorcist- Yuki no Hate-hen - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3358227624,
+    "seeders": 23
   }
 ]
