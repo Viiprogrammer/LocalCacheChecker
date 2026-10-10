@@ -7758,5 +7758,57 @@
     },
     "size": 4045097483,
     "seeders": 36
+  },
+  {
+    "releaseId": 9600,
+    "time": 1711938556,
+    "hash": "b74cc75580955dd66c8ae2ffde804418a3698a43",
+    "id": 28193,
+    "magnet": "magnet:?xt=urn:btih:b74cc75580955dd66c8ae2ffde804418a3698a43&dn=Ore+dake+Level+Up+na+Ken+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=18191501111&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ore dake Level Up na Ken - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18191501111,
+    "seeders": 41
+  },
+  {
+    "releaseId": 9600,
+    "time": 1711958717,
+    "hash": "058afedd50f31e645c9ae20430a9aba3256e3bab",
+    "id": 28194,
+    "magnet": "magnet:?xt=urn:btih:058afedd50f31e645c9ae20430a9aba3256e3bab&dn=Ore+dake+Level+Up+na+Ken+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=4491915248&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ore dake Level Up na Ken - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4491915248,
+    "seeders": 78
   }
 ]

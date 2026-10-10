@@ -47908,5 +47908,310 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9600,
+    "items": [
+      {
+        "id": "9b07f1a2-f4ac-4044-91e5-2daf362394d7",
+        "name": "",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-07T00:52:33+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/1/480/fee3de6f86af9ed0c52a8604b39c5329.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/1/720/70c1078491b5d9ada9d72f4b558d36ef.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/1/1080/5dfc6533a7d9072b55429627aa3945c9.m3u8",
+        "duration": 1420,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/1/F9c0piQz6jureHd3.jpg"
+        }
+      },
+      {
+        "id": "9b15de18-95d5-4af6-9d14-f9f61773e213",
+        "name": "Будь у меня ещё один шанс...",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T22:08:53+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/2/480/af1d8a403daeef201de9b0a9a096820c.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/2/720/f8fcc2e92a3e0ff985e05ba1f1dae152.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/2/1080/14a857c59df1aed6ce0fd6cac1d58262.m3u8",
+        "duration": 1420,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 214,
+          "start": 130
+        },
+        "ending": {
+          "stop": 1412,
+          "start": 1324
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/2/VDTmaaOnUY1VK4oQ.jpg"
+        }
+      },
+      {
+        "id": "9b240007-0ea4-4131-81b7-b76e56d70a0d",
+        "name": "Совсем как в играх",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-22T04:13:44+00:00",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/3/480/edbbf80b3a221f0479ea4a9407fff301.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/3/720/a0f9b2bc0751e5d4cae6b89f2cfe680f.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/3/1080/ecd61cee82cb2b9ee54b0b576fe836b6.m3u8",
+        "duration": 1420,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 169,
+          "start": 80
+        },
+        "ending": {
+          "stop": 1415,
+          "start": 1324
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/3/cmLcFSpakSFVzwWx.jpg"
+        }
+      },
+      {
+        "id": "9b321cb2-a6f7-48ee-992d-b6e13ccb6e82",
+        "name": "Я стану сильнее",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-27T23:32:24+00:00",
+        "ordinal": 4,
+        "sortOrder": 4,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/4/480/e693f66211d1051b46f69009168f4838.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/4/720/3c59d368d8d3713e40d478f94444dd55.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/4/1080/7652cded5a67d9972e3909a3da9e1e69.m3u8",
+        "duration": 1480,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 151,
+          "start": 63
+        },
+        "ending": {
+          "stop": 1415,
+          "start": 1324
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/4/jS9ahkkMTTrkF5OE.jpg"
+        }
+      },
+      {
+        "id": "9b405b2a-c310-413a-b1e4-efb9f6d0dd0c",
+        "name": "Выгодное предложение",
+        "nameEnglish": "",
+        "updatedAt": "2024-02-04T06:40:53+00:00",
+        "ordinal": 5,
+        "sortOrder": 5,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/5/480/21d37c9b03402ce0790adf4617eafc25.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/5/720/998351f536d5f9686058732cc634e28f.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/5/1080/a115d17874eade7e13d8c13c8848dae2.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 183,
+          "start": 93
+        },
+        "ending": {
+          "stop": 1416,
+          "start": 1325
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/5/lq0YyxR9hxTGHdBp.jpg"
+        }
+      },
+      {
+        "id": "9b4e64a5-d620-422d-910a-324503093207",
+        "name": "Настоящая охота",
+        "nameEnglish": "",
+        "updatedAt": "2024-02-14T09:11:54+00:00",
+        "ordinal": 6,
+        "sortOrder": 6,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/6/480/7261a632ad69b15aea28097be60c9659.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/6/720/9fc023dd1a4a84ed8cb999766cb23779.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/6/1080/695c684633e03a28076c8e8575fdbec5.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 254,
+          "start": 169
+        },
+        "ending": {
+          "stop": 1416,
+          "start": 1325
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/6/WjtwoLq5bPMHmEfz.jpg"
+        }
+      },
+      {
+        "id": "9b5c65b9-8fd2-44cc-b433-a2452603b253",
+        "name": "Посмотрим, на что я способен",
+        "nameEnglish": "",
+        "updatedAt": "2024-02-19T02:02:00+00:00",
+        "ordinal": 7,
+        "sortOrder": 7,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/7/480/7d5858fdbfe880056c9504f8f54a6fa6.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/7/720/89294c32e6e8d28e97473250a8e2aa06.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/7/1080/7479a85457d03dda0e96d9fbcfe34cc0.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 85,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1415,
+          "start": 1325
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/7/bT83w6TigsblUIwQ.jpg"
+        }
+      },
+      {
+        "id": "9b7872e7-d3af-41ee-aa10-e6fc6575f978",
+        "name": "Бесит",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-02T22:17:21+00:00",
+        "ordinal": 8,
+        "sortOrder": 8,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/8/480/8a5e816b61be24fd9d58dc7080904fa0.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/8/720/3ed9ce14d24e0900047309bed3d132da.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/8/1080/15eb33d02551467c83f4dba1fb6475d1.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 132,
+          "start": 47
+        },
+        "ending": {
+          "stop": 1416,
+          "start": 1325
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/8/1YI1h1bqOdTz6hxt.jpg"
+        }
+      },
+      {
+        "id": "9b86b065-b27e-48ba-877e-39d0fa5fb296",
+        "name": "Так ты скрывал свою силу",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-10T00:09:53+00:00",
+        "ordinal": 9,
+        "sortOrder": 9,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/9/480/fd3ff447d9efb40d5917abec2b7a9225.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/9/720/44f1bfbf6a61c5d1366621be6846726d.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/9/1080/6a770d7e261fa4799a70957923cb24b3.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 147,
+          "start": 62
+        },
+        "ending": {
+          "stop": 1416,
+          "start": 1324
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/9/ittg6FXkQ1qef0ON.jpg"
+        }
+      },
+      {
+        "id": "9b94a30b-9be0-4719-99a2-156abb64fa36",
+        "name": "Это что, пикник?",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-17T02:35:02+00:00",
+        "ordinal": 10,
+        "sortOrder": 10,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/10/480/7cb04a4efacf5d175a710214a4127dba.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/10/720/6b196cf4f5333964072fb24d16a9a8c7.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/10/1080/5dff8620eaf77a126268532605e1d326.m3u8",
+        "duration": 1420,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 277,
+          "start": 187
+        },
+        "ending": {
+          "stop": 1416,
+          "start": 1325
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/10/Q3xfGpmiyz4Gv9fb.jpg"
+        }
+      },
+      {
+        "id": "9ba2cba0-7c33-4ddf-91f8-8209792abdb8",
+        "name": "",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-24T09:20:54+00:00",
+        "ordinal": 11,
+        "sortOrder": 11,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/11/480/f8efb09b6969dff70bd2dff9fdc82a2e.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/11/720/b3285384687dbded3750b66ce2134029.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/11/1080/c68e0a4fab7fc6f2c3088eb44db37b91.m3u8",
+        "duration": 1420,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 183,
+          "start": 94
+        },
+        "ending": {
+          "stop": 1420,
+          "start": 1325
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/11/liXIHf9W2FKlZetX.jpg"
+        }
+      },
+      {
+        "id": "9ba41532-3721-4341-a57a-fe54afbcfca4",
+        "name": "Восстань",
+        "nameEnglish": "",
+        "updatedAt": "2024-04-01T02:56:24+00:00",
+        "ordinal": 12,
+        "sortOrder": 12,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9600/12/480/ec4ea649e3e69a5f70380aa1f5a9d6eb.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9600/12/720/815dc8ac8a09431f349a02613a30cbe2.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9600/12/1080/c0723e1ca0bcc5345bc05cdcc6d6e0e0.m3u8",
+        "duration": 1420,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 209,
+          "start": 120
+        },
+        "ending": {
+          "stop": 1391,
+          "start": 1300
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9600/12/jHaqi2in7giOxDKS.jpg"
+        }
+      }
+    ]
   }
 ]
