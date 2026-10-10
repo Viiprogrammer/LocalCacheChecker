@@ -11913,5 +11913,31 @@
     },
     "size": 8626411857,
     "seeders": 29
+  },
+  {
+    "releaseId": 8438,
+    "time": 1560791064,
+    "hash": "d5f3fe9a8f26902446912ec8c84717d41204223f",
+    "id": 7261,
+    "magnet": "magnet:?xt=urn:btih:d5f3fe9a8f26902446912ec8c84717d41204223f&dn=Gintama%27+Enchousen+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=5017442135&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Gintama&#039;- Enchousen - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 5017442135,
+    "seeders": 9
   }
 ]
