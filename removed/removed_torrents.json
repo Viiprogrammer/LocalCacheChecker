@@ -7160,5 +7160,57 @@
     "size": 3042669877,
     "seeders": 48,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9640,
+    "time": 1712603656,
+    "hash": "738b1f5e2a14b49331e2ad849fd30b3205ed8238",
+    "id": 28266,
+    "magnet": "magnet:?xt=urn:btih:738b1f5e2a14b49331e2ad849fd30b3205ed8238&dn=Snack+Basue+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=19905468817&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Snack Basue - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19905468817,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9640,
+    "time": 1712673158,
+    "hash": "3bc83561f6ed9a3c3d9248902eea96cdd8f23667",
+    "id": 28282,
+    "magnet": "magnet:?xt=urn:btih:3bc83561f6ed9a3c3d9248902eea96cdd8f23667&dn=Snack+Basue+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2924472515&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Snack Basue - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2924472515,
+    "seeders": 12
   }
 ]
