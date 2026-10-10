@@ -5724,5 +5724,57 @@
     },
     "size": 3135585577,
     "seeders": 21
+  },
+  {
+    "releaseId": 9752,
+    "time": 1726493428,
+    "hash": "d32d6213ca6a89d62f981b27da36e24ac354ede0",
+    "id": 30413,
+    "magnet": "magnet:?xt=urn:btih:d32d6213ca6a89d62f981b27da36e24ac354ede0&dn=Boku+no+Tsuma+wa+Kanjou+ga+Nai+-+AniLibria+%5BWEBRip+1080p%5D&xl=17841251852&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Boku no Tsuma wa Kanjou ga Nai - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17841251852,
+    "seeders": 16
+  },
+  {
+    "releaseId": 9752,
+    "time": 1726505208,
+    "hash": "e486614be928dcefad2b09701df67a6cb956c10f",
+    "id": 30419,
+    "magnet": "magnet:?xt=urn:btih:e486614be928dcefad2b09701df67a6cb956c10f&dn=Boku+no+Tsuma+wa+Kanjou+ga+Nai+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2651689708&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Boku no Tsuma wa Kanjou ga Nai - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2651689708,
+    "seeders": 20
   }
 ]
