@@ -10934,5 +10934,57 @@
     "size": 21227595586,
     "seeders": 7,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8806,
+    "time": 1670886992,
+    "hash": "7a576d55b4584570f19374cf0dde68faf1c31470",
+    "id": 21669,
+    "magnet": "magnet:?xt=urn:btih:7a576d55b4584570f19374cf0dde68faf1c31470&dn=Tonikaku+Kawaii+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=20303751222&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tonikaku Kawaii - AniLiberty.TOP [WEBRip 1080p][AVC][1-14].torrent",
+    "description": "1-14",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 20303751222,
+    "seeders": 10
+  },
+  {
+    "releaseId": 8806,
+    "time": 1670936638,
+    "hash": "9bf5da1cf6f6f12dcfb274a77a780caa69c84698",
+    "id": 21674,
+    "magnet": "magnet:?xt=urn:btih:9bf5da1cf6f6f12dcfb274a77a780caa69c84698&dn=Tonikaku+Kawaii+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2761154868&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tonikaku Kawaii - AniLiberty.TOP [WEBRip 1080p][HEVC][1-14].torrent",
+    "description": "1-14",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2761154868,
+    "seeders": 24
   }
 ]
