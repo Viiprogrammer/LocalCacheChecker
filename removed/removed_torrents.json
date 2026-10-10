@@ -4736,5 +4736,57 @@
     },
     "size": 3732550640,
     "seeders": 54
+  },
+  {
+    "releaseId": 9783,
+    "time": 1743027338,
+    "hash": "2c3baed59434dd1df0b2ad44b9e58d8e264e6fbc",
+    "id": 32927,
+    "magnet": "magnet:?xt=urn:btih:2c3baed59434dd1df0b2ad44b9e58d8e264e6fbc&dn=Re+Zero+kara+Hajimeru+Isekai+Seikatsu+3nd+Season+-+AniLibria+%5BWEBRip+1080p%5D&xl=28554067472&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re-Zero kara Hajimeru Isekai Seikatsu 3 Season - AniLibria.TOP [WEBRip 1080p][AVC][1-16].torrent",
+    "description": "1-16",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 28554067472,
+    "seeders": 23
+  },
+  {
+    "releaseId": 9783,
+    "time": 1743058564,
+    "hash": "090713742d96d0524f7b4040358e2742a4899961",
+    "id": 32930,
+    "magnet": "magnet:?xt=urn:btih:090713742d96d0524f7b4040358e2742a4899961&dn=Re+Zero+kara+Hajimeru+Isekai+Seikatsu+3nd+Season+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3828067265&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re-Zero kara Hajimeru Isekai Seikatsu 3 Season - AniLibria.TOP [WEBRip 1080p][HEVC][1-16].torrent",
+    "description": "1-16",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 3828067265,
+    "seeders": 44
   }
 ]
