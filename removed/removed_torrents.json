@@ -9808,5 +9808,32 @@
     },
     "size": 2537647483,
     "seeders": 15
+  },
+  {
+    "releaseId": 9166,
+    "time": 1669475745,
+    "hash": "a693120ef5eb2360935382d17bf288e619cda881",
+    "id": 21487,
+    "magnet": "magnet:?xt=urn:btih:a693120ef5eb2360935382d17bf288e619cda881&dn=Yuusha%2C+Yamemasu+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=7018776115&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Yuusha, Yamemasu - AniLibria.TOP [WEBRip 1080p][1-14].torrent",
+    "description": "1-14",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 7018776115,
+    "seeders": 29,
+    "updatedAt": ""
   }
 ]
