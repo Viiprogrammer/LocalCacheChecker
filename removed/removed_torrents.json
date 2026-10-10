@@ -13646,5 +13646,31 @@
     },
     "size": 4027879183,
     "seeders": 8
+  },
+  {
+    "releaseId": 3047,
+    "time": 1550054990,
+    "hash": "7a0f8e298c7a874bbbf9d5e1c12fc1a034521a78",
+    "id": 2590,
+    "magnet": "magnet:?xt=urn:btih:7a0f8e298c7a874bbbf9d5e1c12fc1a034521a78&dn=Ajin+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=6406155906&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ajin 2 - AniLiberty.TOP [HDTVRip 720p][AVC][14-26 (1-13)].torrent",
+    "description": "14-26 (1-13)",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 6406155906,
+    "seeders": 7
   }
 ]
