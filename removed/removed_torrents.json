@@ -13143,5 +13143,31 @@
     },
     "size": 5689040176,
     "seeders": 9
+  },
+  {
+    "releaseId": 6838,
+    "time": 1550055009,
+    "hash": "addb2a702c1fa6f3ca428fd4ed01c6f97f048d62",
+    "id": 6079,
+    "magnet": "magnet:?xt=urn:btih:addb2a702c1fa6f3ca428fd4ed01c6f97f048d62&dn=Banana+Fish+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=7696773801&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Banana Fish - AniLibria.TOP [HDTVRip 720p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 7696773801,
+    "seeders": 7
   }
 ]
