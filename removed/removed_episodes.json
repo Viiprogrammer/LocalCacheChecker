@@ -51829,5 +51829,235 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9526,
+    "items": [
+      {
+        "id": "99a93ff5-4efa-46a8-84d9-d1e3f52e034d",
+        "name": "Падение.",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/1/480/ce9325837b1cbadd9d49ab5f867ed27a.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/1/720/b3f8ee8c52f63d55c9146cbc10b3a243.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/1/1080/14e0457ba9dab4a4c5f4a342bcd154c2.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1490,
+        "updatedAt": "2023-07-16T16:02:10+00:00",
+        "opening": {
+          "start": 186,
+          "stop": 285
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/1/9clPVc9Csu3GfOa5.jpg"
+        }
+      },
+      {
+        "id": "99ab95f9-2e70-41d5-8986-06b261e50575",
+        "name": "Ночной рейд.",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/2/480/5487261e89d13654ce082654185d6e0e.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/2/720/4646b21a14b642841e53c234c9861980.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/2/1080/3806d49dd97595b1e3483d773857e147.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1440,
+        "updatedAt": "2023-07-17T19:51:13+00:00",
+        "opening": {
+          "start": 105,
+          "stop": 205
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/2/4eXyTIyFSKcKiF4Z.jpg"
+        }
+      },
+      {
+        "id": "99b3cb21-37e8-4ddd-b064-a3dfa5e92cf7",
+        "name": "У кого-то есть дочь",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/3/480/28186336d7e8f939d45bc7ce090060a0.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/3/720/a7d3c7efc914f9201a256bc8af6f9566.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/3/1080/a29cc2b5c8bf54eac2566e86fe89dfae.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1530,
+        "updatedAt": "2023-07-21T22:01:09+00:00",
+        "opening": {
+          "start": 120,
+          "stop": 185
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/3/Dzh3BIaD84HgTeVv.jpg"
+        }
+      },
+      {
+        "id": "99c1ed51-1703-4192-8e77-9630a37fd4d9",
+        "name": "Они на фото",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/4/480/156b35aa3453ac8feebdb83e3c63c0bb.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/4/720/8c6c0a493e84fbdaface368e5467504a.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/4/1080/ce0347e87b628144b8c5df85ce6ac910.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1480,
+        "updatedAt": "2023-07-28T22:26:13+00:00",
+        "opening": {
+          "start": 206,
+          "stop": 304
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/4/0miGJAKhHNVZvpwq.jpg"
+        }
+      },
+      {
+        "id": "99d14f9b-3b92-4fc9-ac6b-c1f657b11e6f",
+        "name": "Последний ужин",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/5/480/5c6775a898df8b8f173ad42c9241edbe.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/5/720/cab733246a12daac0c121ad42d40be65.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/5/1080/33ddbe03726f7558dc5c0ce975a997d4.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1462,
+        "updatedAt": "2023-08-05T13:57:09+00:00",
+        "opening": {
+          "start": 119,
+          "stop": 218
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/5/JBwvXktoJf7GI5wR.jpg"
+        }
+      },
+      {
+        "id": "99de0819-6a98-4b96-bb1e-5e48fa3d5af9",
+        "name": "Ли Тянь Си",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/6/480/618d5f9443abd35ba418f4c86527a283.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/6/720/9ac4435b135bd63cd53122f5a4e1eb1c.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/6/1080/892b168587bb254460cf28a1cd00a511.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1452,
+        "updatedAt": "2023-08-11T21:42:37+00:00",
+        "opening": {
+          "start": 150,
+          "stop": 248
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/6/BEhYEZnmMpYVqCNF.jpg"
+        }
+      },
+      {
+        "id": "99edfe69-0aa0-4850-bcc9-378387085452",
+        "name": "Уличные бои",
+        "ordinal": 7,
+        "sortOrder": 6,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/7/480/d37afe5e88d8316e4cb78ac06f3edb0f.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/7/720/d5cd9068e9473626829369f5f93af9da.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/7/1080/68e99167f38a4d842997ae1ed8a93ec6.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1367,
+        "updatedAt": "2023-08-19T20:08:16+00:00",
+        "opening": {
+          "start": 192,
+          "stop": 291
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/7/J92RPqBXPlNIalH7.jpg"
+        }
+      },
+      {
+        "id": "99fbc51a-3261-4382-a876-8c4f50641d02",
+        "name": "Заложник",
+        "ordinal": 8,
+        "sortOrder": 7,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/8/480/a75fafdb34ad336cd44f0c3558f0f1be.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/8/720/221dc3e680e5a3107deb0ac291099999.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/8/1080/cc5a135dafe45b1cfed7e899496dd116.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1483,
+        "updatedAt": "2023-08-26T16:31:36+00:00",
+        "opening": {
+          "start": 115,
+          "stop": 215
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/8/ISVe3q78dA4GsQFe.jpg"
+        }
+      },
+      {
+        "id": "9a0a0636-5351-48e6-9ab5-994321e806f2",
+        "name": "Три истории",
+        "ordinal": 9,
+        "sortOrder": 8,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/9/480/e5128433cb79a8568188a4312e610867.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/9/720/f481330d29c3fcefca0d8f3640694ab5.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/9/1080/5a75ba83d767bcbc2603066e5334aa6d.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1648,
+        "updatedAt": "2023-09-02T19:14:07+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/9/6sFuZ62i8ynTLvyk.jpg"
+        }
+      },
+      {
+        "id": "9a1840eb-79ae-4fdb-a020-818cde086567",
+        "name": "Импровизируй",
+        "ordinal": 10,
+        "sortOrder": 9,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/10/480/4d7fb1f90c982c2a060e57e08173ea5f.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/10/720/a6d8e8421c5bfba368d7045ec95d6d18.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/10/1080/e1f99fa576f5efca2c190df0db267872.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1495,
+        "updatedAt": "2023-09-09T20:19:49+00:00",
+        "opening": {
+          "start": 152,
+          "stop": 251
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/10/TbpFZB9PSoOZSzMF.jpg"
+        }
+      },
+      {
+        "id": "9a2709ff-1ed7-460a-8500-79daccc212d4",
+        "name": "Столкновение",
+        "ordinal": 11,
+        "sortOrder": 10,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/11/480/5b46350538197ccc625f9f3c50e3b464.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/11/720/1d19c2b2a3798e80a23c665edc0f10cc.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/11/1080/67873829dc2eaa11c28215bb34e89fba.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1403,
+        "updatedAt": "2023-09-17T04:41:31+00:00",
+        "opening": {
+          "start": 235,
+          "stop": 356
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/11/RyB5JU05V6ULYJKk.jpg"
+        }
+      },
+      {
+        "id": "9a34fcd6-a6a7-4547-a66f-77f1d15f0815",
+        "name": "Смогу ли я жить без братика?",
+        "ordinal": 12,
+        "sortOrder": 11,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9526/12/480/d2753a36ff5d065f6fc5748f53de144f.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9526/12/720/a72e80f7b7d7d3e1fc6a2935b7b0d510.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9526/12/1080/c3230994f86a3104c9caf4906d52190d.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1585,
+        "updatedAt": "2023-09-24T03:33:44+00:00",
+        "opening": {
+          "start": 138,
+          "stop": 237
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9526/12/DFb6oYFiAjLL0euc.jpg"
+        }
+      }
+    ]
   }
 ]
