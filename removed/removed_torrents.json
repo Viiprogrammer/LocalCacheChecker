@@ -9600,5 +9600,57 @@
     "size": 171984526,
     "seeders": 10,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9243,
+    "time": 1669133579,
+    "hash": "b19bf835ef6190cdc519f731a17e5b610b57cc35",
+    "id": 21447,
+    "magnet": "magnet:?xt=urn:btih:b19bf835ef6190cdc519f731a17e5b610b57cc35&dn=Strike+the+Blood+Final+-+AniLibria.TV+%5BBDRip+1080p%5D&xl=4798303641&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Strike the Blood Final - AniLiberty.TOP [BDRip 1080p][AVC][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 4798303641,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9243,
+    "time": 1715614323,
+    "hash": "dce65aeaa6308f79eddfd7c47c3097dfbc17712a",
+    "id": 28755,
+    "magnet": "magnet:?xt=urn:btih:dce65aeaa6308f79eddfd7c47c3097dfbc17712a&dn=Strike+the+Blood+Final+-+AniLibria+%5BBDRip+1080p+HEVC%5D&xl=778403516&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Strike the Blood Final - AniLiberty.TOP [BDRip 1080p][HEVC][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 778403516,
+    "seeders": 15
   }
 ]
