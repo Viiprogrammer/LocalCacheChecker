@@ -12723,5 +12723,31 @@
     },
     "size": 6751550858,
     "seeders": 12
+  },
+  {
+    "releaseId": 8357,
+    "time": 1554396568,
+    "hash": "b09a5d580f3b497c07dd287a06110c4c2903945b",
+    "id": 6670,
+    "magnet": "magnet:?xt=urn:btih:b09a5d580f3b497c07dd287a06110c4c2903945b&dn=Chihayafuru+-+AniLibria.TV+%5BBDRip+720p%5D&xl=16404881407&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chihayafuru - AniLiberty.TOP [BDRip 720p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 16404881407,
+    "seeders": 11
   }
 ]
