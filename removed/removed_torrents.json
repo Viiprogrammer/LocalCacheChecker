@@ -8392,5 +8392,59 @@
     "size": 3057513516,
     "seeders": 47,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9468,
+    "time": 1682779370,
+    "hash": "03672d6d234112e93b1bbd5ea391e549941ec892",
+    "id": 23524,
+    "magnet": "magnet:?xt=urn:btih:03672d6d234112e93b1bbd5ea391e549941ec892&dn=Watashi_ni_Tenshi_ga_Maiorita%21_Precious_Friends_%5BAniLibria_TV%5D_%5BWEBRip_1080p%5D.mkv&xl=2172225223&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Watashi ni Tenshi ga Maiorita! Precious Friends - AniLibria.TOP [WEBRip 1080p][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 2172225223,
+    "seeders": 7,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9468,
+    "time": 1682830692,
+    "hash": "ed292cedc5c98dc5797aa2c1ee7926dc469d1a13",
+    "id": 23542,
+    "magnet": "magnet:?xt=urn:btih:ed292cedc5c98dc5797aa2c1ee7926dc469d1a13&dn=Watashi_ni_Tenshi_ga_Maiorita%21_Precious_Friends_%5BAniLibria_TV%5D_%5BWEBRip_1080p_HEVC%5D.mkv&xl=541739509&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Watashi ni Tenshi ga Maiorita! Precious Friends - AniLibria.TOP [WEBRip 1080p][HEVC][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 541739509,
+    "seeders": 11,
+    "updatedAt": ""
   }
 ]
