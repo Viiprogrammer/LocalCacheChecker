@@ -15928,5 +15928,110 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9854,
+    "items": [
+      {
+        "id": "9de61d9c-e715-4a7c-b6f3-26fda90beab3",
+        "name": "Единственный ингредиент",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9854/1/480/bba140a367ac725e8d483ed18cec313e.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9854/1/720/45fed33cae74bb66162a8e3068ca93b4.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9854/1/1080/e92fb4334336c37fd33f5ac4f0de0d0b.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-01-05T22:56:48+00:00",
+        "opening": {
+          "start": 86,
+          "stop": 174
+        },
+        "ending": {
+          "start": 1300,
+          "stop": 1389
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9854/1/su8ICLFCWT5JlpAv.jpg"
+        }
+      },
+      {
+        "id": "9ded9352-7e09-4abd-9e02-722e2be2a3ee",
+        "name": "Рассеянный свет",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9854/2/480/269bcf6ec3b91f22870956f196a92789.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9854/2/720/54795aba8d0ed5b70871e4b6ae0cf6b1.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9854/2/1080/66bbbb3768ec0c844757eb64c99241ca.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-01-09T15:57:12+00:00",
+        "opening": {
+          "start": 69,
+          "stop": 158
+        },
+        "ending": {
+          "start": 1284,
+          "stop": 1374
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9854/2/AIwegu43qPSeLPwi.jpg"
+        }
+      },
+      {
+        "id": "9dfcfc40-f11d-47b9-818f-3e32f675431c",
+        "name": "Волшебный замок духов",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9854/3/480/b676221412e646bf291c4242b81a9406.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9854/3/720/cd7830f3b18036d58500d9647abcde51.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9854/3/1080/19c6a13c85948fab4ea764bece8e20c9.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-01-17T07:51:04+00:00",
+        "opening": {
+          "start": 43,
+          "stop": 132
+        },
+        "ending": {
+          "start": 1271,
+          "stop": 1360
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9854/3/y4rcJyIkoJUBZSb4.jpg"
+        }
+      },
+      {
+        "id": "9e0c225d-fadb-4091-9e14-9e756a121423",
+        "name": "Запретные навыки",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9854/4/480/d9c44092322c117ab4be48cb88e6a2b7.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9854/4/720/30b0422864e6bf3ad58655908a5d6942.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9854/4/1080/7592f88c39255a689cbaaf31daae69a1.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-01-24T20:34:28+00:00",
+        "opening": {
+          "start": 82,
+          "stop": 172
+        },
+        "ending": {
+          "start": 1258,
+          "stop": 1348
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9854/4/PfIRmDIFPLeZxFSu.jpg"
+        }
+      }
+    ]
   }
 ]

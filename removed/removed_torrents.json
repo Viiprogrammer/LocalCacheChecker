@@ -2730,5 +2730,59 @@
     },
     "size": 1783380473,
     "seeders": 14
+  },
+  {
+    "releaseId": 9854,
+    "time": 1737103870,
+    "hash": "c18c922a765bfabd66b2095bf28fd8dc1eef1756",
+    "id": 32036,
+    "magnet": "magnet:?xt=urn:btih:c18c922a765bfabd66b2095bf28fd8dc1eef1756&dn=Kinomi+Master+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=659671048&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Hazure Skill \"Kinomi Master\"- Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite - AniLibria.TOP [WEBRip 1080p][HEVC][1-3].torrent",
+    "description": "1-3",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 659671048,
+    "seeders": 61,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9854,
+    "time": 1737750309,
+    "hash": "7eb8db6bac12a9e59b934886dc6c990256038e58",
+    "id": 32137,
+    "magnet": "magnet:?xt=urn:btih:7eb8db6bac12a9e59b934886dc6c990256038e58&dn=Kinomi+Master+-+AniLibria+%5BWEBRip+1080p%5D&xl=5879126389&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Hazure Skill \"Kinomi Master\"- Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite - AniLibria.TOP [WEBRip 1080p][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 5879126389,
+    "seeders": 45,
+    "updatedAt": ""
   }
 ]
