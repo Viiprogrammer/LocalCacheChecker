@@ -11252,5 +11252,57 @@
     "size": 4544956502,
     "seeders": 9,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8665,
+    "time": 1616712540,
+    "hash": "9913e606cd60506c24ab2044272fd3658f30d203",
+    "id": 14514,
+    "magnet": "magnet:?xt=urn:btih:9913e606cd60506c24ab2044272fd3658f30d203&dn=Re+Zero+Kara+Hajimeru+Isekai+Seikatsu+2+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=43435418199&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re-Zero kara Hajimeru Isekai Seikatsu 2nd Season - AniLibria.TOP [WEBRip 1080p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 43435418199,
+    "seeders": 10
+  },
+  {
+    "releaseId": 8665,
+    "time": 1616734296,
+    "hash": "281d25c1a99739b389674eac0c5759a07e7d944c",
+    "id": 14515,
+    "magnet": "magnet:?xt=urn:btih:281d25c1a99739b389674eac0c5759a07e7d944c&dn=Re+Zero+Kara+Hajimeru+Isekai+Seikatsu+2+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=5333548960&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re-Zero kara Hajimeru Isekai Seikatsu 2nd Season - AniLibria.TOP [WEBRip 1080p][HEVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 5333548960,
+    "seeders": 28
   }
 ]
