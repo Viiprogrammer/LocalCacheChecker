@@ -5360,5 +5360,57 @@
     },
     "size": 3832696688,
     "seeders": 12
+  },
+  {
+    "releaseId": 9760,
+    "time": 1727287502,
+    "hash": "35a0d6997ee4afaa450f13d1e74a325885bb9712",
+    "id": 30539,
+    "magnet": "magnet:?xt=urn:btih:35a0d6997ee4afaa450f13d1e74a325885bb9712&dn=Mayonaka+Punch+-+AniLibria+%5BWEBRip+1080p%5D&xl=17847714827&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mayonaka Punch - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17847714827,
+    "seeders": 11
+  },
+  {
+    "releaseId": 9760,
+    "time": 1727344417,
+    "hash": "18f78b955d17998825e9fde6bed9eadc0fdbcf25",
+    "id": 30548,
+    "magnet": "magnet:?xt=urn:btih:18f78b955d17998825e9fde6bed9eadc0fdbcf25&dn=Mayonaka+Punch+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3062701548&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mayonaka Punch - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3062701548,
+    "seeders": 15
   }
 ]
