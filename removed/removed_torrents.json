@@ -2208,5 +2208,57 @@
     },
     "size": 3032720949,
     "seeders": 42
+  },
+  {
+    "releaseId": 10012,
+    "time": 1752566148,
+    "hash": "7f0792bbe34ce967ca863daaf5a98dbd727e30f3",
+    "id": 34239,
+    "magnet": "magnet:?xt=urn:btih:7f0792bbe34ce967ca863daaf5a98dbd727e30f3&dn=Busamen+Gachi+Fighter+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=3031955260&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Busamen Gachi Fighter - AniLibria.TOP [WEB-DL 1080p][AVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 3031955260,
+    "seeders": 19
+  },
+  {
+    "releaseId": 10012,
+    "time": 1752569300,
+    "hash": "9781977771e51f4faa8d2240154d04f11afecde1",
+    "id": 34241,
+    "magnet": "magnet:?xt=urn:btih:9781977771e51f4faa8d2240154d04f11afecde1&dn=Busamen+Gachi+Fighter+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=424267563&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Busamen Gachi Fighter - AniLibria.TOP [WEB-DL 1080p][HEVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 424267563,
+    "seeders": 29
   }
 ]

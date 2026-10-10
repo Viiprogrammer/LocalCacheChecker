@@ -12854,5 +12854,57 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10012,
+    "items": [
+      {
+        "id": "9f562622-eb82-47b0-9129-7ffbb59f3837",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10012/1/480/f66fa42aefb9c337fb4b21e36aa13b4c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10012/1/720/5b4b7e6d24a44f7de866419b01059b9b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10012/1/1080/73791b1af7b2057f49e578ef0bbba6f4.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1430,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-08T19:27:05+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1340,
+          "stop": 1429
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10012/1/H4SVJQnTrZvR8ipB.jpg"
+        }
+      },
+      {
+        "id": "9f651a9a-efb7-4a09-8094-3f403e6efaf8",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10012/2/480/cf97d82927c0df582688e3f93e7416fe.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10012/2/720/fd9f74cf6ae66f59b7bea8e342baf513.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10012/2/1080/724e8fe8e0e606fef096c0ae364ca69c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1431,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-15T08:12:56+00:00",
+        "opening": {
+          "start": 76,
+          "stop": 166
+        },
+        "ending": {
+          "start": 1341,
+          "stop": 1430
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10012/2/Ju5ip75qb0AoX8ER.jpg"
+        }
+      }
+    ]
   }
 ]
