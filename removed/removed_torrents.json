@@ -9652,5 +9652,57 @@
     },
     "size": 778403516,
     "seeders": 15
+  },
+  {
+    "releaseId": 9215,
+    "time": 1678535372,
+    "hash": "f8b6d2c8de157b99352b315007c561842e3166b7",
+    "id": 22876,
+    "magnet": "magnet:?xt=urn:btih:f8b6d2c8de157b99352b315007c561842e3166b7&dn=Made+in+Abyss+-+Retsujitsu+no+Ougonkyou+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=7082170203&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Made in Abyss- Retsujitsu no Ougonkyou - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 7082170203,
+    "seeders": 41
+  },
+  {
+    "releaseId": 9215,
+    "time": 1766771453,
+    "hash": "f2f46c25d33aaf5a0d3fc068178b43a4ecdc53a6",
+    "id": 36470,
+    "magnet": "magnet:?xt=urn:btih:f2f46c25d33aaf5a0d3fc068178b43a4ecdc53a6&dn=Made+in+Abyss+-+Retsujitsu+no+Ougonkyou+-+AniLiberty+%5BWEBRip+1080p+HEVC%5D&xl=3908888379&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Made in Abyss- Retsujitsu no Ougonkyou - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3908888379,
+    "seeders": 21
   }
 ]
