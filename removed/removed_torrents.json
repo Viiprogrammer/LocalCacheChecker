@@ -11676,5 +11676,32 @@
     "size": 2690923566,
     "seeders": 8,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8554,
+    "time": 1591568552,
+    "hash": "13083e1ae46834a1be4bcd021efdad05d8674ad2",
+    "id": 10828,
+    "magnet": "magnet:?xt=urn:btih:13083e1ae46834a1be4bcd021efdad05d8674ad2&dn=Ishuzoku+Reviewers+-+AniLibria.TV+%5BWEBRip+720p%5D&xl=4941747742&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Ishuzoku Reviewers - AniLibria.TOP [WEBRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 4941747742,
+    "seeders": 28,
+    "updatedAt": ""
   }
 ]
