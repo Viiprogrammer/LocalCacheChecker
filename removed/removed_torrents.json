@@ -6452,5 +6452,57 @@
     },
     "size": 5667505019,
     "seeders": 26
+  },
+  {
+    "releaseId": 9732,
+    "time": 1727264759,
+    "hash": "a701764d1e6ee8c07225afa8baa8b57c3fa365d8",
+    "id": 30530,
+    "magnet": "magnet:?xt=urn:btih:a701764d1e6ee8c07225afa8baa8b57c3fa365d8&dn=Isekai+Shikkaku+-+AniLibria+%5BWEBRip+1080p%5D&xl=17784668453&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Isekai Shikkaku - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17784668453,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9732,
+    "time": 1727282967,
+    "hash": "7518c3fd35252356e5813a78139ffbd0b4e206b1",
+    "id": 30534,
+    "magnet": "magnet:?xt=urn:btih:7518c3fd35252356e5813a78139ffbd0b4e206b1&dn=Isekai+Shikkaku+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2598626465&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Isekai Shikkaku - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2598626465,
+    "seeders": 36
   }
 ]
