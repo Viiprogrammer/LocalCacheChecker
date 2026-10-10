@@ -2784,5 +2784,57 @@
     "size": 5879126389,
     "seeders": 45,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9841,
+    "time": 1751691408,
+    "hash": "b863aa0884c665637262619956fcbcb6daee1836",
+    "id": 34059,
+    "magnet": "magnet:?xt=urn:btih:b863aa0884c665637262619956fcbcb6daee1836&dn=Kusuriya+no+Hitorigoto+2nd+Season+-+AniLibria+%5BWEBRip+1080p%5D&xl=36271683095&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kusuriya no Hitorigoto 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 36271683095,
+    "seeders": 49
+  },
+  {
+    "releaseId": 9841,
+    "time": 1751733529,
+    "hash": "533ed0fd0ec5ad86745db2f977343d2e18209132",
+    "id": 34068,
+    "magnet": "magnet:?xt=urn:btih:533ed0fd0ec5ad86745db2f977343d2e18209132&dn=Kusuriya+no+Hitorigoto+2nd+Season+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=4954605469&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kusuriya no Hitorigoto 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4954605469,
+    "seeders": 122
   }
 ]
