@@ -10398,5 +10398,59 @@
     "size": 333174492,
     "seeders": 7,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8941,
+    "time": 1613939400,
+    "hash": "87a6bfd7427decbd6ded455eeeb0ee0fd5c36774",
+    "id": 14028,
+    "magnet": "magnet:?xt=urn:btih:87a6bfd7427decbd6ded455eeeb0ee0fd5c36774&dn=Kara_no_Kyoukai_3_Tsuukaku_Zanryuu_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=2973040693&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 3- Tsuukaku Zanryuu - AniLibria.TOP [BDRip 1080p][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 2973040693,
+    "seeders": 6,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8941,
+    "time": 1614694217,
+    "hash": "e5985721f6a462200d47f1da800e8a746569f95b",
+    "id": 14166,
+    "magnet": "magnet:?xt=urn:btih:e5985721f6a462200d47f1da800e8a746569f95b&dn=Kara_no_Kyoukai_3_Tsuukaku_Zanryuu_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=437591709&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 3- Tsuukaku Zanryuu - AniLibria.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 437591709,
+    "seeders": 7,
+    "updatedAt": ""
   }
 ]
