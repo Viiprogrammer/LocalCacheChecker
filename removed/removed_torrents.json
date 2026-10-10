@@ -12384,5 +12384,31 @@
     },
     "size": 5818170333,
     "seeders": 10
+  },
+  {
+    "releaseId": 8370,
+    "time": 1554514638,
+    "hash": "f3c4f76ad3458c1bfd90fca2b438b92e974bbac0",
+    "id": 6693,
+    "magnet": "magnet:?xt=urn:btih:f3c4f76ad3458c1bfd90fca2b438b92e974bbac0&dn=One+Off+-+AniLibria.TV+%5BBDRip+720p%5D&xl=1370735600&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "One Off  - AniLiberty.TOP [BDRip 720p][AVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1370735600,
+    "seeders": 10
   }
 ]
