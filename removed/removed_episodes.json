@@ -12345,5 +12345,32 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10043,
+    "items": [
+      {
+        "id": "9ffe3515-3d56-47cd-ae2c-3eb2a0449c57",
+        "name": "Явление неожиданного босса",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10043/1/480/690d1bb3c3bc79893de2e88e13b8db87.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10043/1/720/566ff3fc01a0820bbc54291ca7075071.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10043/1/1080/a9b19deb1edc88fcc7ba7473fafb4883.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-09-29T11:06:38+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1331,
+          "stop": 1419
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10043/1/6ZwnYV4hBClkBpTK.jpg"
+        }
+      }
+    ]
   }
 ]
