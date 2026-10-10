@@ -10826,5 +10826,59 @@
     "size": 3564599916,
     "seeders": 44,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8832,
+    "time": 1600602120,
+    "hash": "5daf61fcb51576db80ef75286cbf3987e20c4e5a",
+    "id": 11913,
+    "magnet": "magnet:?xt=urn:btih:5daf61fcb51576db80ef75286cbf3987e20c4e5a&dn=Sekaiichi_Hatsukoi_2_-_Propose-hen_%5B01%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=1583043907&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Sekaiichi Hatsukoi- Propose-hen - AniLibria.TOP [BDRip 1080p][AVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 1583043907,
+    "seeders": 7,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8832,
+    "time": 1600602159,
+    "hash": "80eac77ca3f9880c06b820743762cfd5058adbd7",
+    "id": 11914,
+    "magnet": "magnet:?xt=urn:btih:80eac77ca3f9880c06b820743762cfd5058adbd7&dn=Sekaiichi_Hatsukoi_2_-_Propose-hen_%5B01%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=137769155&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Sekaiichi Hatsukoi- Propose-hen - AniLibria.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 137769155,
+    "seeders": 7,
+    "updatedAt": ""
   }
 ]

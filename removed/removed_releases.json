@@ -4830,5 +4830,28 @@
     "year": "2021",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "sekaiichi-hatsukoi-2-propose-hen",
+    "countTorrents": 2,
+    "countVideos": 1,
+    "description": "Сборник историй о каждой паре вселенной \"Лучшая в мире первая любовь\". Столкновение Онодэры Рицу и Масамуне Такано на свадебном банкете, забавная беседа Ёсино Тиаки и Ёсиюки Хатори, ночная встреча Юкины Ко и Кисы Сёты, разговор о будущем Такафуми Ёкадзавы и Киришимы Дзен - все это ждет вас в данном короткометражном фильме.",
+    "genres": "Комедия, Драма, Романтика",
+    "id": 8832,
+    "originalName": "Sekaiichi Hatsukoi: Propose-hen",
+    "poster": "/storage/releases/posters/8832/POWNea5yHRrJNx9FfeVXJ346PLComVKq.jpg",
+    "rating": 241,
+    "season": "Зима",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "timestamp": 1600604587,
+    "title": "Лучшая в мире первая любовь 2: Предложение [DEL]",
+    "type": "Фильм",
+    "voices": "Derenn, Vulpis, Crowley, Andryoushka, Kiyoko Koheiri",
+    "team": "Derenn, Vulpis, Crowley, Andryoushka, Kiyoko Koheiri, YouNet Translate (YNT), StuffyHarbor",
+    "year": "2020",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
