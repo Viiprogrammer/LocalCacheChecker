@@ -2522,5 +2522,57 @@
     },
     "size": 2328439632,
     "seeders": 18
+  },
+  {
+    "releaseId": 9919,
+    "time": 1759508588,
+    "hash": "0f24141814dc42e83bc16a30d9ad76c360e50bb6",
+    "id": 35404,
+    "magnet": "magnet:?xt=urn:btih:0f24141814dc42e83bc16a30d9ad76c360e50bb6&dn=Summer+pokets+-+AniLibria+%5BWEBRip+1080p%5D&xl=38881770620&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Summer Pockets - AniLibria.TOP [WEBRip 1080p][AVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 38881770620,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9919,
+    "time": 1759509567,
+    "hash": "b07de108ae7eefeb6e7bb6da0be0aaa1e0eaccf7",
+    "id": 35405,
+    "magnet": "magnet:?xt=urn:btih:b07de108ae7eefeb6e7bb6da0be0aaa1e0eaccf7&dn=Summer+pokets+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=4668867958&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Summer Pockets - AniLibria.TOP [WEBRip 1080p][HEVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 4668867958,
+    "seeders": 21
   }
 ]

@@ -14160,5 +14160,633 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9919,
+    "items": [
+      {
+        "id": "9ea338af-aaab-40d6-aeec-8eb412607744",
+        "name": "Добро пожаловать на остров Ториширо",
+        "nameEnglish": "Welcome to Torishirojima island",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/1/480/4205021d744fb0c4f9bf51baef5dffc9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/1/720/f6362313f5991095cee393e85ef17db5.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/1/1080/5dd9749e08363226acf6c186af7692c3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-04-10T10:14:24+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1330,
+          "stop": 1419
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/1/TUV6f4vx2X1CndDh.jpg"
+        }
+      },
+      {
+        "id": "9eafc67d-0a4b-4b30-8cdb-5d82c7ed93f4",
+        "name": "Как провести летние каникулы",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/2/480/690e3c287ea9e0c80301e5b9ffe7fc33.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/2/720/af914b6be06fbfa8e0ee729150e84f98.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/2/1080/41abcbcd9e73b9b8d32749de55fad2ff.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-04-17T21:25:50+00:00",
+        "opening": {
+          "start": 45,
+          "stop": 135
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1419
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/2/P0KF41Hr4GLtvTAe.jpg"
+        }
+      },
+      {
+        "id": "9ebd4701-32c0-4576-a992-1e2a248a2e08",
+        "name": "Пиратский корабль и девочка",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/3/480/51a873ad894ae4476813cde644d7a3a2.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/3/720/a7169e5cb613f5cb67ec94ba8aac1732.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/3/1080/22256725edb81204d6e4bfc6b0e9501f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-04-22T22:15:26+00:00",
+        "opening": {
+          "start": 37,
+          "stop": 127
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/3/vNzSh3vwE0OMw2xb.jpg"
+        }
+      },
+      {
+        "id": "9ecf38ec-7bca-404f-8c57-ad8420541a6e",
+        "name": "Одно сокровище лета",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/4/480/123d852ebb9ac6788d1922ccbdd93413.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/4/720/2fcf1050794d340030802f31c3022597.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/4/1080/f1d1a3cdf6ff51ede97f37f8e195c42c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-05-02T05:53:57+00:00",
+        "opening": {
+          "start": 93,
+          "stop": 183
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1418
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/4/Uy7USqHKKIn6mITq.jpg"
+        }
+      },
+      {
+        "id": "9edb4ec7-ff43-49a2-add2-c3c167f4ae4a",
+        "name": "Приключение Хигенеко",
+        "nameEnglish": "",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/5/480/94b3d173da26128d16120124c558e56d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/5/720/deb335510e27233e93cdbc05a6413179.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/5/1080/f88caa89ca196762e80ee574a656f28a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-05-07T20:12:55+00:00",
+        "opening": {
+          "start": 81,
+          "stop": 171
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/5/EdfGUWRQrntgMLFl.jpg"
+        }
+      },
+      {
+        "id": "9eee325d-7a78-4931-bdf4-c1466ad42765",
+        "name": "Через семь морей",
+        "nameEnglish": "",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/6/480/fa8b2fdfb8771cc35a194f9e2f6a17c5.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/6/720/451fe20a9ebf4ff483641bd6d73bf56a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/6/1080/1bcdb83275d2b8b6b313b20293434890.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-05-17T05:45:25+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/6/gmyC1WlhgryhkOAH.jpg"
+        }
+      },
+      {
+        "id": "9ef6dda1-243e-469a-9498-a19ce3755b30",
+        "name": "Маяк, песня и девочка",
+        "nameEnglish": "The Lighthouse, the Song and the Girl",
+        "ordinal": 7,
+        "sortOrder": 6,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/7/480/d31809d07fffb3aa0c0cbb32e225dd85.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/7/720/25dbfd24633b2e3854705150041a006f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/7/1080/3409de9a9fcc603d27663da7dcc3fd9b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-05-21T13:00:55+00:00",
+        "opening": {
+          "start": 114,
+          "stop": 204
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/7/Q3oYETXUs1EcoMiZ.jpg"
+        }
+      },
+      {
+        "id": "9f0920dc-549c-4879-8547-4630fa23c3b1",
+        "name": "В поиске приключений",
+        "nameEnglish": "looking for things to do",
+        "ordinal": 8,
+        "sortOrder": 7,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/8/480/b28b31b8ff039ac6f396649561c9d9f9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/8/720/fbb19eaa07398d80f3b76728ac02ebc4.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/8/1080/809bcc2d7c2eb301c2eb99c3e314abe2.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-06-06T10:10:11+00:00",
+        "opening": {
+          "start": 50,
+          "stop": 140
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/8/ETDxHhiuAnC9t3QW.jpg"
+        }
+      },
+      {
+        "id": "9f16bd6f-7a19-4d2b-b7f0-96628027802e",
+        "name": "Цумуги и Цумуги",
+        "nameEnglish": "Tsumugi and Tsumugi",
+        "ordinal": 9,
+        "sortOrder": 8,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/9/480/7bb53c2d4fb5adfcea15f5dea92c32ab.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/9/720/6ec2d7309fae44a8cc26b81d5277093d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/9/1080/78a4bcce6d53598b74bbaac0d3327cfc.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-06-06T09:31:07+00:00",
+        "opening": {
+          "start": 99,
+          "stop": 189
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/9/rYwHXpGsrCSwcVoU.jpg"
+        }
+      },
+      {
+        "id": "9f24cd9f-6ca5-4c4d-94b5-6ea1f2b3d778",
+        "name": "Летние каникулы которые стоит провести всю жизнь",
+        "nameEnglish": "A Lifetime's Worth of Summer Breaks",
+        "ordinal": 10,
+        "sortOrder": 9,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/10/480/52a87f9f00937edcc4853ed3e2ac4565.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/10/720/31d8b66282eee60a04542e305656a5f9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/10/1080/fd91b6d6a66517feefdf802825481537.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-06-13T09:10:07+00:00",
+        "opening": {
+          "start": 99,
+          "stop": 189
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/10/aSoIzyo4GwPXCQ56.jpg"
+        }
+      },
+      {
+        "id": "9f322f09-93e9-4ac1-b2d9-ad5cb5fc6c40",
+        "name": "Летняя бабочка и ночная девочка",
+        "nameEnglish": "The Summer Butterfly and the Night Girl",
+        "ordinal": 11,
+        "sortOrder": 10,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/11/480/fe651e886b253333328ab69c333914c8.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/11/720/ae8da9696313c5417dea7db1fbb6351e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/11/1080/a30db33bfab18aa8bbcd7ad430a09477.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-04T05:43:12+00:00",
+        "opening": {
+          "start": 32,
+          "stop": 122
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1418
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/11/U7haIcldk8xopFxE.jpg"
+        }
+      },
+      {
+        "id": "9f40ee3e-1eb3-4fcb-aa04-74ba1d1b0adc",
+        "name": "Жрица Соракадо",
+        "nameEnglish": "Priestess of Sorakado",
+        "ordinal": 12,
+        "sortOrder": 11,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/12/480/0f011b4e5312dc15a3ce7de5f50cc9a0.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/12/720/2fc84529bd2ed84afc5db23d6a5d69e0.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/12/1080/f4dd37d429a5c23e418bbd9dca25882e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-06-27T08:55:40+00:00",
+        "opening": {
+          "start": 17,
+          "stop": 107
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/12/6KIEDE8vlHBhHm94.jpg"
+        }
+      },
+      {
+        "id": "9f4ec350-1a04-4d21-b81e-885b3ed23261",
+        "name": "Пара бабочек",
+        "nameEnglish": "A Pair of Butterflies",
+        "ordinal": 13,
+        "sortOrder": 12,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/13/480/d4041c5048800743155289bf6c4197a9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/13/720/447b8ce13ecd10075549f6abcdaf344d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/13/1080/8e12049c0b0d2e3a0430403866d5ebcd.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-04T05:48:36+00:00",
+        "opening": {
+          "start": 54,
+          "stop": 144
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/13/CemVKDiBKTa158cO.jpg"
+        }
+      },
+      {
+        "id": "9f5d0f36-77c9-4193-9221-4df8707c5cfb",
+        "name": "Воспоминания зари",
+        "nameEnglish": "Dawn memories",
+        "ordinal": 14,
+        "sortOrder": 13,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/14/480/1266ae6150f23628269f96c56179b3b0.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/14/720/217b38f0d53c0af97e2b8efa0528b28a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/14/1080/11519dd60c20750e454de7359342e428.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-11T08:16:16+00:00",
+        "opening": {
+          "start": 24,
+          "stop": 114
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/14/cWImRGUhsGo5GLkz.jpg"
+        }
+      },
+      {
+        "id": "9f6b5fbe-792e-46f7-aa03-1742cec7e454",
+        "name": "Девочка забывшая летние каникулы",
+        "nameEnglish": "The Girl Who Forgot Summer Vacation",
+        "ordinal": 15,
+        "sortOrder": 14,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/15/480/cf04f62d14cea811d8af6a3cf6967689.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/15/720/c1e5d77163535f2bc2cc721437076083.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/15/1080/38c2dacba3d26c63a73f42a2a0df5488.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-18T11:18:25+00:00",
+        "opening": {
+          "start": 53,
+          "stop": 143
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/15/avRB9UWZzj1d6NPG.jpg"
+        }
+      },
+      {
+        "id": "9f7a5d7e-2dc6-4ef3-bb83-b798176d57ca",
+        "name": "Не свидание",
+        "nameEnglish": "Not a Date",
+        "ordinal": 16,
+        "sortOrder": 15,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/16/480/f3c8e1c468ac0cc189ee290c9ab98626.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/16/720/1f5f887b1f2960ecb6c89e05e58f6e7e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/16/1080/8397065ec6d0ba6b9e8fd0a73db8eb97.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-25T21:59:48+00:00",
+        "opening": {
+          "start": 26,
+          "stop": 116
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/16/m6gw1X8Ikb5M70Vy.jpg"
+        }
+      },
+      {
+        "id": "9f87b454-d4eb-4465-8ad8-5f9d3ee5ca62",
+        "name": "Обряд Нацудори",
+        "nameEnglish": "Natsudori Ritual",
+        "ordinal": 17,
+        "sortOrder": 16,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/17/480/263347c840d8cbdedef1e3e9841bf2be.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/17/720/d45e0366e4900b0ca353c82c3a1cbe2e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/17/1080/9d0cd843a7671241aad26d38ced9f6f2.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-08-01T13:10:04+00:00",
+        "opening": {
+          "start": 26,
+          "stop": 116
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/17/lBLVJsv8mPdt9fXQ.jpg"
+        }
+      },
+      {
+        "id": "9f957d4d-85fb-4ffa-b63d-c4ec5028a2f0",
+        "name": "Ещё одни летние каникулы",
+        "nameEnglish": "One More Summer Vacation",
+        "ordinal": 18,
+        "sortOrder": 17,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/18/480/6eb5786a230e8b9b63927ca9c80f5ac6.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/18/720/7f2bb36abfdd6befaa51cbc7372fbbbf.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/18/1080/0756948a6027bdab111eeefa76933fac.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-08-08T09:26:52+00:00",
+        "opening": {
+          "start": 120,
+          "stop": 210
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/18/nNdoVlaTze46rqz8.jpg"
+        }
+      },
+      {
+        "id": "9fa6070c-1e1e-4a77-9d78-35fde59a6f12",
+        "name": "Волшебный дневник с картинками",
+        "nameEnglish": "Magic Picture Diary",
+        "ordinal": 19,
+        "sortOrder": 18,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/19/480/3dfb5b76e2afc54620768a7f54f42bae.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/19/720/229f0e67f270016c14edbfc35d867d8d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/19/1080/19d50bdd31066c81695aaf1625c0881c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-08-16T14:54:27+00:00",
+        "opening": {
+          "start": 75,
+          "stop": 165
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/19/DXuzd17Y8ho3eZe2.jpg"
+        }
+      },
+      {
+        "id": "9fb1c2bc-e9af-475d-a632-8b58b1db1f51",
+        "name": "Свадьба",
+        "nameEnglish": "Marriage",
+        "ordinal": 20,
+        "sortOrder": 19,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/20/480/41092c930180578f2f62b68913830297.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/20/720/f39a2fbec820967a9a470cb01659acea.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/20/1080/5ebaaa2d54fa30d229d5e83278b97ac2.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-08-22T13:39:00+00:00",
+        "opening": {
+          "start": 43,
+          "stop": 133
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/20/vP2EJi6Z6RfKfOV6.jpg"
+        }
+      },
+      {
+        "id": "9fc23f75-9f92-41cd-967e-190b56ca119f",
+        "name": "Следы на волнах",
+        "nameEnglish": "Footprints in the Waves",
+        "ordinal": 21,
+        "sortOrder": 20,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/21/480/20e708f58af2a7064111c3b189a63ea6.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/21/720/56d0ff77f2d30b98fd3775cdda73a5a3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/21/1080/ebd28da6162823322e916b8e2ee4aec9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-08-30T20:28:32+00:00",
+        "opening": {
+          "start": 47,
+          "stop": 137
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/21/U05idznFPnMJLL2B.jpg"
+        }
+      },
+      {
+        "id": "9fce0668-79c3-4df0-9dc0-b4d155e944be",
+        "name": "Долгое-предолгое путешествие бабочки",
+        "nameEnglish": "",
+        "ordinal": 22,
+        "sortOrder": 21,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/22/480/af33829d2971b76de7908225c944df36.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/22/720/f595909d5e1c922bbbf4c675417710d9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/22/1080/bc778b8a8848fc8f9d4c5db364adad1b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-09-05T11:57:14+00:00",
+        "opening": {
+          "start": 37,
+          "stop": 127
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/22/jKf0aURULiTp65Z7.jpg"
+        }
+      },
+      {
+        "id": "9fdb9354-689d-48d6-9a09-1ba8e394262b",
+        "name": "Нанами",
+        "nameEnglish": "",
+        "ordinal": 23,
+        "sortOrder": 22,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/23/480/79ac4336c77b6590a2f68650f20b34a0.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/23/720/b5d5d3c2255770130445da2b57af3ec6.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/23/1080/07bd67ec6703a7b28ffe9aa524c273a1.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-09-12T05:35:14+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/23/w24BfjvMMkNvBujX.jpg"
+        }
+      },
+      {
+        "id": "9fedd17b-f5c9-4262-8e90-500cc0b51c50",
+        "name": "Где светит Солнце",
+        "nameEnglish": "",
+        "ordinal": 24,
+        "sortOrder": 23,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/24/480/d5cb20918eb017f170d5a8dca26d81a3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/24/720/a4ec0030e628cb4e002f078fb715a4a3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/24/1080/d50101c0967782ae33e84dfc2bf8ba0d.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-09-21T07:17:26+00:00",
+        "opening": {
+          "start": 55,
+          "stop": 145
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/24/gPnxWBhkY1uBC4Nl.jpg"
+        }
+      },
+      {
+        "id": "9ff8a4cc-90a5-4b22-9c87-25b931b306c6",
+        "name": "Воспоминания будущего",
+        "nameEnglish": "Memories of the Future",
+        "ordinal": 25,
+        "sortOrder": 24,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/25/480/52ed812e81f9da5663f2a99e321d9a2b.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/25/720/47b2743344656870eb824d451ee07d33.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/25/1080/8bcf9dc6e8902debe4d44c36b4eba174.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1420,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-09-26T16:52:35+00:00",
+        "opening": {
+          "start": 60,
+          "stop": 150
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/25/6u5AJcS5XjRlodBO.jpg"
+        }
+      },
+      {
+        "id": "a006ba9f-e8f8-4e28-a8a9-d71b56cf3d27",
+        "name": "Полные карманы",
+        "nameEnglish": "",
+        "ordinal": 26,
+        "sortOrder": 25,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/9919/26/480/76bf84f55d1c2b9bf57fabf433ba95d9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/9919/26/720/ea23e6cfecf7261c04090e595f5f6dbb.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/9919/26/1080/a42374f987c0e80ccf9a29be5e5d17b3.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1600,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-10-03T16:33:27+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9919/26/pEmLA514bLWAaqzD.jpg"
+        }
+      }
+    ]
   }
 ]
