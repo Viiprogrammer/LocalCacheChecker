@@ -7576,5 +7576,57 @@
     },
     "size": 2394891496,
     "seeders": 20
+  },
+  {
+    "releaseId": 9616,
+    "time": 1711854484,
+    "hash": "5edbef0493a07710f2db2da51e1fcf5ea83e2558",
+    "id": 28174,
+    "magnet": "magnet:?xt=urn:btih:5edbef0493a07710f2db2da51e1fcf5ea83e2558&dn=Saijaku+Tamer+wa+Gomi+Hiroi+no+Tabi+wo+Hajimemashita+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=17888804631&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17888804631,
+    "seeders": 15
+  },
+  {
+    "releaseId": 9616,
+    "time": 1711912881,
+    "hash": "0a65973e9a1eb8ffcdb49a5f27f8e8573ed2d776",
+    "id": 28185,
+    "magnet": "magnet:?xt=urn:btih:0a65973e9a1eb8ffcdb49a5f27f8e8573ed2d776&dn=Saijaku+Tamer+wa+Gomi+Hiroi+no+Tabi+wo+Hajimemashita+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2893595965&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2893595965,
+    "seeders": 31
   }
 ]
