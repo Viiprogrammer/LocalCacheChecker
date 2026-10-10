@@ -8708,5 +8708,57 @@
     },
     "size": 10277999344,
     "seeders": 11
+  },
+  {
+    "releaseId": 9373,
+    "time": 1669585552,
+    "hash": "f5f46ef33883ac8aca1d1f471a495b10acc92eb1",
+    "id": 21506,
+    "magnet": "magnet:?xt=urn:btih:f5f46ef33883ac8aca1d1f471a495b10acc92eb1&dn=Fruits_Basket_Prelude_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=6428761272&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Fruits Basket- Prelude - AniLiberty.TOP [BDRip 1080p][AVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 6428761272,
+    "seeders": 9
+  },
+  {
+    "releaseId": 9373,
+    "time": 1669732904,
+    "hash": "a4c76fdb70769b5ce4ec7bb44cc74e8a3883febb",
+    "id": 21531,
+    "magnet": "magnet:?xt=urn:btih:a4c76fdb70769b5ce4ec7bb44cc74e8a3883febb&dn=Fruits_Basket_Prelude_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=624324693&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Fruits Basket- Prelude - AniLiberty.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 624324693,
+    "seeders": 17
   }
 ]

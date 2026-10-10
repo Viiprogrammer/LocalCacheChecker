@@ -3879,5 +3879,28 @@
     "team": "",
     "year": "2022",
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "fruits-basket-prelude",
+    "countTorrents": 2,
+    "countVideos": 1,
+    "description": "Эпизод посвященный родителям Тору. История рассказывает о том, как повстречались Кёко и Кацуя Хонда.",
+    "genres": "Комедия, Драма, Повседневность, Романтика, Сёдзе",
+    "id": 9373,
+    "timestamp": 1669477785,
+    "originalName": "Fruits Basket: Prelude",
+    "title": "Корзинка с фруктами: Прелюдия [DEL]",
+    "poster": "/storage/releases/posters/9373/g5sut033tkkuTFwr8aWHzeGgWZXrDsjQ.jpg",
+    "rating": 1414,
+    "season": "Зима",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "Фильм",
+    "voices": "",
+    "team": "",
+    "year": "2021",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
