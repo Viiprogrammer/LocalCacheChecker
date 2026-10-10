@@ -2392,5 +2392,31 @@
     "size": 14811688836,
     "seeders": 15,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9950,
+    "time": 1740588956,
+    "hash": "d539fc397c7ea4e6fe7d198023c52606a9617f9e",
+    "id": 32580,
+    "magnet": "magnet:?xt=urn:btih:d539fc397c7ea4e6fe7d198023c52606a9617f9e&dn=Golden+Courtyard+New+Year+Wishes+in+Winter+-+AniLibria+%5BWEBRip+1080p%5D&xl=388451254&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Golden Courtyard- New Year Wishes in Winter - AniLiberty.TOP [WEBRip 1080p][AVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 388451254,
+    "seeders": 10
   }
 ]
