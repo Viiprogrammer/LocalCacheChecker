@@ -3384,5 +3384,57 @@
     },
     "size": 3230698106,
     "seeders": 37
+  },
+  {
+    "releaseId": 9820,
+    "time": 1743005070,
+    "hash": "bcbaf590729d6dfe1cf4e945f5796635d8183f88",
+    "id": 32925,
+    "magnet": "magnet:?xt=urn:btih:bcbaf590729d6dfe1cf4e945f5796635d8183f88&dn=Youkai+Gakkou+-+AniLibria+%5BWEBRip+1080p%5D&xl=35527261979&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Youkai Gakkou no Sensei Hajimemashita! - AniLiberty.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 35527261979,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9820,
+    "time": 1743061894,
+    "hash": "1c2fc8d5859d0f6f3d1341fa488132c038746640",
+    "id": 32933,
+    "magnet": "magnet:?xt=urn:btih:1c2fc8d5859d0f6f3d1341fa488132c038746640&dn=Youkai+Gakkou+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=6566377873&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Youkai Gakkou no Sensei Hajimemashita! - AniLiberty.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 6566377873,
+    "seeders": 23
   }
 ]
