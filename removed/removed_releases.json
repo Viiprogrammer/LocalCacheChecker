@@ -1148,5 +1148,28 @@
     "year": "2025",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "Castlevania-Nocturne-2",
+    "countTorrents": 2,
+    "countVideos": 8,
+    "description": "",
+    "genres": "Магия, Вампиры, Приключения, Фэнтези",
+    "id": 9898,
+    "timestamp": 1740405164,
+    "originalName": "Castlevania: Nocturne 2",
+    "title": "Кастельвания: Ноктюрн 2 [DEL]",
+    "poster": "/storage/releases/posters/9898/7POVnHGNgosS5sDOZfL0FyOw6G4qFyen.jpg",
+    "rating": 1920,
+    "season": "Зима",
+    "series": "(8)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "WEB",
+    "voices": "",
+    "team": "",
+    "year": "2025",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

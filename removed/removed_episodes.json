@@ -15723,5 +15723,210 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9898,
+    "items": [
+      {
+        "id": "9e166543-7b1a-4b6b-88f1-a6e437eb9f5f",
+        "name": "Живая легенда",
+        "nameEnglish": "",
+        "updatedAt": "2025-01-29T23:00:22+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/1/480/ea8a790b9f2c945d1b5e8663a184871e.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/1/720/54353a585bcf41d6c7ad124ec2b71fb1.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/1/1080/4979b39907c70bb4e8695bb9bfdfc3e4.m3u8",
+        "duration": 1916,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 277,
+          "start": 262
+        },
+        "ending": {
+          "stop": 1915,
+          "start": 1729
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/1/nZeSW57mXyB0Yd5h.jpg"
+        }
+      },
+      {
+        "id": "9e1e5032-cd71-4bed-bc1a-27cf2a01691c",
+        "name": "Ангел смерти",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-02T22:09:15+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/2/480/e9a11bb9ed545cbeba223643fc359a97.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/2/720/8fd6958d78a62bbce58fcec3f58c654a.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/2/1080/fa9038386e3686ea9e23043cb74d5d0a.m3u8",
+        "duration": 1688,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": 1682,
+          "start": 1499
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/2/wZ24B5hcsjbyXVD4.jpg"
+        }
+      },
+      {
+        "id": "9e2939c8-f157-4d67-913f-e2899d3382f5",
+        "name": "Окно вдовы",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-08T07:38:39+00:00",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/3/480/f60d70d3d19252e209f295ab5b176c90.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/3/720/259f5f1f30b013d11ed064c8884056b0.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/3/1080/30b4ec89c4c4b034fcc1e2fccdf6a830.m3u8",
+        "duration": 1685,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 152,
+          "start": 142
+        },
+        "ending": {
+          "stop": 1684,
+          "start": 1495
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/3/Fq7VTY7WCEFC7XCU.jpg"
+        }
+      },
+      {
+        "id": "9e2ddb50-9d1b-4ea5-a37f-37f3a5943f1e",
+        "name": "Чудовищные вещи",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-10T14:58:44+00:00",
+        "ordinal": 4,
+        "sortOrder": 4,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/4/480/3a1874281cd5c2923c077ab007491ae5.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/4/720/c893a1acc54844bc544bf4bb9a81da02.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/4/1080/c8999024baff8072643c17c895cdc6ae.m3u8",
+        "duration": 1716,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 157,
+          "start": 145
+        },
+        "ending": {
+          "stop": 1715,
+          "start": 1535
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/4/2Z2bXjoQyZDS7BrI.jpg"
+        }
+      },
+      {
+        "id": "9e361a6b-7b44-46d1-95ac-2a4f018aae8d",
+        "name": "В бездну",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-18T19:49:27+00:00",
+        "ordinal": 5,
+        "sortOrder": 5,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/5/480/8f4234f37920410c5373be78fef65c1c.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/5/720/d0e776e14113de5352b15872ac94a21b.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/5/1080/58ebfbd783da29da8ce593e4bd61d24a.m3u8",
+        "duration": 1637,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 78,
+          "start": 66
+        },
+        "ending": {
+          "stop": 1637,
+          "start": 1450
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/5/lpiNrdR7D1ZzERL8.jpg"
+        }
+      },
+      {
+        "id": "9e3e553c-1581-4eab-b3aa-3322b21e610d",
+        "name": "Предки",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-18T19:30:32+00:00",
+        "ordinal": 6,
+        "sortOrder": 6,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/6/480/1bfda9722845ec550f8ccdaac8f17014.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/6/720/77ab4b86201623d0e78cf032c51befa8.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/6/1080/2a0b80ce32f27934d08fa87ca59d09d2.m3u8",
+        "duration": 1739,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 233,
+          "start": 222
+        },
+        "ending": {
+          "stop": 1738,
+          "start": 1542
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/6/lTkdbBwicA8dP8FC.jpg"
+        }
+      },
+      {
+        "id": "9e468a06-4341-4a5a-8a9d-d83904fc0abb",
+        "name": "Гренадин Аласо",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-22T21:27:19+00:00",
+        "ordinal": 7,
+        "sortOrder": 7,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/7/480/9aa4ac672750dede225042d1d03967ab.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/7/720/68637caa83bf0691669d2a14f2bbee5c.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/7/1080/70fa6c4311e0e44459e693a52b666daa.m3u8",
+        "duration": 1814,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 114,
+          "start": 106
+        },
+        "ending": {
+          "stop": 1810,
+          "start": 1626
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/7/DpNZng9MXd0is4d6.jpg"
+        }
+      },
+      {
+        "id": "9e49ef7e-6fe5-44cf-9947-7e10fc984c26",
+        "name": "Череда великих героев",
+        "nameEnglish": "",
+        "updatedAt": "2025-02-24T14:07:10+00:00",
+        "ordinal": 8,
+        "sortOrder": 8,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9898/8/480/82cd4b2d13306631fecb23159493c1fa.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9898/8/720/83a462d01562aafec2b5cd0b06703e9f.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9898/8/1080/1a188a2f56d47c871cd7b706d73197d5.m3u8",
+        "duration": 2008,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 22,
+          "start": 32411
+        },
+        "ending": {
+          "stop": 2007,
+          "start": 1824
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9898/8/R8nTCbyhEjaoNYQl.jpg"
+        }
+      }
+    ]
   }
 ]
