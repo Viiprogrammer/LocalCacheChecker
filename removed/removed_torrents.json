@@ -11861,5 +11861,31 @@
     },
     "size": 7310388974,
     "seeders": 13
+  },
+  {
+    "releaseId": 8440,
+    "time": 1563737019,
+    "hash": "ac7103512ea86e5567c078826f57a53c58aacd86",
+    "id": 7565,
+    "magnet": "magnet:?xt=urn:btih:ac7103512ea86e5567c078826f57a53c58aacd86&dn=Ore+no+Imouto+ga+Konna+ni+Kawaii+Wake+ga+Nai.+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4466727257&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4466727257,
+    "seeders": 11
   }
 ]
