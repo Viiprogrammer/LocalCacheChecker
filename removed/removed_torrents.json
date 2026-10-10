@@ -12671,5 +12671,31 @@
     },
     "size": 4715121567,
     "seeders": 12
+  },
+  {
+    "releaseId": 8359,
+    "time": 1554471481,
+    "hash": "114a7ec5e92407c2c32003513c9d7dd633627ebc",
+    "id": 6681,
+    "magnet": "magnet:?xt=urn:btih:114a7ec5e92407c2c32003513c9d7dd633627ebc&dn=Mawaru+Penguindrum+-+AniLibria.TV+%5BBDRip+720p%5D&xl=10915583521&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mawaru Penguindrum - AniLiberty.TOP [BDRip 720p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 10915583521,
+    "seeders": 12
   }
 ]
