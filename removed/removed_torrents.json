@@ -1714,5 +1714,57 @@
     },
     "size": 3002549182,
     "seeders": 10
+  },
+  {
+    "releaseId": 10098,
+    "time": 1775238984,
+    "hash": "f211efbed1853fb3110c12107a064c0dc4699adb",
+    "id": 37692,
+    "magnet": "magnet:?xt=urn:btih:f211efbed1853fb3110c12107a064c0dc4699adb&dn=Vigilante+Boku+no+Hero+Academia+Illegals+2+Season+-+AniLiberty+%5BWEBRip+1080p%5D&xl=20188899128&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Vigilante- Boku no Hero Academia Illegals 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 20188899128,
+    "seeders": 16
+  },
+  {
+    "releaseId": 10098,
+    "time": 1775307902,
+    "hash": "ad80bd66b2fbc64677d7a45ad8061b6589f25310",
+    "id": 37700,
+    "magnet": "magnet:?xt=urn:btih:ad80bd66b2fbc64677d7a45ad8061b6589f25310&dn=Vigilante+Boku+no+Hero+Academia+Illegals+2+Season+-+AniLiberty+%5BWEBRip+1080p+HEVC%5D&xl=4852743035&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Vigilante- Boku no Hero Academia Illegals 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4852743035,
+    "seeders": 21
   }
 ]
