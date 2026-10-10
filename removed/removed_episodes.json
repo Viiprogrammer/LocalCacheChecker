@@ -30187,5 +30187,35 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9780,
+    "items": [
+      {
+        "id": "9ce2c033-631a-4549-b9e1-66870923d92d",
+        "name": "Фильм",
+        "nameEnglish": "",
+        "updatedAt": "2024-08-30T01:05:43+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9780/1/480/6605e4417e5518ecaf2c5f03dbf62c79.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9780/1/720/bb51a52855f333ff0ab1d53e3737c5fe.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9780/1/1080/9faf393a18e6f685e42567a09bfb5216.m3u8",
+        "duration": 4494,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": 4337,
+          "start": 4101
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9780/1/UBbrewqKK4Fvgly2.jpg"
+        }
+      }
+    ]
   }
 ]

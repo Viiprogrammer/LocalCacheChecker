@@ -4788,5 +4788,57 @@
     },
     "size": 3828067265,
     "seeders": 44
+  },
+  {
+    "releaseId": 9780,
+    "time": 1724977569,
+    "hash": "8ec837c041c7a263abd4017a4ad2aca6bd1ee6eb",
+    "id": 30183,
+    "magnet": "magnet:?xt=urn:btih:8ec837c041c7a263abd4017a4ad2aca6bd1ee6eb&dn=Seishun+Buta+Yarou+wa+Randoseru+Girl+no+Yume+wo+Minai+-+AniLibria+%5BBDRip+1080p%5D&xl=1355014167&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai - AniLiberty.TOP [BDRip 1080p][AVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1355014167,
+    "seeders": 25
+  },
+  {
+    "releaseId": 9780,
+    "time": 1725041465,
+    "hash": "23fcd81c060e50401b3dba60af4dc74c8264d3e1",
+    "id": 30191,
+    "magnet": "magnet:?xt=urn:btih:23fcd81c060e50401b3dba60af4dc74c8264d3e1&dn=Seishun+Buta+Yarou+wa+Randoseru+Girl+no+Yume+wo+Minai+-+AniLibria+%5BBDRip+1080p+HEVC%5D&xl=479573490&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai - AniLiberty.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 479573490,
+    "seeders": 25
   }
 ]
