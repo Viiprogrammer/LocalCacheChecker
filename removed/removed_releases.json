@@ -5173,5 +5173,28 @@
     "team": "",
     "year": "2012",
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "rezero-kara-hajimeru-isekai-seikatsu---memory-snow",
+    "countTorrents": 2,
+    "countVideos": 1,
+    "description": null,
+    "genres": "Триллер, Экшен, Сверхъестественное, Фэнтези",
+    "id": 8588,
+    "originalName": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+    "poster": "/storage/releases/posters/8588/3LL38k7ncNP2qQvAaEQK6c3wTQfxPVES.jpg",
+    "rating": 2510,
+    "season": "Осень",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "timestamp": 0,
+    "title": "Re: Жизнь в другом мире с нуля - Снежные воспоминания [DEL]",
+    "type": "OVA",
+    "voices": "Itashi, Nuts, Kari",
+    "team": "Itashi, Nuts, Kari, Nonami, Blaze, Крысёнок",
+    "year": "2018",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

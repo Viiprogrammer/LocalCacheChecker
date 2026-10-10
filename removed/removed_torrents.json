@@ -11570,5 +11570,57 @@
     },
     "size": 8412520643,
     "seeders": 12
+  },
+  {
+    "releaseId": 8588,
+    "time": 1615043520,
+    "hash": "7bd5c9004a70329b16430f65d4ad7fd4b0dd0b7b",
+    "id": 14226,
+    "magnet": "magnet:?xt=urn:btih:7bd5c9004a70329b16430f65d4ad7fd4b0dd0b7b&dn=Re_Zero_Kara_Hajimeru_Isekai_Seikatsu_Memory_Snow_%5BOVA%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=2235103427&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re-Zero kara Hajimeru Isekai Seikatsu - Memory Snow - AniLibria.TOP [BDRip 1080p][AVC][OVA].torrent",
+    "description": "OVA",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 2235103427,
+    "seeders": 9
+  },
+  {
+    "releaseId": 8588,
+    "time": 1615043591,
+    "hash": "f7e9f145abeb954c19fc99f1df3b2084ed1d4bdd",
+    "id": 14227,
+    "magnet": "magnet:?xt=urn:btih:f7e9f145abeb954c19fc99f1df3b2084ed1d4bdd&dn=Re_Zero_Kara_Hajimeru_Isekai_Seikatsu_Memory_Snow_%5BOVA%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=527966119&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re-Zero kara Hajimeru Isekai Seikatsu - Memory Snow - AniLibria.TOP [BDRip 1080p][HEVC][OVA].torrent",
+    "description": "OVA",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 527966119,
+    "seeders": 18
   }
 ]
