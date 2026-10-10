@@ -14124,5 +14124,32 @@
     },
     "size": 4539231750,
     "seeders": 9
+  },
+  {
+    "releaseId": 437,
+    "time": 1550054969,
+    "hash": "00ff300e788f1b70c446093b54aca9163a5772b4",
+    "id": 189,
+    "magnet": "magnet:?xt=urn:btih:00ff300e788f1b70c446093b54aca9163a5772b4&dn=Akame+ga+Kill%21&xl=9455692789&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Akame ga Kill! - AniLibria.TOP [HDTVRip 720p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 9455692789,
+    "seeders": 22,
+    "updatedAt": ""
   }
 ]
