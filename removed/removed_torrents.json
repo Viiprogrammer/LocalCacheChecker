@@ -10718,5 +10718,59 @@
     },
     "size": 731762796,
     "seeders": 10
+  },
+  {
+    "releaseId": 8888,
+    "time": 1617179100,
+    "hash": "a2be36ac6b06f70f82116071a3d3b0e981310e90",
+    "id": 14591,
+    "magnet": "magnet:?xt=urn:btih:a2be36ac6b06f70f82116071a3d3b0e981310e90&dn=Tensei+Shitara+Slime+Datta+Ken+2nd+Season+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=17757992268&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Tensei Shitara Slime Datta Ken 2 Part 1 - AniLibria.TOP [WEBRip 1080p][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 17757992268,
+    "seeders": 25,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8888,
+    "time": 1617180587,
+    "hash": "db22085dc58956d5e8d27bca0c91e4921e3d2a0d",
+    "id": 14592,
+    "magnet": "magnet:?xt=urn:btih:db22085dc58956d5e8d27bca0c91e4921e3d2a0d&dn=Tensei+Shitara+Slime+Datta+Ken+2nd+Season+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3357601711&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Tensei Shitara Slime Datta Ken 2 Part 1 - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 3357601711,
+    "seeders": 48,
+    "updatedAt": ""
   }
 ]
