@@ -4268,5 +4268,57 @@
     },
     "size": 2202693308,
     "seeders": 30
+  },
+  {
+    "releaseId": 9793,
+    "time": 1734977138,
+    "hash": "27e6a11a083cd51f3a2cf7d94302e53fb5ae8d7e",
+    "id": 31774,
+    "magnet": "magnet:?xt=urn:btih:27e6a11a083cd51f3a2cf7d94302e53fb5ae8d7e&dn=Kimi+wa+Meido-sama+-+AniLibria+%5BWEBRip+1080p%5D&xl=17520874999&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kimi wa Meido-sama. - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17520874999,
+    "seeders": 19
+  },
+  {
+    "releaseId": 9793,
+    "time": 1734988151,
+    "hash": "682e930bed2430e6e50a869a1efbeaf7f25b7a31",
+    "id": 31777,
+    "magnet": "magnet:?xt=urn:btih:682e930bed2430e6e50a869a1efbeaf7f25b7a31&dn=Kimi+wa+Meido-sama+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3914412385&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kimi wa Meido-sama. - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3914412385,
+    "seeders": 28
   }
 ]
