@@ -13913,5 +13913,31 @@
     },
     "size": 325250761,
     "seeders": 5
+  },
+  {
+    "releaseId": 827,
+    "time": 1550054975,
+    "hash": "ede835dcc462f4b1247ff0eb20b9a9d432299f1c",
+    "id": 400,
+    "magnet": "magnet:?xt=urn:btih:ede835dcc462f4b1247ff0eb20b9a9d432299f1c&dn=Mayo_Chiki%21_%5BAniLibria_Tv%5D_%5BBDRip_720p%5D&xl=8131511439&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mayo Chiki! - AniLibria.TOP [BDRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 8131511439,
+    "seeders": 9
   }
 ]
