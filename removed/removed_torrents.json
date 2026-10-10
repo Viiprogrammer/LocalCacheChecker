@@ -3046,5 +3046,31 @@
     },
     "size": 2092683798,
     "seeders": 15
+  },
+  {
+    "releaseId": 9833,
+    "time": 1732303865,
+    "hash": "daec8aeeb89846d3e6669eb3e6c6554afd49e706",
+    "id": 31372,
+    "magnet": "magnet:?xt=urn:btih:daec8aeeb89846d3e6669eb3e6c6554afd49e706&dn=Murai+no+Koi+-+AniLibria+%5BWEB-DLRip+720p%5D&xl=7539394754&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Murai no Koi - AniLiberty.TOP [WEB-DLRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 7539394754,
+    "seeders": 21
   }
 ]
