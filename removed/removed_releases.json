@@ -6617,5 +6617,28 @@
     "year": "2017",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "shigatsu-wa-kimi-no-uso-moments",
+    "countTorrents": 1,
+    "countVideos": 1,
+    "description": "OVA, вышедшая с 11-ым томом манги «Твоя апрельская ложь».",
+    "genres": "Сёнен, Школа, Драма, Романтика, Музыка",
+    "id": 3264,
+    "timestamp": 0,
+    "originalName": "Shigatsu wa Kimi no Uso: Moments",
+    "title": "Твоя апрельская ложь: Мгновения [DEL]",
+    "poster": "/storage/releases/posters/3264/DXOk8BW9tZZi5vE5npIG3dxvZF0zmVfy.jpg",
+    "rating": 438,
+    "season": "Весна",
+    "series": "(1)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "OVA",
+    "voices": "",
+    "team": "",
+    "year": "2015",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

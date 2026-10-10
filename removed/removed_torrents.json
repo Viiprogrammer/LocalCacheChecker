@@ -13541,5 +13541,31 @@
     "size": 4063353850,
     "seeders": 8,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 3264,
+    "time": 1550054940,
+    "hash": "4b572b3fcbd1889cf9472864db16c227f8522e98",
+    "id": 2378,
+    "magnet": "magnet:?xt=urn:btih:4b572b3fcbd1889cf9472864db16c227f8522e98&dn=Shigatsu_wa_Kimi_no_Uso_OVA_%5BAniLibria_TV%5D_%5BDVD-Rip_720p%5D.mkv&xl=292610615&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shigatsu wa Kimi no Uso- Moments - AniLiberty.TOP [DVDRip 576p][AVC][ОВА].torrent",
+    "description": "ОВА",
+    "quality": {
+      "value": "576p",
+      "description": "576p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "DVDRip",
+      "description": "DVDRip"
+    },
+    "size": 292610615,
+    "seeders": 10
   }
 ]

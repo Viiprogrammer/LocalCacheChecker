@@ -83195,5 +83195,34 @@
         "preview": {}
       }
     ]
+  },
+  {
+    "releaseId": 3264,
+    "items": [
+      {
+        "id": "95b3061e-789e-11ec-ae92-0242ac120002",
+        "name": "",
+        "nameEnglish": "",
+        "updatedAt": "2019-01-15T07:50:30+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/3264/1/480/c0a6bb11dffc51328cc4bb18e964627d.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/3264/1/720/a5282a00c1bbd3c817b75bec88db36de.m3u8",
+        "duration": 1384,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": null
+        }
+      }
+    ]
   }
 ]
