@@ -48213,5 +48213,67 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9599,
+    "items": [
+      {
+        "id": "9a98cb52-d9a9-4e3e-b556-0eebc5981f3f",
+        "name": "В Королевство Колей",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9599/1/480/a887c32305ef2dafe235642645f9d454.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9599/1/720/79e19e4774dbd3c72e062abb90549da8.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9599/1/1080/33f5c646a115dae0155d97723692e5ab.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1470,
+        "updatedAt": "2023-11-27T23:50:30+00:00",
+        "opening": {
+          "start": 23,
+          "stop": 113
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9599/1/ChPADVs9Dlx4orYS.jpg"
+        }
+      },
+      {
+        "id": "9aaa1179-ba12-4077-9015-d44e52a1b6b0",
+        "name": "Неуловимый вор Сатору",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9599/2/480/af581ebe6b545c13eec2464cf9c5fdf4.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9599/2/720/e700bb12daab8a9ff37b5aca189e9630.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9599/2/1080/8c66888605ac748b6f7e25d52f5a8a03.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1470,
+        "updatedAt": "2023-11-21T08:10:57+00:00",
+        "opening": {
+          "start": 42,
+          "stop": 132
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9599/2/aXAVd7ppWWz7aReu.jpg"
+        }
+      },
+      {
+        "id": "9aaa1198-fe97-4ca9-a2d3-88d7bdb9dade",
+        "name": "Фиолетовый и розы",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9599/3/480/306d975cc18017afabc1ac7214e561b0.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9599/3/720/38600a78eb208e528ce4519c15e068d6.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9599/3/1080/6d0e14f1bdaf3271cfb0537c0af6a593.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1471,
+        "updatedAt": "2023-11-21T08:29:07+00:00",
+        "opening": {
+          "start": 1,
+          "stop": 90
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9599/3/Rd6kt53lW6MmEZeD.jpg"
+        }
+      }
+    ]
   }
 ]
