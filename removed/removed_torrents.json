@@ -5516,5 +5516,57 @@
     },
     "size": 3913319075,
     "seeders": 16
+  },
+  {
+    "releaseId": 9756,
+    "time": 1727007627,
+    "hash": "3c31934a17f110dee69fd80a2703ba84bcda2daf",
+    "id": 30491,
+    "magnet": "magnet:?xt=urn:btih:3c31934a17f110dee69fd80a2703ba84bcda2daf&dn=Shikanoko+Nokonoko+Koshitantan+-+AniLibria+%5BWEBRip+1080p%5D&xl=14308018342&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shikanoko Nokonoko Koshitantan - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 14308018342,
+    "seeders": 15
+  },
+  {
+    "releaseId": 9756,
+    "time": 1727010197,
+    "hash": "2d8c92be99dc6c48e6919ab40d15a99c07a155da",
+    "id": 30492,
+    "magnet": "magnet:?xt=urn:btih:2d8c92be99dc6c48e6919ab40d15a99c07a155da&dn=Shikanoko+Nokonoko+Koshitantan+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3946361290&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shikanoko Nokonoko Koshitantan - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3946361290,
+    "seeders": 21
   }
 ]
