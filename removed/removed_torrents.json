@@ -3436,5 +3436,57 @@
     },
     "size": 6566377873,
     "seeders": 23
+  },
+  {
+    "releaseId": 9818,
+    "time": 1735128908,
+    "hash": "56db3a349514d7885ee95311a1f0899b52215bf8",
+    "id": 31791,
+    "magnet": "magnet:?xt=urn:btih:56db3a349514d7885ee95311a1f0899b52215bf8&dn=Raise+wa+Tanin+ga+Ii+-+AniLibria+%5BWEBRip+1080p%5D&xl=17823629972&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Raise wa Tanin ga Ii - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17823629972,
+    "seeders": 15
+  },
+  {
+    "releaseId": 9818,
+    "time": 1735128920,
+    "hash": "8a0105c05f59945e0f54d5e0404b9e4235ba0b9d",
+    "id": 31792,
+    "magnet": "magnet:?xt=urn:btih:8a0105c05f59945e0f54d5e0404b9e4235ba0b9d&dn=Raise+wa+Tanin+ga+Ii+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=1901376829&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Raise wa Tanin ga Ii - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1901376829,
+    "seeders": 20
   }
 ]
