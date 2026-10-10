@@ -6036,5 +6036,57 @@
     },
     "size": 2934567159,
     "seeders": 31
+  },
+  {
+    "releaseId": 9743,
+    "time": 1727616953,
+    "hash": "7b560155f6e745232bc8c8afdf899dfb7374e074",
+    "id": 30581,
+    "magnet": "magnet:?xt=urn:btih:7b560155f6e745232bc8c8afdf899dfb7374e074&dn=Nier+Automata.+Ver1.1a+Part+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=17761424956&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "NieR-Automata Ver1.1a Part 2 - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17761424956,
+    "seeders": 18
+  },
+  {
+    "releaseId": 9743,
+    "time": 1727616966,
+    "hash": "baa370fc9194154525e0c9212348e78f0e07249f",
+    "id": 30582,
+    "magnet": "magnet:?xt=urn:btih:baa370fc9194154525e0c9212348e78f0e07249f&dn=Nier+Automata.+Ver1.1a+Part+2+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3874996657&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "NieR-Automata Ver1.1a Part 2 - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3874996657,
+    "seeders": 34
   }
 ]
