@@ -13195,5 +13195,32 @@
     },
     "size": 5047197326,
     "seeders": 7
+  },
+  {
+    "releaseId": 6168,
+    "time": 1550055002,
+    "hash": "8dd7b244a418de7a0166afea0cb00f9237b6d2df",
+    "id": 4934,
+    "magnet": "magnet:?xt=urn:btih:8dd7b244a418de7a0166afea0cb00f9237b6d2df&dn=Mahou+Shoujo+Ore+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4960387772&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Mahou Shoujo Ore - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4960387772,
+    "seeders": 9,
+    "updatedAt": ""
   }
 ]
