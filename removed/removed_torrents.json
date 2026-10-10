@@ -13567,5 +13567,31 @@
     },
     "size": 292610615,
     "seeders": 10
+  },
+  {
+    "releaseId": 3063,
+    "time": 1550054988,
+    "hash": "9e80746475b232808cb4d80e72790c1ec5a6d618",
+    "id": 2405,
+    "magnet": "magnet:?xt=urn:btih:9e80746475b232808cb4d80e72790c1ec5a6d618&dn=Yuri%21%21%21+on+Ice+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=4431785934&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yuri!!! on Ice - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4431785934,
+    "seeders": 5
   }
 ]
