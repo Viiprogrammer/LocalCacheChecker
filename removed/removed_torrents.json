@@ -5464,5 +5464,57 @@
     },
     "size": 6939514897,
     "seeders": 13
+  },
+  {
+    "releaseId": 9758,
+    "time": 1727450393,
+    "hash": "d8f568878fe27b42bc94be7a4b7d4bd25cd53739",
+    "id": 30566,
+    "magnet": "magnet:?xt=urn:btih:d8f568878fe27b42bc94be7a4b7d4bd25cd53739&dn=Shy+2nd+Season+-+AniLibria+%5BWEBRip+1080p%5D&xl=17818317297&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shy 2 - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17818317297,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9758,
+    "time": 1727451343,
+    "hash": "5e53697ffde187bbb049423f887b027f0fb4b1c3",
+    "id": 30567,
+    "magnet": "magnet:?xt=urn:btih:5e53697ffde187bbb049423f887b027f0fb4b1c3&dn=Shy+2nd+Season+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3913319075&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shy 2 - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3913319075,
+    "seeders": 16
   }
 ]
