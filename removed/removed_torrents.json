@@ -5828,5 +5828,57 @@
     },
     "size": 2846643920,
     "seeders": 31
+  },
+  {
+    "releaseId": 9750,
+    "time": 1727016441,
+    "hash": "921ad46ceee1f6f935e45a3b9cada272a3fa7c1e",
+    "id": 30494,
+    "magnet": "magnet:?xt=urn:btih:921ad46ceee1f6f935e45a3b9cada272a3fa7c1e&dn=Madougushi+Dahlia+wa+Utsumukanai+-+AniLibria+%5BWEBRip+1080p%5D&xl=17839784681&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Madougushi Dahliya wa Utsumukanai - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17839784681,
+    "seeders": 17
+  },
+  {
+    "releaseId": 9750,
+    "time": 1727072254,
+    "hash": "04d8e049949dbbc0ace2a92745fb50cb54011556",
+    "id": 30504,
+    "magnet": "magnet:?xt=urn:btih:04d8e049949dbbc0ace2a92745fb50cb54011556&dn=Madougushi+Dahlia+wa+Utsumukanai+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=1931109443&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Madougushi Dahliya wa Utsumukanai - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1931109443,
+    "seeders": 26
   }
 ]
