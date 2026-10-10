@@ -5100,5 +5100,57 @@
     },
     "size": 4214139008,
     "seeders": 18
+  },
+  {
+    "releaseId": 9773,
+    "time": 1735416834,
+    "hash": "087b7fa4994f197bd392e2050521cbe5d1fb9239",
+    "id": 31814,
+    "magnet": "magnet:?xt=urn:btih:087b7fa4994f197bd392e2050521cbe5d1fb9239&dn=Tasuuketsu+-+AniLibria+%5BWEBRip+1080p%5D&xl=33731135739&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tasuuketsu - AniLiberty.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 33731135739,
+    "seeders": 11
+  },
+  {
+    "releaseId": 9773,
+    "time": 1735448862,
+    "hash": "c7929fff1357b292887c438677eab26195e32ae6",
+    "id": 31816,
+    "magnet": "magnet:?xt=urn:btih:c7929fff1357b292887c438677eab26195e32ae6&dn=Tasuuketsu+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3352243327&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tasuuketsu - AniLiberty.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3352243327,
+    "seeders": 14
   }
 ]
