@@ -11991,5 +11991,59 @@
     },
     "size": 2065992538,
     "seeders": 9
+  },
+  {
+    "releaseId": 8401,
+    "time": 1642696855,
+    "hash": "c0adc66020c8ede4e40ed210100ceffd9c0e6783",
+    "id": 16066,
+    "magnet": "magnet:?xt=urn:btih:c0adc66020c8ede4e40ed210100ceffd9c0e6783&dn=Enen+no+Shouboutai+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=33571290042&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Enen no Shouboutai - AniLibria.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 33571290042,
+    "seeders": 10,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8401,
+    "time": 1642739375,
+    "hash": "69e17a00cb0e6f47668c27f7cfafdc70a865bf24",
+    "id": 16129,
+    "magnet": "magnet:?xt=urn:btih:69e17a00cb0e6f47668c27f7cfafdc70a865bf24&dn=Enen+no+Shouboutai+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=5841436027&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Enen no Shouboutai - AniLibria.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 5841436027,
+    "seeders": 20,
+    "updatedAt": ""
   }
 ]
