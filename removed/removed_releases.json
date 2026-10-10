@@ -5059,5 +5059,28 @@
     "year": "2020",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "enen-no-shouboutai-ni-no-shou",
+    "countTorrents": 0,
+    "countVideos": 0,
+    "description": "Продолжение первого сезона \"Пламенной Бригады Пожарных\".\r\nПо какой-то странной причине люди начинают самовозгораться. Пламенные пожарники обязаны реагировать на такие вызовы, чтобы упокоить души несчастных. Сможет ли восьмая бригада разобраться кто за всем этим стоит и покончить с самовозгоранием?",
+    "genres": "Сёнен, Экшен, Сверхъестественное",
+    "id": 8651,
+    "originalName": "Enen no Shouboutai: Ni no Shou",
+    "poster": "/storage/releases/posters/8651/ZKcpgstGnWlitWduBL3IGaNToXEoqNWN.jpg",
+    "rating": 11850,
+    "season": "Лето",
+    "series": "(24)",
+    "status": "Озвучка завершена",
+    "timestamp": 1607883447,
+    "title": "Пламенная бригада пожарных: Вторая глава [DEL]",
+    "type": "ТВ",
+    "voices": "",
+    "team": "",
+    "year": "2020",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
