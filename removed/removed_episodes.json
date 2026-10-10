@@ -85845,5 +85845,27 @@
         "preview": {}
       }
     ]
+  },
+  {
+    "releaseId": 943,
+    "items": [
+      {
+        "id": "95ddb99c-789e-11ec-ae92-0242ac120002",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/943/1/480/7186c61120ec79002cf1b083b0e18a36.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/943/1/720/236537fa07fabff624b3af90cc6125bb.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "",
+        "duration": 1620,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2019-01-15T19:25:50+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {}
+      }
+    ]
   }
 ]

@@ -13887,5 +13887,31 @@
     "size": 3966362737,
     "seeders": 13,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 943,
+    "time": 1550054977,
+    "hash": "bfd325d3927983ada3e3d334f332d24a18e1480e",
+    "id": 453,
+    "magnet": "magnet:?xt=urn:btih:bfd325d3927983ada3e3d334f332d24a18e1480e&dn=Kono_Danshi_Sekka_ni_Nayandemasu_%5BAniLibria_TV%5D_%5BHDTV-Rip_720p%5D.mkv&xl=325250761&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kono Danshi, Sekika ni Nayandemasu. - AniLibria.TOP [HDTVRip 720p][AVC][1].torrent",
+    "description": "1",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 325250761,
+    "seeders": 5
   }
 ]
