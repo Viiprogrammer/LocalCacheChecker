@@ -4424,5 +4424,57 @@
     },
     "size": 3414820641,
     "seeders": 39
+  },
+  {
+    "releaseId": 9790,
+    "time": 1742587378,
+    "hash": "86079371bbef95072cdac347b475f4d4cb44fe9f",
+    "id": 32864,
+    "magnet": "magnet:?xt=urn:btih:86079371bbef95072cdac347b475f4d4cb44fe9f&dn=Ao+no+Hako+-+AniLibria+%5BWEB-DLRip+1080p%5D&xl=30802977521&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ao no Hako - AniLiberty.TOP [WEB-DLRip 1080p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 30802977521,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9790,
+    "time": 1742588047,
+    "hash": "d28ca19ffb8788216d9296355f4700989b2dfe8e",
+    "id": 32865,
+    "magnet": "magnet:?xt=urn:btih:d28ca19ffb8788216d9296355f4700989b2dfe8e&dn=Ao+no+Hako+-+AniLibria+%5BWEB-DLRip+1080p+HEVC%5D&xl=5289076410&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ao no Hako - AniLiberty.TOP [WEB-DLRip 1080p][HEVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 5289076410,
+    "seeders": 24
   }
 ]
