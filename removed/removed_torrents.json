@@ -9230,5 +9230,57 @@
     },
     "size": 2044952974,
     "seeders": 12
+  },
+  {
+    "releaseId": 9281,
+    "time": 1670750480,
+    "hash": "93d74c638aa392a4f3e786b421fc2d2933435a52",
+    "id": 21636,
+    "magnet": "magnet:?xt=urn:btih:93d74c638aa392a4f3e786b421fc2d2933435a52&dn=Akuyaku+Reijou+nanode+Last+Boss+wo+Kattemimashita+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=17763489495&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Akuyaku Reijou nanode Last Boss wo Kattemimashita - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17763489495,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9281,
+    "time": 1670823592,
+    "hash": "0093a96a6fe24a8224f376d2e42c8a3c5213b9af",
+    "id": 21656,
+    "magnet": "magnet:?xt=urn:btih:0093a96a6fe24a8224f376d2e42c8a3c5213b9af&dn=Akuyaku+Reijou+nanode+Last+Boss+wo+Kattemimashita+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2165851792&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Akuyaku Reijou nanode Last Boss wo Kattemimashita - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2165851792,
+    "seeders": 24
   }
 ]
