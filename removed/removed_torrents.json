@@ -2626,5 +2626,57 @@
     },
     "size": 7903415303,
     "seeders": 32
+  },
+  {
+    "releaseId": 9905,
+    "time": 1750340674,
+    "hash": "e57c89f44f29811080c102c4b83d501f39982714",
+    "id": 33910,
+    "magnet": "magnet:?xt=urn:btih:e57c89f44f29811080c102c4b83d501f39982714&dn=The+Beginning+After+The+End+-+AniLibria+%5BWEBRip+1080p%5D&xl=17103997781&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "The Beginning After the End - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 17103997781,
+    "seeders": 23
+  },
+  {
+    "releaseId": 9905,
+    "time": 1750348455,
+    "hash": "8b0e78295e012bcafc24bf0c4f57face99daa4dc",
+    "id": 33913,
+    "magnet": "magnet:?xt=urn:btih:8b0e78295e012bcafc24bf0c4f57face99daa4dc&dn=The+Beginning+After+The+End+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2555192670&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "The Beginning After the End - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 2555192670,
+    "seeders": 42
   }
 ]
