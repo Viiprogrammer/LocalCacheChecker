@@ -13593,5 +13593,32 @@
     },
     "size": 4431785934,
     "seeders": 5
+  },
+  {
+    "releaseId": 3053,
+    "time": 1550054989,
+    "hash": "147aaf4eea22b0c283893d252cd3bee9974a27d6",
+    "id": 2421,
+    "magnet": "magnet:?xt=urn:btih:147aaf4eea22b0c283893d252cd3bee9974a27d6&dn=Watashi+ga+Motete+Dou+Sunda+-+Anilibria.TV+%5BHDTV-Rip+720p%5D&xl=4768330682&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Watashi ga Motete Dousunda - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4768330682,
+    "seeders": 10,
+    "updatedAt": ""
   }
 ]
