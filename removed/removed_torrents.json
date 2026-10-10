@@ -11835,5 +11835,31 @@
     },
     "size": 10291785419,
     "seeders": 12
+  },
+  {
+    "releaseId": 8441,
+    "time": 1560791102,
+    "hash": "7f89fa1f4f7895144fe7acaa608611244f865ba3",
+    "id": 7262,
+    "magnet": "magnet:?xt=urn:btih:7f89fa1f4f7895144fe7acaa608611244f865ba3&dn=Suisei+no+Gargantia+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=7310388974&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Suisei no Gargantia   - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 7310388974,
+    "seeders": 13
   }
 ]
