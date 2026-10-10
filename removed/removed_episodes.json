@@ -82981,5 +82981,37 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 3689,
+    "items": [
+      {
+        "id": "95b3c891-789e-11ec-ae92-0242ac120002",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/3689/1/480/289f50c5c2f63beeda7926d546be1103.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/3689/1/720/10969e6db56fed72ee7d4f4c985b2bd1.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1799,
+        "updatedAt": "2023-06-18T21:58:20+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95b3c8f7-789e-11ec-ae92-0242ac120002",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/3689/2/480/1ac82d318df356247cc0e386ecc7b54a.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/3689/2/720/f2d141d4ebdef867dcaa158961b1e556.m3u8?isWithAds=1&countryIso=RU&isAuthorized=0",
+        "duration": 1789,
+        "updatedAt": "2023-06-18T21:58:31+00:00",
+        "opening": {
+          "start": 30,
+          "stop": 119
+        },
+        "ending": {},
+        "preview": {}
+      }
+    ]
   }
 ]

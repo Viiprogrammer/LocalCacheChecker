@@ -13487,5 +13487,32 @@
     },
     "size": 6944643656,
     "seeders": 13
+  },
+  {
+    "releaseId": 3689,
+    "time": 1550054940,
+    "hash": "fccfc2310a09944b82f740abbdc52b2e9e5bb1b5",
+    "id": 2562,
+    "magnet": "magnet:?xt=urn:btih:fccfc2310a09944b82f740abbdc52b2e9e5bb1b5&dn=Yamada-kun+and+the+Seven+Witches+OVA+-+AniLibria.TV+%5BDVD-Rip_480p%5D&xl=1063439911&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Yamada-kun to 7-nin no Majo (OVA) - AniLibria.TOP [DVDRip 480p][AVC][1-2].torrent",
+    "description": "1-2",
+    "quality": {
+      "value": "480p",
+      "description": "480p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "DVDRip",
+      "description": "DVDRip",
+      "label": ""
+    },
+    "size": 1063439911,
+    "seeders": 10,
+    "updatedAt": ""
   }
 ]
