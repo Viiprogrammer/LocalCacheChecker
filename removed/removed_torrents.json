@@ -5152,5 +5152,57 @@
     },
     "size": 3352243327,
     "seeders": 14
+  },
+  {
+    "releaseId": 9770,
+    "time": 1730086069,
+    "hash": "46730b48dfbabc6e0f0b95da98486f1d7804d737",
+    "id": 30997,
+    "magnet": "magnet:?xt=urn:btih:46730b48dfbabc6e0f0b95da98486f1d7804d737&dn=Monogatari+Series+Off+and+Monster+Season+-+AniLibria+%5BWEBRip+1080p%5D&xl=22770018715&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Monogatari Series- Off & Monster Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-14].torrent",
+    "description": "1-14",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 22770018715,
+    "seeders": 11
+  },
+  {
+    "releaseId": 9770,
+    "time": 1730103855,
+    "hash": "55f8d33b95ca50c9920a3847a9064e79b9169f16",
+    "id": 30999,
+    "magnet": "magnet:?xt=urn:btih:55f8d33b95ca50c9920a3847a9064e79b9169f16&dn=Monogatari+Series+Off+and+Monster+Season+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=4359970883&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Monogatari Series- Off & Monster Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-14].torrent",
+    "description": "1-14",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4359970883,
+    "seeders": 27
   }
 ]
