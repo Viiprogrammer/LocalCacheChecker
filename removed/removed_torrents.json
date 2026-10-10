@@ -4840,5 +4840,57 @@
     },
     "size": 479573490,
     "seeders": 25
+  },
+  {
+    "releaseId": 9779,
+    "time": 1722537020,
+    "hash": "4f54144ae59f8091baa67a5f7eb1b54d4bcdfd74",
+    "id": 29815,
+    "magnet": "magnet:?xt=urn:btih:4f54144ae59f8091baa67a5f7eb1b54d4bcdfd74&dn=Otome_Game_no_Hametsu_Flag_shika_Nai_Akuyaku_Reijou_ni_Tensei_shiteshimatta_Movie_%5BAniLibria%5D_%5BWEB-DLRip_1080p%5D.mkv&xl=2928413402&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shite Shimatta... Movie - AniLiberty.TOP [WEB-DLRip 1080p][AVC][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 2928413402,
+    "seeders": 16
+  },
+  {
+    "releaseId": 9779,
+    "time": 1722537035,
+    "hash": "b51771f04ef88c01486a16b644b7bce0525ab32e",
+    "id": 29817,
+    "magnet": "magnet:?xt=urn:btih:b51771f04ef88c01486a16b644b7bce0525ab32e&dn=Otome_Game_no_Hametsu_Flag_shika_Nai_Akuyaku_Reijou_ni_Tensei_shiteshimatta_Movie_%5BAniLibria%5D_%5BWEB-DLRip_1080p_HEVC%5D.mkv&xl=770308738&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shite Shimatta... Movie - AniLiberty.TOP [WEB-DLRip 1080p][HEVC][Movie].torrent",
+    "description": "Movie",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 770308738,
+    "seeders": 22
   }
 ]
