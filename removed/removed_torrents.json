@@ -1870,5 +1870,57 @@
     },
     "size": 5691716095,
     "seeders": 12
+  },
+  {
+    "releaseId": 10076,
+    "time": 1766310446,
+    "hash": "8b909643af6c0bb37c082eba4dfee010f47019a6",
+    "id": 36419,
+    "magnet": "magnet:?xt=urn:btih:8b909643af6c0bb37c082eba4dfee010f47019a6&dn=Disney+Twisted-Wonderland+The+Animation+Episode+of+Heartslabyul+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=19682466018&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Disney- Twisted-Wonderland The Animation - Episode of Heartslabyul - AniLiberty.TOP [WEB-DL 1080p][AVC][1-8].torrent",
+    "description": "1-8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 19682466018,
+    "seeders": 10
+  },
+  {
+    "releaseId": 10076,
+    "time": 1766320099,
+    "hash": "f2c9f08d3855056df8218e09cb725ac72e776b63",
+    "id": 36421,
+    "magnet": "magnet:?xt=urn:btih:f2c9f08d3855056df8218e09cb725ac72e776b63&dn=Disney+Twisted-Wonderland+The+Animation+Episode+of+Heartslabyul+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=2810492922&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Disney- Twisted-Wonderland The Animation - Episode of Heartslabyul - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-8].torrent",
+    "description": "1-8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 2810492922,
+    "seeders": 21
   }
 ]
