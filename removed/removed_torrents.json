@@ -13011,5 +13011,32 @@
     },
     "size": 1380120474,
     "seeders": 14
+  },
+  {
+    "releaseId": 7473,
+    "time": 1550055009,
+    "hash": "b03070e87d1b36aa37db4610a7b9993e6fd251be",
+    "id": 6032,
+    "magnet": "magnet:?xt=urn:btih:b03070e87d1b36aa37db4610a7b9993e6fd251be&dn=Yagate+Kimi+ni+Naru+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4126716964&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Yagate Kimi ni Naru - AniLibria.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4126716964,
+    "seeders": 13,
+    "updatedAt": ""
   }
 ]
