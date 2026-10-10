@@ -7264,5 +7264,57 @@
     },
     "size": 3618541861,
     "seeders": 15
+  },
+  {
+    "releaseId": 9633,
+    "time": 1712776422,
+    "hash": "d6722f6584ca4bdf1088f519cd82bfc42b8718f6",
+    "id": 28302,
+    "magnet": "magnet:?xt=urn:btih:d6722f6584ca4bdf1088f519cd82bfc42b8718f6&dn=Bucchigiri+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=18052632628&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Bucchigiri-! - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18052632628,
+    "seeders": 11
+  },
+  {
+    "releaseId": 9633,
+    "time": 1712803564,
+    "hash": "024effd96667e0900b478c4a895a6fa6eb131727",
+    "id": 28305,
+    "magnet": "magnet:?xt=urn:btih:024effd96667e0900b478c4a895a6fa6eb131727&dn=Bucchigiri+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3143454637&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Bucchigiri-! - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3143454637,
+    "seeders": 14
   }
 ]
