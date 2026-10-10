@@ -12358,5 +12358,31 @@
     },
     "size": 7035484070,
     "seeders": 13
+  },
+  {
+    "releaseId": 8372,
+    "time": 1555029469,
+    "hash": "2050fabdf18b54ce8cf8653ebad04a7b7b254fae",
+    "id": 6752,
+    "magnet": "magnet:?xt=urn:btih:2050fabdf18b54ce8cf8653ebad04a7b7b254fae&dn=Karneval+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=5818170333&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Karneval - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 5818170333,
+    "seeders": 10
   }
 ]
