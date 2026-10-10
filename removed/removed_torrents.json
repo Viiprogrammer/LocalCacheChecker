@@ -5048,5 +5048,57 @@
     },
     "size": 747557831,
     "seeders": 18
+  },
+  {
+    "releaseId": 9774,
+    "time": 1725743261,
+    "hash": "cde8c580680bb343d3c83944fe45d9d7fe744607",
+    "id": 30294,
+    "magnet": "magnet:?xt=urn:btih:cde8c580680bb343d3c83944fe45d9d7fe744607&dn=Code+Geass+Roze+of+the+Recapture+-+AniLibria+%5BWEBRip+1080p%5D&xl=12560517824&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Code Geass- Dakkan no Roze - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 12560517824,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9774,
+    "time": 1725835192,
+    "hash": "af796329ef64fbaa7ec0c6a9c6a67bd46a4372c0",
+    "id": 30310,
+    "magnet": "magnet:?xt=urn:btih:af796329ef64fbaa7ec0c6a9c6a67bd46a4372c0&dn=Code+Geass+Roze+of+the+Recapture+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=4214139008&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Code Geass- Dakkan no Roze - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4214139008,
+    "seeders": 18
   }
 ]
