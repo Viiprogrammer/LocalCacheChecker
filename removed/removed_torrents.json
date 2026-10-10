@@ -13169,5 +13169,31 @@
     },
     "size": 7696773801,
     "seeders": 7
+  },
+  {
+    "releaseId": 6837,
+    "time": 1550055005,
+    "hash": "b2badf078ede1778bbf223fd8f4b44f7f4ffd369",
+    "id": 5477,
+    "magnet": "magnet:?xt=urn:btih:b2badf078ede1778bbf223fd8f4b44f7f4ffd369&dn=Back+Street+Girls+Gokudolls+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=5047197326&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Back Street Girls- Gokudolls - AniLibria.TOP [HDTVRip 720p][AVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 5047197326,
+    "seeders": 7
   }
 ]
