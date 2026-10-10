@@ -6818,5 +6818,57 @@
     },
     "size": 2635426971,
     "seeders": 36
+  },
+  {
+    "releaseId": 9723,
+    "time": 1733737432,
+    "hash": "407595502787a92405e38a45b4246d75ad1c577f",
+    "id": 31586,
+    "magnet": "magnet:?xt=urn:btih:407595502787a92405e38a45b4246d75ad1c577f&dn=Quanzhi+Gaoshou+3+-+AniLibria+%5BWEBRip+1080p%5D&xl=8605498003&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Quanzhi Gaoshou 3 - AniLiberty.TOP [WEBRip 1080p][AVC][1-17].torrent",
+    "description": "1-17",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 8605498003,
+    "seeders": 35
+  },
+  {
+    "releaseId": 9723,
+    "time": 1788848199,
+    "hash": "2b4a1d0bf6abc567ac97d6f105a3c405d8b3c022",
+    "id": 39889,
+    "magnet": "magnet:?xt=urn:btih:2b4a1d0bf6abc567ac97d6f105a3c405d8b3c022&dn=Quanzhi+Gaoshou+3+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3966459383&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Quanzhi Gaoshou 3 - AniLiberty.TOP [WEBRip 1080p][HEVC][1-17].torrent",
+    "description": "1-17",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3966459383,
+    "seeders": 12
   }
 ]
