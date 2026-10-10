@@ -4899,5 +4899,28 @@
     "team": "",
     "year": "2020",
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "hazbin-hotel",
+    "countTorrents": 2,
+    "countVideos": 9,
+    "description": "После очередной зачистки ада со стороны ангелов главная героиня Чарли решает открыть свой отель, в котором грешники смогут встать на путь исправления. И, к счастью это или нет, ей в этом решает помочь загадочный радио-демон Аластор... Добро пожаловать в Отель Хазбин! Место, где каждый сможет искупить свои грехи!",
+    "genres": "Комедия, Драма, Ужасы, Музыка, Фэнтези",
+    "id": 8764,
+    "originalName": "Hazbin Hotel",
+    "poster": "/storage/releases/posters/8764/PH5ioo5ez4Qs1IEekfnKY9YznOyIfW7p.jpg",
+    "rating": 7023,
+    "season": "Зима",
+    "series": "(9)",
+    "status": "Озвучка завершена",
+    "timestamp": 1709706874,
+    "title": "Отель Хазбин [DEL]",
+    "type": "WEB",
+    "voices": "Silv, Anzen, Sharon, Amikiri, Slivcis, Dejz, Hekomi, Gomer, MyAska, Nuts",
+    "team": "Silv, Anzen, Sharon, Amikiri, Slivcis, Dejz, Hekomi, Gomer, MyAska, Nuts, Mystery World Team (1-2), Юпикс, Ninja-san",
+    "year": "2024",
+    "isOngoing": false,
+    "ageRating": "Запрещено для распространения среди детей (18+)"
   }
 ]
