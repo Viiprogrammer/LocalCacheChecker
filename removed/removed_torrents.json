@@ -11809,5 +11809,31 @@
     "size": 2881602998,
     "seeders": 11,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8442,
+    "time": 1560887400,
+    "hash": "44af39e991e4cf74ab54691dc8a0b207989bbdef",
+    "id": 7275,
+    "magnet": "magnet:?xt=urn:btih:44af39e991e4cf74ab54691dc8a0b207989bbdef&dn=True+Tears+-+AniLibria.TV+%5BBDRip+720p%5D&xl=10291785419&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "True Tears  - AniLiberty.TOP [BDRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 10291785419,
+    "seeders": 12
   }
 ]
