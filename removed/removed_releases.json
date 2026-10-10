@@ -5105,5 +5105,28 @@
     "year": "2011",
     "isOngoing": false,
     "ageRating": "Запрещено для распространения среди детей (18+)"
+  },
+  {
+    "announce": "",
+    "code": "re-zero-kara-hajimeru-isekai-seikatsu---hyouketsu-no-kizuna",
+    "countTorrents": 2,
+    "countVideos": 1,
+    "description": null,
+    "genres": "Психологическое, Сёнен, Приключения, Фэнтези",
+    "id": 8637,
+    "originalName": "Re: Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+    "poster": "/storage/releases/posters/8637/XF5LTWkLHpnWWlXc3rXzomzqB8DdZtrb.jpg",
+    "rating": 2154,
+    "season": "Осень",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "timestamp": 0,
+    "title": "Re: Жизнь в другом мире с нуля - Замороженные узы [DEL]",
+    "type": "OVA",
+    "voices": "Itashi, Kari, Nuts",
+    "team": "Itashi, Kari, Nuts, Sevens ABSOlute, Blaze, FLASHIx",
+    "year": "2019",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

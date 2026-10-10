@@ -11412,5 +11412,57 @@
     "size": 2429960219,
     "seeders": 8,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8637,
+    "time": 1615043640,
+    "hash": "9b750a4020238d4b74280a53537d93101c6a75bf",
+    "id": 14228,
+    "magnet": "magnet:?xt=urn:btih:9b750a4020238d4b74280a53537d93101c6a75bf&dn=Re_Zero_Kara_Hajimeru_Isekai_Seikatsu_Hyouketsu_no_Kizuna_%5BOVA_2%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=4574978892&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re- Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - AniLibria.TOP [BDRip 1080p][AVC][OVA-2].torrent",
+    "description": "OVA-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 4574978892,
+    "seeders": 8
+  },
+  {
+    "releaseId": 8637,
+    "time": 1615043664,
+    "hash": "978153309a3f2d59511b31b896c6d59329484c1d",
+    "id": 14229,
+    "magnet": "magnet:?xt=urn:btih:978153309a3f2d59511b31b896c6d59329484c1d&dn=Re_Zero_Kara_Hajimeru_Isekai_Seikatsu_Hyouketsu_no_Kizuna_%5BOVA_2%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=793399759&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re- Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - AniLibria.TOP [BDRip 1080p][HEVC][OVA-2].torrent",
+    "description": "OVA-2",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 793399759,
+    "seeders": 19
   }
 ]

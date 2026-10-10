@@ -63949,5 +63949,27 @@
         "preview": {}
       }
     ]
+  },
+  {
+    "releaseId": 8637,
+    "items": [
+      {
+        "id": "95d3b955-789e-11ec-ae92-0242ac120002",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/8637/1/480/7eb599c215339a5d28482e8d34a36c95.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/8637/1/720/5284e8022f6366d7165e355a2cf7ce86.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/8637/1/1080/24f93251edc1f026293981a039c289b1.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 4582,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2020-05-01T09:21:23+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {}
+      }
+    ]
   }
 ]
