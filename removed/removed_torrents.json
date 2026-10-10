@@ -2156,5 +2156,57 @@
     },
     "size": 4469833864,
     "seeders": 0
+  },
+  {
+    "releaseId": 10033,
+    "time": 1766518872,
+    "hash": "655d6e0ead83f35b8e6b2616b4d0185009d3be0f",
+    "id": 36454,
+    "magnet": "magnet:?xt=urn:btih:655d6e0ead83f35b8e6b2616b4d0185009d3be0f&dn=Fumetsu+no+Anata+e+3+-+AniLiberty+%5BWEBRip+1080p%5D&xl=19062277751&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Fumetsu no Anata e Season 3 - AniLibria.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 19062277751,
+    "seeders": 27
+  },
+  {
+    "releaseId": 10033,
+    "time": 1766583497,
+    "hash": "d237db76513d3e0c1e68917fe99698544ebf8157",
+    "id": 36456,
+    "magnet": "magnet:?xt=urn:btih:d237db76513d3e0c1e68917fe99698544ebf8157&dn=Fumetsu+no+Anata+e+3+-+AniLiberty+%5BWEBRip+1080p+HEVC%5D&xl=3032720949&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Fumetsu no Anata e Season 3 - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 3032720949,
+    "seeders": 42
   }
 ]
