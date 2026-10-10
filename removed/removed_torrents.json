@@ -8206,5 +8206,31 @@
     "size": 2964128646,
     "seeders": 24,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9534,
+    "time": 1703146000,
+    "hash": "0adc59342674ac413cda2884c2b2900581c28634",
+    "id": 26843,
+    "magnet": "magnet:?xt=urn:btih:0adc59342674ac413cda2884c2b2900581c28634&dn=Kage+no+Jitsuryokusha+ni+Naritakute%21+2nd+Season+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=5214271273&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kage no Jitsuryokusha ni Naritakute! 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 5214271273,
+    "seeders": 85
   }
 ]
