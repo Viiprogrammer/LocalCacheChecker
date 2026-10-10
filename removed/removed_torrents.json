@@ -3072,5 +3072,57 @@
     },
     "size": 7539394754,
     "seeders": 21
+  },
+  {
+    "releaseId": 9830,
+    "time": 1734807510,
+    "hash": "4e84d90aec144dc43095192a1afb42d3dbfcc4d3",
+    "id": 31746,
+    "magnet": "magnet:?xt=urn:btih:4e84d90aec144dc43095192a1afb42d3dbfcc4d3&dn=Ranma+1_2+%282024%29+-+AniLibria+%5BWEBRip+1080p%5D&xl=15183934369&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ranma 1-2 (2024) - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 15183934369,
+    "seeders": 16
+  },
+  {
+    "releaseId": 9830,
+    "time": 1734859925,
+    "hash": "987c10869ce9641b219939cdb0ee60a110924a76",
+    "id": 31748,
+    "magnet": "magnet:?xt=urn:btih:987c10869ce9641b219939cdb0ee60a110924a76&dn=Ranma+1_2+%282024%29+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3774865378&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ranma 1-2 (2024) - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3774865378,
+    "seeders": 27
   }
 ]
