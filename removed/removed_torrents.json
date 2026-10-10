@@ -5776,5 +5776,57 @@
     },
     "size": 2651689708,
     "seeders": 20
+  },
+  {
+    "releaseId": 9751,
+    "time": 1728142359,
+    "hash": "5f2af68f3139742e5229084b8aa9f5fa2e647055",
+    "id": 30656,
+    "magnet": "magnet:?xt=urn:btih:5f2af68f3139742e5229084b8aa9f5fa2e647055&dn=Make+Heroine+ga+Oosugiru+-+AniLibria+%5BWEBRip+1080p%5D&xl=18277513025&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Make Heroine ga Oosugiru! - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18277513025,
+    "seeders": 15
+  },
+  {
+    "releaseId": 9751,
+    "time": 1728143067,
+    "hash": "8d78d7c581ac025ecc75d13db762971d04b07493",
+    "id": 30659,
+    "magnet": "magnet:?xt=urn:btih:8d78d7c581ac025ecc75d13db762971d04b07493&dn=Make+Heroine+ga+Oosugiru+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2846643920&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Make Heroine ga Oosugiru! - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2846643920,
+    "seeders": 31
   }
 ]
