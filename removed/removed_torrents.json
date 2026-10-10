@@ -13064,5 +13064,31 @@
     },
     "size": 4610844639,
     "seeders": 28
+  },
+  {
+    "releaseId": 7435,
+    "time": 1550055000,
+    "hash": "ed1cf70acbf6117c5756e85d78d60d7604a40053",
+    "id": 5985,
+    "magnet": "magnet:?xt=urn:btih:ed1cf70acbf6117c5756e85d78d60d7604a40053&dn=Ore+ga+Suki+nano+wa+Imouto+dakedo+Imouto+ja+Nai+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=3055884742&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai - AniLibria.TOP [HDTVRip 720p][AVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 3055884742,
+    "seeders": 7
   }
 ]
