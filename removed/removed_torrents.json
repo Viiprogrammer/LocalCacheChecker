@@ -4164,5 +4164,57 @@
     },
     "size": 2491305617,
     "seeders": 27
+  },
+  {
+    "releaseId": 9795,
+    "time": 1734984726,
+    "hash": "45a5013c8f3b88ec41edf9102c0f3f9b1df83dd6",
+    "id": 31776,
+    "magnet": "magnet:?xt=urn:btih:45a5013c8f3b88ec41edf9102c0f3f9b1df83dd6&dn=Party+kara+Tsuihou+sareta+Sono+Chiyushi%2C+Jitsu+wa+Saikyou+-+AniLibria+%5BWEBRip+1080p%5D&xl=17506410095&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17506410095,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9795,
+    "time": 1735020904,
+    "hash": "2f6735ccbe10d5a7b1a2cb9386819d448e883321",
+    "id": 31778,
+    "magnet": "magnet:?xt=urn:btih:2f6735ccbe10d5a7b1a2cb9386819d448e883321&dn=Party+kara+Tsuihou+sareta+Sono+Chiyushi%2C+Jitsu+wa+Saikyou+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2328348964&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2328348964,
+    "seeders": 38
   }
 ]
