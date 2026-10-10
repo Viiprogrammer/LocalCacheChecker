@@ -1506,5 +1506,57 @@
     },
     "size": 8986948895,
     "seeders": 12
+  },
+  {
+    "releaseId": 10146,
+    "time": 1781640995,
+    "hash": "7dd7d7f88f4ad2b10bb89b7fdfe41edeac27ded7",
+    "id": 38713,
+    "magnet": "magnet:?xt=urn:btih:7dd7d7f88f4ad2b10bb89b7fdfe41edeac27ded7&dn=Yu+Ling+Shi+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=16683323126&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yu Ling Shi - AniLiberty.TOP [WEB-DL 1080p][AVC][1-18].torrent",
+    "description": "1-18",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 16683323126,
+    "seeders": 20
+  },
+  {
+    "releaseId": 10146,
+    "time": 1781691653,
+    "hash": "3eddfca39de0be8c56138d1ec4f3b2dafbb477de",
+    "id": 38719,
+    "magnet": "magnet:?xt=urn:btih:3eddfca39de0be8c56138d1ec4f3b2dafbb477de&dn=Yu+Ling+Shi+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=5432798359&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Yu Ling Shi - AniLiberty.TOP [WEB-DL 1080p][HEVC][1-18].torrent",
+    "description": "1-18",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL"
+    },
+    "size": 5432798359,
+    "seeders": 37
   }
 ]
