@@ -13726,5 +13726,31 @@
     "size": 289073934,
     "seeders": 8,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 2123,
+    "time": 1615043501,
+    "hash": "5b608ea26149647d982611a393c924bafd00f069",
+    "id": 14224,
+    "magnet": "magnet:?xt=urn:btih:5b608ea26149647d982611a393c924bafd00f069&dn=Re-Zero+kara+Hajimeru+Isekai+Seikatsu+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=13389352643&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Re- Zero kara Hajimeru Isekai Seikatsu - AniLibria.TOP [HDTVRip 720p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 13389352643,
+    "seeders": 29
   }
 ]
