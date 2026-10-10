@@ -2942,5 +2942,57 @@
     },
     "size": 229316053,
     "seeders": 15
+  },
+  {
+    "releaseId": 9835,
+    "time": 1747194672,
+    "hash": "38a0de16fe84963abe64c1296befbb93d173e8dd",
+    "id": 33505,
+    "magnet": "magnet:?xt=urn:btih:38a0de16fe84963abe64c1296befbb93d173e8dd&dn=Chrno+Crusade+-+AniLibria+%5BBDRip+1080p%5D&xl=23749161103&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chrno Crusade - AniLiberty.TOP [BDRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 23749161103,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9835,
+    "time": 1747219715,
+    "hash": "dfc2c795b33473b3e822b9d8c589c0655b1d80f9",
+    "id": 33510,
+    "magnet": "magnet:?xt=urn:btih:dfc2c795b33473b3e822b9d8c589c0655b1d80f9&dn=Chrno+Crusade+-+AniLibria+%5BBDRip+1080p+HEVC%5D&xl=4105844059&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chrno Crusade - AniLiberty.TOP [BDRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 4105844059,
+    "seeders": 18
   }
 ]
