@@ -4892,5 +4892,57 @@
     },
     "size": 770308738,
     "seeders": 22
+  },
+  {
+    "releaseId": 9777,
+    "time": 1743781185,
+    "hash": "1cdb7805b7b4f66665563a4e9896162b045c726f",
+    "id": 33005,
+    "magnet": "magnet:?xt=urn:btih:1cdb7805b7b4f66665563a4e9896162b045c726f&dn=Aria+-+The+Natural+-+AniLibria+%5BDVDRip+1080p%5D&xl=18083378068&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Aria the Natural - AniLiberty.TOP [DVDRip 1080p][AVC][0-26].torrent",
+    "description": "0-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "DVDRip",
+      "description": "DVDRip"
+    },
+    "size": 18083378068,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9777,
+    "time": 1743954272,
+    "hash": "d3b87ef48bcb23b9ad1767b4e7d2bf1c31f35e39",
+    "id": 33033,
+    "magnet": "magnet:?xt=urn:btih:d3b87ef48bcb23b9ad1767b4e7d2bf1c31f35e39&dn=Aria+-+The+Natural+-+AniLibria+%5BDVDRip+1080p+HEVC%5D&xl=6688378859&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Aria the Natural - AniLiberty.TOP [DVDRip 1080p][HEVC][0-26].torrent",
+    "description": "0-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "DVDRip",
+      "description": "DVDRip"
+    },
+    "size": 6688378859,
+    "seeders": 14
   }
 ]
