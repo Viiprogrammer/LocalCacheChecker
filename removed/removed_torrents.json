@@ -3228,5 +3228,57 @@
     },
     "size": 1923922975,
     "seeders": 12
+  },
+  {
+    "releaseId": 9825,
+    "time": 1735056207,
+    "hash": "a245bf09d53c34042762d5dcd20f06353215f35c",
+    "id": 31787,
+    "magnet": "magnet:?xt=urn:btih:a245bf09d53c34042762d5dcd20f06353215f35c&dn=Puniru+wa+Kawaii+Slime+-+AniLibria+%5BWEBRip+1080p%5D&xl=17808753012&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Puniru wa Kawaii Slime - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17808753012,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9825,
+    "time": 1735061765,
+    "hash": "cd1a71d8f351d500a002c9d80d1d9057ed5e6390",
+    "id": 31788,
+    "magnet": "magnet:?xt=urn:btih:cd1a71d8f351d500a002c9d80d1d9057ed5e6390&dn=Puniru+wa+Kawaii+Slime+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2555243757&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Puniru wa Kawaii Slime - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2555243757,
+    "seeders": 17
   }
 ]
