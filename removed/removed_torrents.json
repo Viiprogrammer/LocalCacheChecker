@@ -6608,5 +6608,57 @@
     },
     "size": 2668302248,
     "seeders": 23
+  },
+  {
+    "releaseId": 9728,
+    "time": 1726924944,
+    "hash": "2365f16bc45e97bdd0874596ffa48ec33d7f29f7",
+    "id": 30478,
+    "magnet": "magnet:?xt=urn:btih:2365f16bc45e97bdd0874596ffa48ec33d7f29f7&dn=Gimai+Seikatsu+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=1931837874&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Gimai Seikatsu - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1931837874,
+    "seeders": 26
+  },
+  {
+    "releaseId": 9728,
+    "time": 1727963300,
+    "hash": "9d9fef679f658c66205fc57f15f59e79553a0567",
+    "id": 30614,
+    "magnet": "magnet:?xt=urn:btih:9d9fef679f658c66205fc57f15f59e79553a0567&dn=Gimai+Seikatsu+-+AniLibria+%5BWEBRip+1080p%5D&xl=11275407406&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Gimai Seikatsu - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 11275407406,
+    "seeders": 13
   }
 ]
