@@ -4528,5 +4528,57 @@
     },
     "size": 3549699018,
     "seeders": 40
+  },
+  {
+    "releaseId": 9788,
+    "time": 1734881618,
+    "hash": "a8cd058d45d5eaa8e6faa393e35006289145388c",
+    "id": 31751,
+    "magnet": "magnet:?xt=urn:btih:a8cd058d45d5eaa8e6faa393e35006289145388c&dn=Sword+Art+Online+Alternative+-+Gun+Gale+Online+II+-+AniLibria+%5BWEBRip+1080p%5D&xl=18040956269&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sword Art Online Alternative- Gun Gale Online II - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18040956269,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9788,
+    "time": 1734889183,
+    "hash": "d752ed2c97b06318a0474153ff611cad338590a6",
+    "id": 31754,
+    "magnet": "magnet:?xt=urn:btih:d752ed2c97b06318a0474153ff611cad338590a6&dn=Sword+Art+Online+Alternative+-+Gun+Gale+Online+II+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3220773049&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sword Art Online Alternative- Gun Gale Online II - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3220773049,
+    "seeders": 25
   }
 ]
