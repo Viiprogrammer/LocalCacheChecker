@@ -4632,5 +4632,57 @@
     },
     "size": 10843126064,
     "seeders": 43
+  },
+  {
+    "releaseId": 9786,
+    "time": 1741296026,
+    "hash": "a26af8d7e23f217bd4d350a43ff7939805d7fc22",
+    "id": 32688,
+    "magnet": "magnet:?xt=urn:btih:a26af8d7e23f217bd4d350a43ff7939805d7fc22&dn=Dungeon+ni+Deai+wo+Motomeru+no+wa+Machigatteiru+no+Darou+ka+V+-+AniLibria+%5BWEBRip+1080p%5D&xl=14427724120&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V- Houjou no Megami-hen - AniLiberty.TOP [WEBRip 1080p][AVC][1-15].torrent",
+    "description": "1-15",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 14427724120,
+    "seeders": 25
+  },
+  {
+    "releaseId": 9786,
+    "time": 1741317195,
+    "hash": "61d5cb06992f38e7f32790269018a66032db1c63",
+    "id": 32690,
+    "magnet": "magnet:?xt=urn:btih:61d5cb06992f38e7f32790269018a66032db1c63&dn=Dungeon+ni+Deai+wo+Motomeru+no+wa+Machigatteiru+no+Darou+ka+V+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3157763282&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V- Houjou no Megami-hen - AniLiberty.TOP [WEBRip 1080p][HEVC][1-15].torrent",
+    "description": "1-15",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3157763282,
+    "seeders": 45
   }
 ]
