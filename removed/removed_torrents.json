@@ -9414,5 +9414,31 @@
     },
     "size": 7323712626,
     "seeders": 0
+  },
+  {
+    "releaseId": 9265,
+    "time": 1676503315,
+    "hash": "056898266467a25c4dc112a93330bc8860b73449",
+    "id": 22568,
+    "magnet": "magnet:?xt=urn:btih:056898266467a25c4dc112a93330bc8860b73449&dn=Kage+no+Jitsuryokusha+ni+Naritakute%21+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=8200407270&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kage no Jitsuryokusha ni Naritakute! - AniLiberty.TOP [WEBRip 1080p][AVC][1-20].torrent",
+    "description": "1-20",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 8200407270,
+    "seeders": 83
   }
 ]
