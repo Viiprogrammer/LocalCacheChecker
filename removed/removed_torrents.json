@@ -14177,5 +14177,86 @@
     },
     "size": 3992702013,
     "seeders": 17
+  },
+  {
+    "releaseId": 428,
+    "time": 1550054940,
+    "hash": "97321f56a69a39d6abb89132972fda813bdf324f",
+    "id": 399,
+    "magnet": "magnet:?xt=urn:btih:97321f56a69a39d6abb89132972fda813bdf324f&dn=Nanatsu+no+Taizai+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=11246274636&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Nanatsu no Taizai - AniLibria.TOP [HDTVRip 720p][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 11246274636,
+    "seeders": 6,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 428,
+    "time": 1609843740,
+    "hash": "2c90aa9dec3df911c7a956afd5b35f905bd2ad92",
+    "id": 13307,
+    "magnet": "magnet:?xt=urn:btih:2c90aa9dec3df911c7a956afd5b35f905bd2ad92&dn=Nanatsu+no+Taizai+-+AniLibria.TV+%5BBDRip+1080p%5D&xl=33328356976&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Nanatsu no Taizai - AniLibria.TOP [BDRip 1080p][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 33328356976,
+    "seeders": 9,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 428,
+    "time": 1609899991,
+    "hash": "d5db277f71e441894c87ed88f3b609e88f4493c6",
+    "id": 13316,
+    "magnet": "magnet:?xt=urn:btih:d5db277f71e441894c87ed88f3b609e88f4493c6&dn=Nanatsu+no+Taizai+-+AniLibria.TV+%5BBDRip+1080p+HEVC%5D&xl=10105813441&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Nanatsu no Taizai - AniLibria.TOP [BDRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 10105813441,
+    "seeders": 15,
+    "updatedAt": ""
   }
 ]
