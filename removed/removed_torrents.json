@@ -12462,5 +12462,32 @@
     },
     "size": 4040439963,
     "seeders": 10
+  },
+  {
+    "releaseId": 8367,
+    "time": 1555027221,
+    "hash": "28fc292518b4823c8106acfc0264f7e49dad90e2",
+    "id": 6749,
+    "magnet": "magnet:?xt=urn:btih:28fc292518b4823c8106acfc0264f7e49dad90e2&dn=Hyakka+Ryouran+Samurai+Bride+-+Anilibria.TV+%5BHDTVRip+720p%5D&xl=5476292314&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Hyakka Ryouran- Samurai Bride - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 5476292314,
+    "seeders": 7,
+    "updatedAt": ""
   }
 ]
