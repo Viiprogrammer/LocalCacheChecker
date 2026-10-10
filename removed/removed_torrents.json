@@ -14045,5 +14045,32 @@
     "size": 4505438189,
     "seeders": 12,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 509,
+    "time": 1550054981,
+    "hash": "cf70bbc9ad7afd113145294d21e5fcc04fc8bdcf",
+    "id": 1076,
+    "magnet": "magnet:?xt=urn:btih:cf70bbc9ad7afd113145294d21e5fcc04fc8bdcf&dn=No+Game+No+Life+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=5386843929&tr=http://tr.libria.fun:2710/announce",
+    "filename": "No Game No Life - AniLibria.TOP [HDTVRip 720p][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 5386843929,
+    "seeders": 22,
+    "updatedAt": ""
   }
 ]
