@@ -7916,5 +7916,57 @@
     },
     "size": 3264971919,
     "seeders": 15
+  },
+  {
+    "releaseId": 9562,
+    "time": 1711985092,
+    "hash": "7c6ca7424edf336050be1533c39dec2005ba3cac",
+    "id": 28196,
+    "magnet": "magnet:?xt=urn:btih:7c6ca7424edf336050be1533c39dec2005ba3cac&dn=Shangri-La+Frontier+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=10092222002&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shangri-La Frontier- Kusoge Hunter, Kamige ni Idoman to su - AniLiberty.TOP [WEBRip 1080p][HEVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 10092222002,
+    "seeders": 46
+  },
+  {
+    "releaseId": 9562,
+    "time": 1724338648,
+    "hash": "cb8f38bf27b16c03900eca3863d30060686118d0",
+    "id": 30085,
+    "magnet": "magnet:?xt=urn:btih:cb8f38bf27b16c03900eca3863d30060686118d0&dn=Shangri-La+Frontier+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=39270391534&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Shangri-La Frontier- Kusoge Hunter, Kamige ni Idoman to su - AniLiberty.TOP [WEBRip 1080p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 39270391534,
+    "seeders": 14
   }
 ]
