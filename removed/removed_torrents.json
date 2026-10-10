@@ -6660,5 +6660,57 @@
     },
     "size": 11275407406,
     "seeders": 13
+  },
+  {
+    "releaseId": 9726,
+    "time": 1735613777,
+    "hash": "307bf796cbb689c94a973b2a65fa53f9d6ba8ffa",
+    "id": 31832,
+    "magnet": "magnet:?xt=urn:btih:307bf796cbb689c94a973b2a65fa53f9d6ba8ffa&dn=Kami+no+Tou+-+Ouji+no+Kikan+-+AniLibria+%5BWEBRip+1080p%5D&xl=38552510457&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kami no Tou 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 38552510457,
+    "seeders": 15
+  },
+  {
+    "releaseId": 9726,
+    "time": 1735627985,
+    "hash": "b9bb1039e7f92e91f86cf4424305e9de6ef260d8",
+    "id": 31833,
+    "magnet": "magnet:?xt=urn:btih:b9bb1039e7f92e91f86cf4424305e9de6ef260d8&dn=Kami+no+Tou+-+Ouji+no+Kikan+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=7500689781&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kami no Tou 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 7500689781,
+    "seeders": 39
   }
 ]
