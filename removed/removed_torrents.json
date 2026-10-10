@@ -6870,5 +6870,31 @@
     },
     "size": 3966459383,
     "seeders": 12
+  },
+  {
+    "releaseId": 9720,
+    "time": 1714425849,
+    "hash": "1d54861b2b29e6cdd6050a824d0587fa578c6e8d",
+    "id": 28564,
+    "magnet": "magnet:?xt=urn:btih:1d54861b2b29e6cdd6050a824d0587fa578c6e8d&dn=Cooking+with+Valkyries+2+-+AniLibria+%5BWEBRip+1080p%5D&xl=647316842&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Cooking with Valkyries 2 - AniLiberty.TOP [WEBRip 1080p][AVC][1-8].torrent",
+    "description": "1-8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 647316842,
+    "seeders": 13
   }
 ]
