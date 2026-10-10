@@ -1922,5 +1922,57 @@
     },
     "size": 2810492922,
     "seeders": 21
+  },
+  {
+    "releaseId": 10074,
+    "time": 1765797230,
+    "hash": "4b841b0ecba56637210b3bf462a709db7865db46",
+    "id": 36349,
+    "magnet": "magnet:?xt=urn:btih:4b841b0ecba56637210b3bf462a709db7865db46&dn=Watatabe+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=16509426802&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Watashi wo Tabetai, Hitodenashi - AniLibria.TOP [WEB-DL 1080p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 16509426802,
+    "seeders": 14
+  },
+  {
+    "releaseId": 10074,
+    "time": 1765800998,
+    "hash": "f7a44f24b97c9837ecd74372cfc36b3eb33cd4e0",
+    "id": 36355,
+    "magnet": "magnet:?xt=urn:btih:f7a44f24b97c9837ecd74372cfc36b3eb33cd4e0&dn=Watatabe+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=2616016144&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Watashi wo Tabetai, Hitodenashi - AniLibria.TOP [WEB-DL 1080p][HEVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 2616016144,
+    "seeders": 21
   }
 ]
