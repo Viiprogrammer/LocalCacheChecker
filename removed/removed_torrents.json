@@ -12201,5 +12201,31 @@
     },
     "size": 7877962514,
     "seeders": 12
+  },
+  {
+    "releaseId": 8382,
+    "time": 1555967531,
+    "hash": "84ba9c03b8d42187d118a109019210c7ae287222",
+    "id": 6839,
+    "magnet": "magnet:?xt=urn:btih:84ba9c03b8d42187d118a109019210c7ae287222&dn=Onii-chan+Dakedo+-+AniLibria.TV+%5BBDRip+720p%5D&xl=7599253044&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! - AniLiberty.TOP [BDRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 7599253044,
+    "seeders": 11
   }
 ]
