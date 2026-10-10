@@ -6400,5 +6400,57 @@
     },
     "size": 3612644454,
     "seeders": 41
+  },
+  {
+    "releaseId": 9733,
+    "time": 1734455030,
+    "hash": "495077dbece3eb7755cb779f0dc6243ea3973d89",
+    "id": 31708,
+    "magnet": "magnet:?xt=urn:btih:495077dbece3eb7755cb779f0dc6243ea3973d89&dn=2.5-Jigen+no+Ririsa+-+AniLibria+%5BWEBRip+1080p%5D&xl=25214897979&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "2.5-jigen no Ririsa - AniLiberty.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 25214897979,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9733,
+    "time": 1734461983,
+    "hash": "6864aab82bee38043ea2efdde8986fae3156d48a",
+    "id": 31711,
+    "magnet": "magnet:?xt=urn:btih:6864aab82bee38043ea2efdde8986fae3156d48a&dn=2.5-Jigen+no+Ririsa+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=5667505019&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "2.5-jigen no Ririsa - AniLiberty.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 5667505019,
+    "seeders": 26
   }
 ]
