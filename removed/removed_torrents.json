@@ -4476,5 +4476,57 @@
     },
     "size": 5289076410,
     "seeders": 24
+  },
+  {
+    "releaseId": 9789,
+    "time": 1734694225,
+    "hash": "b451a6b9b67383787be3273ec1a2a8e54cea3380",
+    "id": 31731,
+    "magnet": "magnet:?xt=urn:btih:b451a6b9b67383787be3273ec1a2a8e54cea3380&dn=Dandadan+-+AniLibria+%5BWEBRip+1080p%5D&xl=17448944888&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dandadan - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17448944888,
+    "seeders": 24
+  },
+  {
+    "releaseId": 9789,
+    "time": 1734697750,
+    "hash": "f3a14b1c76f3681442cad4c3cd397144c04e218f",
+    "id": 31734,
+    "magnet": "magnet:?xt=urn:btih:f3a14b1c76f3681442cad4c3cd397144c04e218f&dn=Dandadan+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3549699018&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dandadan - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3549699018,
+    "seeders": 40
   }
 ]
