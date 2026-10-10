@@ -3644,5 +3644,57 @@
     },
     "size": 2941002992,
     "seeders": 29
+  },
+  {
+    "releaseId": 9810,
+    "time": 1745615496,
+    "hash": "4785c40d6618fcb56687c0425f8acbd7731158a7",
+    "id": 33294,
+    "magnet": "magnet:?xt=urn:btih:4785c40d6618fcb56687c0425f8acbd7731158a7&dn=Tohai+Ura+Rate+Mahjong+Touhai+Roku+-+AniLibria+%5BWEBRip+1080p%5D&xl=28093893139&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Touhai- Ura Rate Mahjong Touhai Roku - AniLiberty.TOP [WEBRip 1080p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 28093893139,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9810,
+    "time": 1745657822,
+    "hash": "f9301c3fb8d72f413587c8493f5a20d99f8a45df",
+    "id": 33300,
+    "magnet": "magnet:?xt=urn:btih:f9301c3fb8d72f413587c8493f5a20d99f8a45df&dn=Tohai+Ura+Rate+Mahjong+Touhai+Roku+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=4731387439&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Touhai- Ura Rate Mahjong Touhai Roku - AniLiberty.TOP [WEBRip 1080p][HEVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 4731387439,
+    "seeders": 26
   }
 ]
