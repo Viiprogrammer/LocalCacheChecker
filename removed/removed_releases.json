@@ -4040,5 +4040,28 @@
     "team": "",
     "year": "2022",
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "dota-dragons-blood-3",
+    "countTorrents": 2,
+    "countVideos": 8,
+    "description": "Аниме по известной игре Dota 2. Дэвион - знаменитый драконий рыцарь, посвятивший свою жизнь борьбе против зла. Встретив принцессу Мирану и древнего эльдвурма - он оказывается втянут в события, куда более масштабные, чем всё, что до этого с ним приключалось.",
+    "genres": "Игры, Фэнтези",
+    "id": 9302,
+    "timestamp": 1668531873,
+    "originalName": "Dota: Dragon's Blood 3",
+    "title": "Dota: Кровь Дракона 3 [DEL]",
+    "poster": "/storage/releases/posters/9302/FExcXSRHmDO35icMa6Vg4hr0Q15HfCLL.jpg",
+    "rating": 1980,
+    "season": "Лето",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "ОNA",
+    "voices": "",
+    "team": "",
+    "year": "2022",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

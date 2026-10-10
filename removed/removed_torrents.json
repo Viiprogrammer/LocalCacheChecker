@@ -9048,5 +9048,57 @@
     },
     "size": 1324123708,
     "seeders": 25
+  },
+  {
+    "releaseId": 9302,
+    "time": 1668522655,
+    "hash": "7bc4aa27851cbb6b51c1f7b0d67a774965596aa7",
+    "id": 21377,
+    "magnet": "magnet:?xt=urn:btih:7bc4aa27851cbb6b51c1f7b0d67a774965596aa7&dn=Dota+Dragon%27s+Blood+3+-+AniLibria.TV+%5BWEB-DLRip+1080p%5D&xl=5801432350&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dota- Dragon's Blood 3 - AniLiberty.TOP [WEB-DLRip 1080p][AVC][1-8].torrent",
+    "description": "1-8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 5801432350,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9302,
+    "time": 1668527492,
+    "hash": "6bd10f7ffb5faafa7c979cfe90adfab7bd21a017",
+    "id": 21378,
+    "magnet": "magnet:?xt=urn:btih:6bd10f7ffb5faafa7c979cfe90adfab7bd21a017&dn=Dota+Dragon%27s+Blood+3+-+AniLibria.TV+%5BWEB-DLRip+1080p+HEVC%5D&xl=1990058371&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Dota- Dragon's Blood 3 - AniLiberty.TOP [WEB-DLRip 1080p][HEVC][1-8].torrent",
+    "description": "1-8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEB-DLRip",
+      "description": "WEB-DLRip"
+    },
+    "size": 1990058371,
+    "seeders": 12
   }
 ]
