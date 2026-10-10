@@ -6896,5 +6896,57 @@
     },
     "size": 647316842,
     "seeders": 13
+  },
+  {
+    "releaseId": 9716,
+    "time": 1712993162,
+    "hash": "20dcfc66306c4ad2ad22a7b0d84a2f19b835f4ee",
+    "id": 28318,
+    "magnet": "magnet:?xt=urn:btih:20dcfc66306c4ad2ad22a7b0d84a2f19b835f4ee&dn=Ghost_in_the_Shell_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=11102657510&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Koukaku Kidoutai - AniLiberty.TOP [BDRip 1080p][AVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 11102657510,
+    "seeders": 8
+  },
+  {
+    "releaseId": 9716,
+    "time": 1713012445,
+    "hash": "f0b9f8e75de4bb354c9f520cb311ba7695900466",
+    "id": 28321,
+    "magnet": "magnet:?xt=urn:btih:f0b9f8e75de4bb354c9f520cb311ba7695900466&dn=Ghost_in_the_Shell_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=1031341758&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Koukaku Kidoutai - AniLiberty.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1031341758,
+    "seeders": 15
   }
 ]
