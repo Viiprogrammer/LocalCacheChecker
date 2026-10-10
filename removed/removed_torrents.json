@@ -6088,5 +6088,57 @@
     },
     "size": 3874996657,
     "seeders": 34
+  },
+  {
+    "releaseId": 9741,
+    "time": 1728469480,
+    "hash": "52062cdd361ba3954ffe5f2c743d012baff4c3f9",
+    "id": 30710,
+    "magnet": "magnet:?xt=urn:btih:52062cdd361ba3954ffe5f2c743d012baff4c3f9&dn=Atri+-+AniLibria+%5BWEBRip+1080p%5D&xl=16620475037&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Atri- My Dear Moments - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 16620475037,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9741,
+    "time": 1728472514,
+    "hash": "49ae71e56ed37ce13ab773359f3ed4e6015b203d",
+    "id": 30711,
+    "magnet": "magnet:?xt=urn:btih:49ae71e56ed37ce13ab773359f3ed4e6015b203d&dn=Atri+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2882998320&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Atri- My Dear Moments - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2882998320,
+    "seeders": 24
   }
 ]
