@@ -3748,5 +3748,57 @@
     },
     "size": 3029861084,
     "seeders": 22
+  },
+  {
+    "releaseId": 9806,
+    "time": 1734881701,
+    "hash": "d4d255a21a4aeaf0ffcb3bd0f8df07068b0b721b",
+    "id": 31752,
+    "magnet": "magnet:?xt=urn:btih:d4d255a21a4aeaf0ffcb3bd0f8df07068b0b721b&dn=Kabushikigaisha+Magi-Lumi%C3%A8re+-+AniLibria+%5BWEBRip+1080p%5D&xl=11531263384&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kabushikigaisha Magi-Lumière - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 11531263384,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9806,
+    "time": 1734881918,
+    "hash": "fdefcdc4ab78c3144fc3b2d60611c9e762b58b47",
+    "id": 31753,
+    "magnet": "magnet:?xt=urn:btih:fdefcdc4ab78c3144fc3b2d60611c9e762b58b47&dn=Kabushikigaisha+Magi-Lumi%C3%A8re+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3818460896&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kabushikigaisha Magi-Lumière - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3818460896,
+    "seeders": 28
   }
 ]
