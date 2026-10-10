@@ -5265,5 +5265,28 @@
     "year": "2020",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "val-x-love",
+    "countTorrents": 2,
+    "countVideos": 12,
+    "description": "Старшеклассник Акуцу Такума привык к своей одинокой школьной жизни и с головой ушёл в учёбу. Но когда Бог Один просит парня спасти мир вместе с девятью Валькириями, чья сила подпитывается близостью, ему придётся попрощаться со своим одиноким существованием. Теперь уж точно скучно не будет.",
+    "genres": "Комедия, Сёнен, Школа, Романтика, Этти, Сверхъестественное",
+    "id": 8513,
+    "originalName": "Val x Love",
+    "poster": "/storage/releases/posters/8513/uKMkz9lfZRrZUmio0g8CuTk7wtnZepiX.jpg",
+    "rating": 6881,
+    "season": "Осень",
+    "series": "(12)",
+    "status": "Озвучка завершена",
+    "timestamp": 1577565324,
+    "title": "Любовь Валькирий [DEL]",
+    "type": "ТВ",
+    "voices": "Silv, HectoR, Eleyna",
+    "team": "Silv, HectoR, Eleyna, HectoR, WhiteCat",
+    "year": "2019",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
