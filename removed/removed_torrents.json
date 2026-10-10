@@ -13860,5 +13860,32 @@
     "size": 5551613338,
     "seeders": 10,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 1204,
+    "time": 1550054979,
+    "hash": "e412074ebc06456510df208d08dfd62ef0f94184",
+    "id": 928,
+    "magnet": "magnet:?xt=urn:btih:e412074ebc06456510df208d08dfd62ef0f94184&dn=Shinmai+Maou+no+Testament+BURST+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=3966362737&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Shinmai Maou no Testament Burst - AniLibria.TOP [HDTVRip 720p][AVC][1-10].torrent",
+    "description": "1-10",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 3966362737,
+    "seeders": 13,
+    "updatedAt": ""
   }
 ]
