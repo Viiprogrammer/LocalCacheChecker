@@ -62690,5 +62690,32 @@
         "preview": {}
       }
     ]
+  },
+  {
+    "releaseId": 8724,
+    "items": [
+      {
+        "id": "9f55298b-2d27-4d70-8cf8-93ef86581bd5",
+        "name": "Мир вращается вокруг любви",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/8724/1/480/93896d57db8ca334e989eb4f64e64d10.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/8724/1/720/6c5e6269771f9b2ca7def021fc6b3335.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/8724/1/1080/1e4317f7b85c067bdfbf53eed7032b11.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1514,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-07-07T11:08:02+00:00",
+        "opening": {
+          "start": 186,
+          "stop": 275
+        },
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/8724/1/zWt7PgE0meDO1fH5.jpg"
+        }
+      }
+    ]
   }
 ]
