@@ -1240,5 +1240,28 @@
     "year": "2025",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "burn-the-witch-08",
+    "countTorrents": 2,
+    "countVideos": 1,
+    "description": "Приквел к Burn the Witch",
+    "genres": "Сёнен, Экшен, Магия, Фэнтези",
+    "id": 9836,
+    "timestamp": 1730414140,
+    "originalName": "Burn the Witch #0.8",
+    "title": "Сжечь ведьму #0.8 [DEL]",
+    "poster": "/storage/releases/posters/9836/czQ1p9W1v3nCM6ht3oLNDYXIO9PTX0Sf.jpg",
+    "rating": 2033,
+    "season": "Лето",
+    "series": "(1)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "Спешл",
+    "voices": "",
+    "team": "",
+    "year": "2024",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

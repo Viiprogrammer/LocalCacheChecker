@@ -2890,5 +2890,57 @@
     "size": 3700642023,
     "seeders": 45,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9836,
+    "time": 1730413682,
+    "hash": "49dbb6299edbe732a90eda0b5fb91dea2b3b0196",
+    "id": 31055,
+    "magnet": "magnet:?xt=urn:btih:49dbb6299edbe732a90eda0b5fb91dea2b3b0196&dn=Burn+the+Witch+-+AniLibria+%5BWEBRip+1080p%5D&xl=1794677537&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Burn the Witch #0.8 - AniLiberty.TOP [WEBRip 1080p][AVC][0.8].torrent",
+    "description": "0.8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1794677537,
+    "seeders": 11
+  },
+  {
+    "releaseId": 9836,
+    "time": 1730504515,
+    "hash": "5feea709450b82b67b0fc487d7331955845b7e0f",
+    "id": 31065,
+    "magnet": "magnet:?xt=urn:btih:5feea709450b82b67b0fc487d7331955845b7e0f&dn=Burn+the+Witch+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=229316053&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Burn the Witch #0.8 - AniLiberty.TOP [WEBRip 1080p][HEVC][0.8].torrent",
+    "description": "0.8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 229316053,
+    "seeders": 15
   }
 ]
