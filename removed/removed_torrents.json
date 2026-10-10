@@ -12619,5 +12619,31 @@
     },
     "size": 1378677445,
     "seeders": 16
+  },
+  {
+    "releaseId": 8361,
+    "time": 1554473836,
+    "hash": "a516d5bcb20d8b26ca8c3e0b1fdc25ab029af8db",
+    "id": 6685,
+    "magnet": "magnet:?xt=urn:btih:a516d5bcb20d8b26ca8c3e0b1fdc25ab029af8db&dn=Little+Busters%21+-+AniLibria.TV+%5BBDRip+720p%5D&xl=13522397552&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Little Busters!  - AniLiberty.TOP [BDRip 720p][AVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 13522397552,
+    "seeders": 10
   }
 ]
