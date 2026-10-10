@@ -12515,5 +12515,31 @@
     },
     "size": 5825183239,
     "seeders": 16
+  },
+  {
+    "releaseId": 8365,
+    "time": 1555027024,
+    "hash": "c895335160f71e685cd34b3d81241d63d17e90ae",
+    "id": 6747,
+    "magnet": "magnet:?xt=urn:btih:c895335160f71e685cd34b3d81241d63d17e90ae&dn=Kakumeiki+Valvrave+-+AniLibria.TV+%5BBDRip+720p%5D&xl=10840866907&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kakumeiki Valvrave  - AniLiberty.TOP [BDRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 10840866907,
+    "seeders": 15
   }
 ]
