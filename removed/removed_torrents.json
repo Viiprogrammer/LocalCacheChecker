@@ -3280,5 +3280,57 @@
     },
     "size": 2555243757,
     "seeders": 17
+  },
+  {
+    "releaseId": 9822,
+    "time": 1734963353,
+    "hash": "8fc6a154209b3bdba1729f396168ab8eca5c9ffe",
+    "id": 31764,
+    "magnet": "magnet:?xt=urn:btih:8fc6a154209b3bdba1729f396168ab8eca5c9ffe&dn=NegaPosi+Angler+-+AniLibria+%5BWEBRip+1080p%5D&xl=18024931610&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "NegaPosi Angler - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18024931610,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9822,
+    "time": 1734964016,
+    "hash": "f54d0718c76639c2283d7ca2204948f32789781c",
+    "id": 31765,
+    "magnet": "magnet:?xt=urn:btih:f54d0718c76639c2283d7ca2204948f32789781c&dn=NegaPosi+Angler+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2293939723&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "NegaPosi Angler - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2293939723,
+    "seeders": 21
   }
 ]
