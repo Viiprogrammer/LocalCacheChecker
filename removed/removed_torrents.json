@@ -6192,5 +6192,57 @@
     },
     "size": 3446174442,
     "seeders": 51
+  },
+  {
+    "releaseId": 9737,
+    "time": 1727618683,
+    "hash": "75437d0298a1f7406b51af3173c2baafb6353948",
+    "id": 30583,
+    "magnet": "magnet:?xt=urn:btih:75437d0298a1f7406b51af3173c2baafb6353948&dn=Naze+Boku+no+Sekai+wo+Daremo+Oboeteinai+no+ka+-+AniLibria+%5BWEBRip+1080p%5D&xl=17804225647&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Naze Boku no Sekai wo Daremo Oboeteinai no ka- - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17804225647,
+    "seeders": 18
+  },
+  {
+    "releaseId": 9737,
+    "time": 1727618697,
+    "hash": "8ffb90b937ce5dbff88e1aacd126b624fb0a773e",
+    "id": 30584,
+    "magnet": "magnet:?xt=urn:btih:8ffb90b937ce5dbff88e1aacd126b624fb0a773e&dn=Naze+Boku+no+Sekai+wo+Daremo+Oboeteinai+no+ka+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3395424890&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Naze Boku no Sekai wo Daremo Oboeteinai no ka- - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3395424890,
+    "seeders": 38
   }
 ]
