@@ -4996,5 +4996,57 @@
     },
     "size": 575451530,
     "seeders": 20
+  },
+  {
+    "releaseId": 9775,
+    "time": 1718731530,
+    "hash": "c729980517ff9cf17f60ef80636d8a138d613d8a",
+    "id": 29232,
+    "magnet": "magnet:?xt=urn:btih:c729980517ff9cf17f60ef80636d8a138d613d8a&dn=Kurayukaba_%5BAniLibria%5D_%5BWEBRip_1080p%5D.mkv&xl=3986874165&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kurayukaba - AniLiberty.TOP [WEBRip 1080p][AVC][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3986874165,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9775,
+    "time": 1718731611,
+    "hash": "ce6767c23f6b8fabcde9b1e5a4ab8028a32f355a",
+    "id": 29233,
+    "magnet": "magnet:?xt=urn:btih:ce6767c23f6b8fabcde9b1e5a4ab8028a32f355a&dn=Kurayukaba_%5BAniLibria%5D_%5BWEBRip_1080p_HEVC%5D.mkv&xl=747557831&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kurayukaba - AniLiberty.TOP [WEBRip 1080p][HEVC][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 747557831,
+    "seeders": 18
   }
 ]
