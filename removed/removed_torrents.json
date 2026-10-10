@@ -14072,5 +14072,57 @@
     "size": 5386843929,
     "seeders": 22,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 480,
+    "time": 1550054968,
+    "hash": "a863db63082e8fda7dc6072498ce4b15b975de93",
+    "id": 173,
+    "magnet": "magnet:?xt=urn:btih:a863db63082e8fda7dc6072498ce4b15b975de93&dn=ImoCho+BD-Rip&xl=8721303087&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "ImoCho - AniLiberty.TOP [BDRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 8721303087,
+    "seeders": 9
+  },
+  {
+    "releaseId": 480,
+    "time": 1550054978,
+    "hash": "6a2f1b12dbd7269a0d181d1a8125060181ae66ec",
+    "id": 595,
+    "magnet": "magnet:?xt=urn:btih:6a2f1b12dbd7269a0d181d1a8125060181ae66ec&dn=ImoCho+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=4539231750&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "ImoCho - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4539231750,
+    "seeders": 9
   }
 ]
