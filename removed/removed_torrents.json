@@ -10614,5 +10614,57 @@
     "size": 1220242951,
     "seeders": 40,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8926,
+    "time": 1608575880,
+    "hash": "87f7a5dd5f285d348086009d8617b3abb4a8ae55",
+    "id": 13172,
+    "magnet": "magnet:?xt=urn:btih:87f7a5dd5f285d348086009d8617b3abb4a8ae55&dn=Made+In+Abyss+Fukaki+Tamashii+no+Reimei+-+AniLibria.TV+%5BBDRip+1080p%5D&xl=4677589004&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Made in Abyss- Fukaki Tamashii no Reimei - AniLiberty.TOP [BDRip 1080p][AVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 4677589004,
+    "seeders": 17
+  },
+  {
+    "releaseId": 8926,
+    "time": 1608675898,
+    "hash": "a6897ffc06e02d9e4320988f9ae54ddb4cac3a02",
+    "id": 13193,
+    "magnet": "magnet:?xt=urn:btih:a6897ffc06e02d9e4320988f9ae54ddb4cac3a02&dn=Made+In+Abyss+Fukaki+Tamashii+no+Reimei+-+AniLibria.TV+%5BBDRip+1080p+HEVC%5D&xl=1233910210&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Made in Abyss- Fukaki Tamashii no Reimei - AniLiberty.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1233910210,
+    "seeders": 52
   }
 ]
