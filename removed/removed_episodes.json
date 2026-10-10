@@ -12215,5 +12215,135 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10052,
+    "items": [
+      {
+        "id": "a0091ed9-77dd-4aed-bbca-c053babd36a8",
+        "name": "Всё так расплывается... Я что, старею?",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10052/1/480/fd7a9d01064d1eac1b54d5d9b69103ea.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10052/1/720/1282fcaa55edf58feb15fc4941feecda.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10052/1/1080/4ac83a2198fcba28f69a253be788de24.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1445,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-10-19T13:09:45+00:00",
+        "opening": {
+          "start": 95,
+          "stop": 184
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1417
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10052/1/0hqY6CfDhvHF1dRz.jpg"
+        }
+      },
+      {
+        "id": "a016f678-1c17-4b06-8c87-7d96e7a97c1e",
+        "name": "Конфеты, леденцы, поцелуи и ножи",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10052/2/480/5577437e5151caa38b3c236703083b86.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10052/2/720/ce8c0980e1f0b9f16ff5f32239f0d106.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10052/2/1080/e7f89a8692a982a957595593a4fcdc9a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1438,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-10-13T11:54:20+00:00",
+        "opening": {
+          "start": 0,
+          "stop": 90
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1419
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10052/2/wRi0zjc3y0pVOJFa.jpg"
+        }
+      },
+      {
+        "id": "a02522d4-53b2-4186-b37b-ae9988270e9b",
+        "name": "Фрукты слаще, если их поджарить",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10052/3/480/25365a56a83eb02a11d72a70160ef12f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10052/3/720/40d29457b61b87f81e05f2c1a22db746.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10052/3/1080/713006e7c048b53bc073fb7efb48c138.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1447,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-10-18T20:31:10+00:00",
+        "opening": {
+          "start": 24,
+          "stop": 113
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10052/3/J8pQhhQuh96KuliD.jpg"
+        }
+      },
+      {
+        "id": "a03308b7-3dc3-4d9e-93f5-80eb8dbb1671",
+        "name": "Зевс крушитель учебников",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10052/4/480/eb1e4a1c8f22e46e786bf4088bfb57ab.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10052/4/720/f348d8de201bcc5ba3852afd9f9c5611.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10052/4/1080/09c6729d4b2e733d46921743e6a37447.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1445,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-10-25T17:01:53+00:00",
+        "opening": {
+          "start": 0,
+          "stop": 90
+        },
+        "ending": {
+          "start": 1329,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10052/4/AVVEGypIpA0tFPAo.jpg"
+        }
+      },
+      {
+        "id": "a0420aa8-1744-4320-9761-81692733fe2e",
+        "name": "Тайфун в снежном шаре",
+        "nameEnglish": "",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10052/5/480/48feedf73c8a92b2d97b35e11f80cd3a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10052/5/720/69e1d1306b3a61a336818f7d27fb6c50.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10052/5/1080/47ea4180fc1871737ef7d8ff1893662e.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1444,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-11-02T04:01:20+00:00",
+        "opening": {
+          "start": 69,
+          "stop": 158
+        },
+        "ending": {
+          "start": 1330,
+          "stop": 1420
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10052/5/eahBkT47A87QNmii.jpg"
+        }
+      }
+    ]
   }
 ]

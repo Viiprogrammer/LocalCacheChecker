@@ -2026,5 +2026,57 @@
     },
     "size": 3599594315,
     "seeders": 20
+  },
+  {
+    "releaseId": 10052,
+    "time": 1761568701,
+    "hash": "5858eefd3fc4fa8a71326c4efd54c714df5dfbf5",
+    "id": 35741,
+    "magnet": "magnet:?xt=urn:btih:5858eefd3fc4fa8a71326c4efd54c714df5dfbf5&dn=Sanda+-+AniLiberty+%5BWEB-DL+1080p+HEVC%5D&xl=1686399974&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sanda - AniLibria.TOP [WEB-DL 1080p][HEVC][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": "HEVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 1686399974,
+    "seeders": 25
+  },
+  {
+    "releaseId": 10052,
+    "time": 1762055309,
+    "hash": "7d02d55a301f5b382d37345fac42f365e0ba283e",
+    "id": 35802,
+    "magnet": "magnet:?xt=urn:btih:7d02d55a301f5b382d37345fac42f365e0ba283e&dn=Sanda+-+AniLiberty+%5BWEB-DL+1080p%5D&xl=4708366845&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sanda - AniLibria.TOP [WEB-DL 1080p][AVC][1-5].torrent",
+    "description": "1-5",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "WEB-DL",
+      "description": "WEB-DL",
+      "label": ""
+    },
+    "size": 4708366845,
+    "seeders": 21
   }
 ]
