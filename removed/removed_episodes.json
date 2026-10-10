@@ -60639,5 +60639,23 @@
         "preview": {}
       }
     ]
+  },
+  {
+    "releaseId": 8943,
+    "items": [
+      {
+        "id": "95d9a601-789e-11ec-ae92-0242ac120002",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/8943/1/480/14aeba8a8396ee633f9ddd7a10713a26.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/8943/1/720/3befa48566d7ad7b1228fd50c1af6f93.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/8943/1/1080/48f05b1dc3704b57f2a6457b010a30dc.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 6833,
+        "updatedAt": "2021-02-22T16:52:05+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {}
+      }
+    ]
   }
 ]

@@ -10290,5 +10290,59 @@
     "size": 415811854,
     "seeders": 7,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8943,
+    "time": 1613939400,
+    "hash": "2e86a7a13519673613a826b4486b6ed0db3450f0",
+    "id": 14030,
+    "magnet": "magnet:?xt=urn:btih:2e86a7a13519673613a826b4486b6ed0db3450f0&dn=Kara_no_Kyoukai_5_Mujun_Rasen_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=15220891508&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 5- Mujun Rasen - AniLibria.TOP [BDRip 1080p][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 15220891508,
+    "seeders": 6,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8943,
+    "time": 1614694245,
+    "hash": "b20661caf33d34abf4362c79d26a448346d1c3f3",
+    "id": 14168,
+    "magnet": "magnet:?xt=urn:btih:b20661caf33d34abf4362c79d26a448346d1c3f3&dn=Kara_no_Kyoukai_5_Mujun_Rasen_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=1030875439&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 5- Mujun Rasen - AniLibria.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 1030875439,
+    "seeders": 7,
+    "updatedAt": ""
   }
 ]
