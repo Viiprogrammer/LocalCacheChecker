@@ -6140,5 +6140,57 @@
     },
     "size": 2882998320,
     "seeders": 24
+  },
+  {
+    "releaseId": 9740,
+    "time": 1727836801,
+    "hash": "08975a76654c2522999a88fa9e7fbb44ebd5adce",
+    "id": 30598,
+    "magnet": "magnet:?xt=urn:btih:08975a76654c2522999a88fa9e7fbb44ebd5adce&dn=Tsue+to+Tsurugi+no+Wistoria+-+AniLibiria+%5BWEBRip+1080p%5D&xl=17779634605&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tsue to Tsurugi no Wistoria - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17779634605,
+    "seeders": 22
+  },
+  {
+    "releaseId": 9740,
+    "time": 1728025821,
+    "hash": "1c5d1c2059b6e287c1efcc3a4dceaebde8e8a278",
+    "id": 30634,
+    "magnet": "magnet:?xt=urn:btih:1c5d1c2059b6e287c1efcc3a4dceaebde8e8a278&dn=Tsue+to+Tsurugi+no+Wistoria+-+AniLibiria+%5BWEBRip+1080p+HEVC%5D&xl=3446174442&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tsue to Tsurugi no Wistoria - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3446174442,
+    "seeders": 51
   }
 ]
