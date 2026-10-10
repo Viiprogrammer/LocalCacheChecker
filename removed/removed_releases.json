@@ -4945,5 +4945,28 @@
     "year": "2010",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "highschool-of-the-dead",
+    "countTorrents": 2,
+    "countVideos": 0,
+    "description": "Смертоносная болезнь вырывается на свободу, обращая всех зараженных в ходячих мертвецов, жаждущих только убивать. Стремительно распространяясь по миру, в первые недели болезнь уничтожает большую часть человечества, разрушая государства и оставляя после себя опустевшие города.",
+    "genres": "Сёнен, Ужасы, Экшен, Этти, Сверхъестественное",
+    "id": 8739,
+    "originalName": "Highschool of the Dead",
+    "poster": "/storage/releases/posters/8739/LpGqWBfIJa8E8ghUEeEwKhg7Vyl58A83.jpg",
+    "rating": 7004,
+    "season": "Лето",
+    "series": "(12)",
+    "status": "Озвучка завершена",
+    "timestamp": 1619015683,
+    "title": "Школа мертвецов [DEL]",
+    "type": "ТВ",
+    "voices": "BStrong, Derenn, Norma, Frederica Izzard",
+    "team": "BStrong, Derenn, Norma, Frederica Izzard, Divoline",
+    "year": "2010",
+    "isOngoing": false,
+    "ageRating": "Запрещено для распространения среди детей (18+)"
   }
 ]
