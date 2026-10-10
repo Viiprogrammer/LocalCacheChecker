@@ -6348,5 +6348,57 @@
     },
     "size": 2564319600,
     "seeders": 34
+  },
+  {
+    "releaseId": 9734,
+    "time": 1727476770,
+    "hash": "83184a86adb2adf398ebb0e490af2e0bc573af8b",
+    "id": 30572,
+    "magnet": "magnet:?xt=urn:btih:83184a86adb2adf398ebb0e490af2e0bc573af8b&dn=Hazurewaku+no+Joutai+Ijou+Skill+-+AniLibria+%5BWEBRip+1080p%5D&xl=18188646195&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hazurewaku no Joutai Ijou Skill - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18188646195,
+    "seeders": 23
+  },
+  {
+    "releaseId": 9734,
+    "time": 1727562211,
+    "hash": "806a320a0c283a59bd845f35bb40385ab38c9b98",
+    "id": 30577,
+    "magnet": "magnet:?xt=urn:btih:806a320a0c283a59bd845f35bb40385ab38c9b98&dn=Hazurewaku+no+Joutai+Ijou+Skill+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3612644454&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hazurewaku no Joutai Ijou Skill - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3612644454,
+    "seeders": 41
   }
 ]
