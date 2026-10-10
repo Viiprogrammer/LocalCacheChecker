@@ -5357,5 +5357,28 @@
     "team": "",
     "year": "2013",
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "log-horizon",
+    "countTorrents": 1,
+    "countVideos": 25,
+    "description": "После нового, 12-го, обновления MMORPG Elder Tale игроки со всего мира, которые были в этот момент играли в неё, были заперты в ней в облике своих персонажей. Вроде как игровой мир не изменился, но старые порядки были разрушены, еда потеряла вкус, а НИПы стали живее.",
+    "genres": "Экшен, Игры, Магия, Приключения, Фэнтези",
+    "id": 8439,
+    "timestamp": 0,
+    "originalName": "Log Horizon",
+    "title": "Лог Горизонт [DEL]",
+    "poster": "/storage/releases/posters/8439/Fx6kxl82k8kyulwykUBH1BtjiDk4Pw0u.jpg",
+    "rating": 7193,
+    "season": "Осень",
+    "series": "(25)",
+    "status": "Озвучка завершена",
+    "isOngoing": false,
+    "type": "ТВ",
+    "voices": "",
+    "team": "",
+    "year": "2013",
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

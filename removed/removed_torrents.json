@@ -11887,5 +11887,31 @@
     },
     "size": 4466727257,
     "seeders": 11
+  },
+  {
+    "releaseId": 8439,
+    "time": 1560887350,
+    "hash": "88baf96489c289499511512e859d3c70259873d8",
+    "id": 7274,
+    "magnet": "magnet:?xt=urn:btih:88baf96489c289499511512e859d3c70259873d8&dn=Log+Horizon+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=8626411857&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Log Horizon - AniLiberty.TOP [HDTVRip 720p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 8626411857,
+    "seeders": 29
   }
 ]
