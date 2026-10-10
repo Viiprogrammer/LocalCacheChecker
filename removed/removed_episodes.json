@@ -11324,5 +11324,130 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 10084,
+    "items": [
+      {
+        "id": "a054b5fb-b04b-4e16-9c97-bc710ae0d772",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10084/1/480/9ffb7d708ea7cfe5e5c22a5dfdb4e17c.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10084/1/720/56c87a28e86dec4ab9e421b4783c1619.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10084/1/1080/e650a3837cb793661c029659a67dd5a7.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1151,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-11-14T12:24:56+00:00",
+        "opening": {},
+        "ending": {
+          "start": 1061,
+          "stop": 1150
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10084/1/51b8LyE7cZnTD43h.jpg"
+        }
+      },
+      {
+        "id": "a05d48ab-21a3-483d-83e8-44d37ada9e1a",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10084/2/480/ce166e9cd92292f23666c92d969e554a.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10084/2/720/160b697402ef9aaefc6f2c17db4a83bb.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10084/2/1080/08efc8f3c79c87476541384dd3ed87c0.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1083,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-11-15T16:56:47+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10084/2/aGeaH36IFT4HDSR3.jpg"
+        }
+      },
+      {
+        "id": "a065723d-c2cf-4324-a89e-fad72133dbb6",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10084/3/480/9635fb447b8c116436299b366dd252f0.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10084/3/720/adf795ea31927efbc6effaeede1c7b07.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10084/3/1080/c6878994e762cebc8f2ca267530de79f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 795,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-11-19T18:18:19+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10084/3/vBj2zGpgqFwWL4Ve.jpg"
+        }
+      },
+      {
+        "id": "a06bfd13-8fb2-4a17-a243-9840e8cd6d21",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10084/4/480/d91a34ddc1f85bf5d12c7241a65d12cc.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10084/4/720/cc0d9009ab300437dcf23f42d05de9d9.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10084/4/1080/524422e41d9d0f34850ce9e18c41d582.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1060,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-11-23T12:24:58+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10084/4/2AmJJ7jqzFhut8R4.jpg"
+        }
+      },
+      {
+        "id": "a075e5d9-b756-4590-bfe8-90267305e23a",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 5,
+        "sortOrder": 4,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10084/5/480/1828b48e29ef3b7a74998e4650e2b852.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10084/5/720/e05e034022ff605dce8a9fdaeaea1945.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10084/5/1080/bbf695e78d306fc5dad171864410e5ae.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 1375,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-11-28T00:24:35+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10084/5/trobGhFT6ib46ZUv.jpg"
+        }
+      },
+      {
+        "id": "a07d7ca2-cd5c-47a8-8614-e4c3e16ebaf7",
+        "name": "",
+        "nameEnglish": "",
+        "ordinal": 6,
+        "sortOrder": 5,
+        "hls_480": "https://cache-rfn.libria.fun/videos/media/ts/10084/6/480/7f0009a8a25a7ca1a31b6d608a3d3362.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_720": "https://cache-rfn.libria.fun/videos/media/ts/10084/6/720/9edd692188f36288c9a93caf01c3d04f.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "hls_1080": "https://cache-rfn.libria.fun/videos/media/ts/10084/6/1080/c18471bc51eb7482a0477dd862bb7b08.m3u8?countryIso=RU&isAuthorized=0&isWithVideoAds=1&isWithVideoAdsAlways=1",
+        "duration": 778,
+        "rutubeId": "",
+        "youtubeId": "",
+        "updatedAt": "2025-12-01T17:14:13+00:00",
+        "opening": {},
+        "ending": {
+          "start": 653,
+          "stop": 778
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/10084/6/7DEjPRrA6gKJflM1.jpg"
+        }
+      }
+    ]
   }
 ]
