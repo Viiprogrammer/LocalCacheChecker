@@ -13357,5 +13357,57 @@
     "size": 4057057437,
     "seeders": 13,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 4673,
+    "time": 1550054994,
+    "hash": "c88f564484713f71b0815eec0d04ca9c54f5dd26",
+    "id": 3242,
+    "magnet": "magnet:?xt=urn:btih:c88f564484713f71b0815eec0d04ca9c54f5dd26&dn=Omoide_no_Marnie_%5BMovie%5D_%5BAniLibria_TV%5D_%5BBD-Rip_1036p%5D.mkv&xl=6349701801&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Omoide no Marnie - AniLiberty.TOP [BDRip 1080p][AVC][П-ф].torrent",
+    "description": "П/ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 6349701801,
+    "seeders": 9
+  },
+  {
+    "releaseId": 4673,
+    "time": 1713887770,
+    "hash": "366dfc3454a4711dcac8c31f44a910226a57ed91",
+    "id": 28482,
+    "magnet": "magnet:?xt=urn:btih:366dfc3454a4711dcac8c31f44a910226a57ed91&dn=Omoide_no_Marnie_%5BMovie%5D_%5BAniLibria_TV%5D_%5BBD-Rip_1036p_HEVC%5D.mkv&xl=1960544438&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Omoide no Marnie - AniLiberty.TOP [BDRip 1080p][HEVC][П-ф].torrent",
+    "description": "П/ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 1960544438,
+    "seeders": 12
   }
 ]
