@@ -7994,5 +7994,59 @@
     },
     "size": 14528413699,
     "seeders": 18
+  },
+  {
+    "releaseId": 9557,
+    "time": 1703089746,
+    "hash": "533b5bc94b161ec3aea5fafe394649aa24bb95eb",
+    "id": 26833,
+    "magnet": "magnet:?xt=urn:btih:533b5bc94b161ec3aea5fafe394649aa24bb95eb&dn=Watashi+no+Oshi+wa+Akuyaku+Reijou+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=16202478062&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Watashi no Oshi wa Akuyaku Reijou - AniLibria.TOP [WEBRip 1080p][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 16202478062,
+    "seeders": 12,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9557,
+    "time": 1703096652,
+    "hash": "a392afcc89d68ab3fb444e06cafe62431a6b8e85",
+    "id": 26837,
+    "magnet": "magnet:?xt=urn:btih:a392afcc89d68ab3fb444e06cafe62431a6b8e85&dn=Watashi+no+Oshi+wa+Akuyaku+Reijou+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3690985598&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Watashi no Oshi wa Akuyaku Reijou - AniLibria.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 3690985598,
+    "seeders": 28,
+    "updatedAt": ""
   }
 ]
