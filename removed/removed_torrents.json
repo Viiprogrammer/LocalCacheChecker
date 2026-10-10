@@ -3488,5 +3488,57 @@
     },
     "size": 1901376829,
     "seeders": 20
+  },
+  {
+    "releaseId": 9817,
+    "time": 1734442902,
+    "hash": "703e2510474fb011a4894e39323230d2c1040ff8",
+    "id": 31704,
+    "magnet": "magnet:?xt=urn:btih:703e2510474fb011a4894e39323230d2c1040ff8&dn=Tsuma+Shougakusei+ni+Naru+-+AniLibria+%5BWEBRip+1080p%5D&xl=17874175907&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tsuma, Shougakusei ni Naru. - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17874175907,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9817,
+    "time": 1734451866,
+    "hash": "710105239b8366785d5cb7751710bf2ee76a25f3",
+    "id": 31706,
+    "magnet": "magnet:?xt=urn:btih:710105239b8366785d5cb7751710bf2ee76a25f3&dn=Tsuma+Shougakusei+ni+Naru+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2107622625&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Tsuma, Shougakusei ni Naru. - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2107622625,
+    "seeders": 15
   }
 ]
