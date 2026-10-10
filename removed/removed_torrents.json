@@ -8892,5 +8892,57 @@
     },
     "size": 2595292115,
     "seeders": 14
+  },
+  {
+    "releaseId": 9323,
+    "time": 1668897978,
+    "hash": "824688a15e9c3c50dc934e131af977a2acd099d3",
+    "id": 21416,
+    "magnet": "magnet:?xt=urn:btih:824688a15e9c3c50dc934e131af977a2acd099d3&dn=Mushishi_Hihamukage_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=3743481858&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mushishi- Hihamukage - AniLiberty.TOP [BDRip 1080p][AVC][Спешл].torrent",
+    "description": "Спешл",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 3743481858,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9323,
+    "time": 1716456187,
+    "hash": "4488679090990c912dacfa209a11e688215c39a2",
+    "id": 28907,
+    "magnet": "magnet:?xt=urn:btih:4488679090990c912dacfa209a11e688215c39a2&dn=Mushishi_Hihamukage_%5BAniLibria%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=193404076&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Mushishi- Hihamukage - AniLiberty.TOP [BDRip 1080p][HEVC][Спешл].torrent",
+    "description": "Спешл",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 193404076,
+    "seeders": 12
   }
 ]
