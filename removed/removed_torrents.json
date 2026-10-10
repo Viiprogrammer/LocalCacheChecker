@@ -7472,5 +7472,57 @@
     },
     "size": 2595126420,
     "seeders": 21
+  },
+  {
+    "releaseId": 9622,
+    "time": 1712339337,
+    "hash": "419ae8fa5b94f0a16e5801fa4efe000c61a9e19c",
+    "id": 28238,
+    "magnet": "magnet:?xt=urn:btih:419ae8fa5b94f0a16e5801fa4efe000c61a9e19c&dn=Majo+to+Yajuu+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=18986300747&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Majo to Yajuu - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18986300747,
+    "seeders": 25
+  },
+  {
+    "releaseId": 9622,
+    "time": 1712661467,
+    "hash": "d745b04f9739be45be6eddf1dba7223b2325626b",
+    "id": 28278,
+    "magnet": "magnet:?xt=urn:btih:d745b04f9739be45be6eddf1dba7223b2325626b&dn=Majo+to+Yajuu+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2848396716&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Majo to Yajuu - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2848396716,
+    "seeders": 32
   }
 ]
