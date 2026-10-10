@@ -8048,5 +8048,57 @@
     "size": 3690985598,
     "seeders": 28,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9555,
+    "time": 1751261311,
+    "hash": "26c4367802640b60f6038582baa371eb1581b9cb",
+    "id": 34007,
+    "magnet": "magnet:?xt=urn:btih:26c4367802640b60f6038582baa371eb1581b9cb&dn=Kusuriya+no+Hitorigoto+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=34635003634&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kusuriya no Hitorigoto - AniLiberty.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 34635003634,
+    "seeders": 30
+  },
+  {
+    "releaseId": 9555,
+    "time": 1751261357,
+    "hash": "0e4e3662ea9cbeea1be750814b9d116cc59da712",
+    "id": 34008,
+    "magnet": "magnet:?xt=urn:btih:0e4e3662ea9cbeea1be750814b9d116cc59da712&dn=Kusuriya+no+Hitorigoto+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=5339350852&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kusuriya no Hitorigoto - AniLiberty.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 5339350852,
+    "seeders": 93
   }
 ]
