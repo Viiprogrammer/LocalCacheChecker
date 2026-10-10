@@ -13833,5 +13833,32 @@
     "size": 9676153202,
     "seeders": 8,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 1241,
+    "time": 1550054981,
+    "hash": "b2616b8ea41438463c8944b1f556c6b843c2cc5c",
+    "id": 1081,
+    "magnet": "magnet:?xt=urn:btih:b2616b8ea41438463c8944b1f556c6b843c2cc5c&dn=Valkyrie+Drive+Mermaid+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=5551613338&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Valkyrie Drive- Mermaid - AniLibria.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 5551613338,
+    "seeders": 10,
+    "updatedAt": ""
   }
 ]
