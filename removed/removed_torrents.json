@@ -8100,5 +8100,57 @@
     },
     "size": 5339350852,
     "seeders": 93
+  },
+  {
+    "releaseId": 9554,
+    "time": 1713278345,
+    "hash": "73c16c43cea9192cdda895c15f69a56e036d4e7a",
+    "id": 28372,
+    "magnet": "magnet:?xt=urn:btih:73c16c43cea9192cdda895c15f69a56e036d4e7a&dn=Ragna+Crimson+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=14326581363&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ragna Crimson - AniLiberty.TOP [WEBRip 1080p][AVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 14326581363,
+    "seeders": 16
+  },
+  {
+    "releaseId": 9554,
+    "time": 1713278353,
+    "hash": "3c6a93ae97865e56414ef9d3f587976461d0ac5e",
+    "id": 28373,
+    "magnet": "magnet:?xt=urn:btih:3c6a93ae97865e56414ef9d3f587976461d0ac5e&dn=Ragna+Crimson+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=7632905946&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ragna Crimson - AniLiberty.TOP [WEBRip 1080p][HEVC][1-24].torrent",
+    "description": "1-24",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 7632905946,
+    "seeders": 21
   }
 ]

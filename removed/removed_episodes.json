@@ -50692,5 +50692,610 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9554,
+    "items": [
+      {
+        "id": "9a4461a7-b6b3-4736-b15d-741a636c1959",
+        "name": "День, когда родился жнец",
+        "nameEnglish": "",
+        "updatedAt": "2023-10-01T19:08:20+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/1/480/59561dd01aba359dfae92d352bf1a4be.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/1/720/35b5d1f004aa8ebbc2dfc84f092d9dce.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/1/1080/e77dc74c0817861a8a761946e16305ef.m3u8",
+        "duration": 2841,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 223,
+          "start": 128
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/1/tYxbJN7jEhytTH4j.jpg"
+        }
+      },
+      {
+        "id": "9a523ab4-00b0-45a0-ac67-a0ad4c047b8a",
+        "name": "Начало истории",
+        "nameEnglish": "",
+        "updatedAt": "2023-10-08T16:09:11+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/2/480/70f93bbcccfb304c8b4b1316d9d47336.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/2/720/9dace9f1382d25c960764bda57456e88.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/2/1080/f08d17966c9a4bb684e98abea812b0bd.m3u8",
+        "duration": 1420,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/2/KrgZHEZ16cnck4mE.jpg"
+        }
+      },
+      {
+        "id": "9a603ef2-87c0-402a-b2d1-b442c5141e5a",
+        "name": "Побуждение",
+        "nameEnglish": "",
+        "updatedAt": "2023-10-15T15:18:25+00:00",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/3/480/097d87809bb61c7baba2b5f8e200c16a.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/3/720/8a3d14fa3a5e66852975e74d29201b78.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/3/1080/bf4731627302565c3326b08b0c4fe494.m3u8",
+        "duration": 1441,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/3/nMFw05qzjUQLfn2z.jpg"
+        }
+      },
+      {
+        "id": "9a6e8b14-10de-4081-838f-02e6834aeec3",
+        "name": "Действие",
+        "nameEnglish": "",
+        "updatedAt": "2023-10-22T17:58:54+00:00",
+        "ordinal": 4,
+        "sortOrder": 4,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/4/480/c4d46229f6b7551ce224da36e46fa5e4.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/4/720/0eef13b5d5fbcc1bee9c5fcf291d5e37.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/4/1080/474dac15c489124de10ab08dec0bd4fb.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 159,
+          "start": 68
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/4/sMrjlR7NJPPi0RDb.jpg"
+        }
+      },
+      {
+        "id": "9a7df3b5-608a-44db-a481-056c6aa3f362",
+        "name": "Крыло",
+        "nameEnglish": "",
+        "updatedAt": "2023-10-30T10:48:58+00:00",
+        "ordinal": 5,
+        "sortOrder": 5,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/5/480/fbe183d9b4fd689e29c2729028ffe7f7.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/5/720/8810f9382fd5d0721ed49deea31683ae.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/5/1080/860cf4689f28318df154645015c3aa03.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 284,
+          "start": 187
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/5/tmaQia3uLAGfVFMA.jpg"
+        }
+      },
+      {
+        "id": "9a8a726a-e817-4c2f-9ba2-13302f66ec72",
+        "name": "Воссоединение",
+        "nameEnglish": "",
+        "updatedAt": "2023-11-05T16:46:43+00:00",
+        "ordinal": 6,
+        "sortOrder": 6,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/6/480/8405830a33e5bfdfd6f31c418ae8cf1f.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/6/720/5f01d4214179422957d5186d6cb52d9b.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/6/1080/010ca61d47f595387d6ccf96dcdc8c55.m3u8",
+        "duration": 1421,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 244,
+          "start": 151
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/6/FZW1NWfzF63Q8H1l.jpg"
+        }
+      },
+      {
+        "id": "9a98c3ac-ef61-4899-a836-71f42d72eba1",
+        "name": "Вина и Действие",
+        "nameEnglish": "",
+        "updatedAt": "2023-11-13T09:24:52+00:00",
+        "ordinal": 7,
+        "sortOrder": 7,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/7/480/7654cfe1ec7212800c335ebc385be063.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/7/720/d120ddf460d94fa149f910d9a9c95b68.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/7/1080/249474cf3cbd09599075a05ccffeaae4.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 323,
+          "start": 230
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/7/tcPvXFkC5ISzrFFv.jpg"
+        }
+      },
+      {
+        "id": "9aa6dfe1-2063-48dc-b290-7795ad807a0b",
+        "name": "Болезненный Удар",
+        "nameEnglish": "",
+        "updatedAt": "2023-11-20T12:20:57+00:00",
+        "ordinal": 8,
+        "sortOrder": 8,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/8/480/de1fa954bfd8589872a1cc67c3bf5861.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/8/720/cbeabc891cc7858b016c680a6e166df5.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/8/1080/61520c3a5ce4fa6935294290c6206842.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/8/3osvsLKbfM1OwSmW.jpg"
+        }
+      },
+      {
+        "id": "9ab67ad4-b3e2-46cd-8fd8-9691ad57b990",
+        "name": "Переговоры. Истинная Натура",
+        "nameEnglish": "",
+        "updatedAt": "2023-11-27T11:58:29+00:00",
+        "ordinal": 9,
+        "sortOrder": 9,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/9/480/210a20c7db1098ee6fd8e2f54bdcf09a.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/9/720/706a501fbff2766b1497fe25f8e7be3e.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/9/1080/7a9481a7a492f001a6e925a4c0d1f987.m3u8",
+        "duration": 1432,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/9/EPoNu949iKve6wU6.jpg"
+        }
+      },
+      {
+        "id": "9ac30d07-3e20-4749-9d35-dfaea4e33dbb",
+        "name": "Ставки и Сотрудничество",
+        "nameEnglish": "",
+        "updatedAt": "2023-12-05T11:11:20+00:00",
+        "ordinal": 10,
+        "sortOrder": 10,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/10/480/73fcee788b098b631e2b0ecdab8ae492.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/10/720/fba40262a94bad3375038448af918e49.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/10/1080/a0c2dece4db3873c0c8ccdca40cb6b74.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 241,
+          "start": 150
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/10/iXDqSxXHba7kohK3.jpg"
+        }
+      },
+      {
+        "id": "9ad0d858-6cc5-4616-aa07-ef182712d498",
+        "name": "Тактика и знания",
+        "nameEnglish": "",
+        "updatedAt": "2023-12-10T14:53:36+00:00",
+        "ordinal": 11,
+        "sortOrder": 11,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/11/480/9e3a9498e4591c1d35f6b9e25c299fc0.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/11/720/3a59c31cf9738aed3ef57a80fe125541.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/11/1080/9d34765a753b0f38be815f1aae2acc1e.m3u8",
+        "duration": 1423,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 183,
+          "start": 91
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/11/rGDTQ3Q8PlbfqjQp.jpg"
+        }
+      },
+      {
+        "id": "9adef707-b3ee-4974-80ae-150cebc6c938",
+        "name": "Решимость и готовность",
+        "nameEnglish": "",
+        "updatedAt": "2023-12-17T17:12:35+00:00",
+        "ordinal": 12,
+        "sortOrder": 12,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/12/480/5d21d0d56723121c00cc61eb0941fe58.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/12/720/e527571022a9ce5d13b658f583b05054.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/12/1080/8eac3da3ed9c6822904c64dbbaffd1f7.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 237,
+          "start": 145
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/12/y3mEWHL2NuaCw6na.jpg"
+        }
+      },
+      {
+        "id": "9b1733ae-d057-437f-8185-c4e151071687",
+        "name": "Герой Битвы",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-14T20:56:27+00:00",
+        "ordinal": 13,
+        "sortOrder": 13,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/13/480/e484f27d18c1cbb37bab87ee20883c01.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/13/720/6aeab07abcd3bc34caafd97c4de6821e.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/13/1080/486c979196e99c5bd817c79a3d590d87.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 234,
+          "start": 141
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/13/u7fnLHsv6TRXbQwl.jpg"
+        }
+      },
+      {
+        "id": "9b2696f6-175c-4122-b02d-8dd1980601bb",
+        "name": "Бдительность и Нетерпение",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-22T05:35:58+00:00",
+        "ordinal": 14,
+        "sortOrder": 14,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/14/480/209197eab745eecf1aafbeb55c357dc0.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/14/720/b27864cb2d80102d1ed99ca3695509f9.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/14/1080/e43027cd617746690336b9c9973e8e32.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 241,
+          "start": 152
+        },
+        "ending": {
+          "stop": 1421,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/14/CLcoJ6TnAOOX1JDQ.jpg"
+        }
+      },
+      {
+        "id": "9b33c78e-d1ad-462b-98c2-5177bbab5ab6",
+        "name": "Скрытое Пробуждение",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-28T19:19:22+00:00",
+        "ordinal": 15,
+        "sortOrder": 15,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/15/480/20f88ac230c78d5590dfac14a360af7c.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/15/720/cfff7f402e9a12c58319739094811002.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/15/1080/7caa5c6fb44c17e38693b78f9bdad92b.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 190,
+          "start": 100
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1328
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/15/gYorUoao1xDk2ZW3.jpg"
+        }
+      },
+      {
+        "id": "9b41d328-df9e-46f2-8f69-8adb17068bf6",
+        "name": "Воля к Борьбе",
+        "nameEnglish": "",
+        "updatedAt": "2024-02-04T18:30:02+00:00",
+        "ordinal": 16,
+        "sortOrder": 16,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/16/480/e17daa77d859472a5530b3f90b9dd6f8.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/16/720/1c7b4906d204b2cc360ab808443abf10.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/16/1080/5353fa51363c053416b852befaba47d8.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 233,
+          "start": 147
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/16/WsCbiVVk6oBVB5nq.jpg"
+        }
+      },
+      {
+        "id": "9b4fcb1f-2933-4701-a43d-63c1e0401e1a",
+        "name": "Друг мой",
+        "nameEnglish": "",
+        "updatedAt": "2024-02-11T18:05:37+00:00",
+        "ordinal": 17,
+        "sortOrder": 17,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/17/480/386daef91c46b2ec2ef1a586e4bfbb3c.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/17/720/317146cbd43960659424e7b4fd709907.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/17/1080/f3c364d6ca2a9630eab254cb7337d55c.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 173,
+          "start": 77
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/17/x8WoWpmsuKMyEINT.jpg"
+        }
+      },
+      {
+        "id": "9b5ddf12-d5c6-4673-999d-aec6bae4285b",
+        "name": "Финал Смертельной Битвы",
+        "nameEnglish": "",
+        "updatedAt": "2024-02-18T17:04:11+00:00",
+        "ordinal": 18,
+        "sortOrder": 18,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/18/480/f49c20f0e75637ec536b4929eceffdf8.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/18/720/1adef7d859bbd8f8e6ebabd00339e4e0.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/18/1080/11584df33f6ba66b0c94f8a66af3a276.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 189,
+          "start": 99
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/18/qPOeRUt2ZGJ6zcRL.jpg"
+        }
+      },
+      {
+        "id": "9b6c38ce-02d6-4961-8688-f587b189a19d",
+        "name": "Причина Сражаться",
+        "nameEnglish": "",
+        "updatedAt": "2024-02-25T21:34:21+00:00",
+        "ordinal": 19,
+        "sortOrder": 19,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/19/480/9dbe7bf3efa26c664c7ba381236c1208.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/19/720/d1e545896235e8f4e10ddeed606e7c0c.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/19/1080/6ef3b8653ece5f382f35c961da9018bb.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/19/wJey5UEVsfJWOr6F.jpg"
+        }
+      },
+      {
+        "id": "9b7a1b25-023b-4a68-81db-abd5ec6dc579",
+        "name": "Просто Смотри",
+        "nameEnglish": "",
+        "updatedAt": "2024-04-16T13:38:31+00:00",
+        "ordinal": 20,
+        "sortOrder": 20,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/20/480/09d5830d582f49085a3c6f34f8886216.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/20/720/d36734a42df032b94ac723203b76abce.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/20/1080/85d228559d6ecb43473faee0d71379d9.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 198,
+          "start": 108
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/20/1HUbYsxaIGBOt4uS.jpg"
+        }
+      },
+      {
+        "id": "9b882275-572e-4cb8-bf09-87504c94aaae",
+        "name": "Не Нужно Слов",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-10T17:20:04+00:00",
+        "ordinal": 21,
+        "sortOrder": 21,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/21/480/0fd26ea61211de7abd2cfdcda6c4c433.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/21/720/f70a10a945d0a1af674e61676d127ae4.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/21/1080/21434005aec4c7fc801e2effacd54902.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 219,
+          "start": 65
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/21/u95zTYTN254Q2PZF.jpg"
+        }
+      },
+      {
+        "id": "9b963c69-9715-4131-841c-0d5ac44cc77a",
+        "name": "Крылатая Королева",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-17T17:33:14+00:00",
+        "ordinal": 22,
+        "sortOrder": 22,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/22/480/6098003e91c98c56647c840b021bb3b6.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/22/720/ad47f5617071111cb1cf3bac1f8b26dc.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/22/1080/2aedec125f27ca7a7246d8054ce034c8.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 214,
+          "start": 122
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/22/VneTXJlS96ThsOnq.jpg"
+        }
+      },
+      {
+        "id": "9ba58db9-09e9-4ad8-b9d2-46026a839aca",
+        "name": "Бог Грома",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-25T08:23:07+00:00",
+        "ordinal": 23,
+        "sortOrder": 23,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/23/480/f74fb25dc28673f3f32f53083b1cb280.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/23/720/507cc4e9d2673367915b4bb9fb296ef1.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/23/1080/0ff06b19aa3ef0f414b723c02a16f00b.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 122,
+          "start": 34
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1330
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/23/c37Nf1vELxSmzzqW.jpg"
+        }
+      },
+      {
+        "id": "9bb28334-88a4-4c8e-a529-a87fa3b3cc03",
+        "name": "Свет",
+        "nameEnglish": "",
+        "updatedAt": "2024-03-31T19:17:01+00:00",
+        "ordinal": 24,
+        "sortOrder": 24,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9554/24/480/16d95ba8a8c83f7205bc16d2209f963d.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9554/24/720/f90542164e056dfb36b1ab192f37f2bb.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9554/24/1080/10d5cb488b1223da328cafd04ef19435.m3u8",
+        "duration": 1422,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 261,
+          "start": 175
+        },
+        "ending": {
+          "stop": 1422,
+          "start": 1343
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9554/24/WXPhXVrISmvKu5pC.jpg"
+        }
+      }
+    ]
   }
 ]
