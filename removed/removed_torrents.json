@@ -3956,5 +3956,57 @@
     },
     "size": 32822475747,
     "seeders": 10
+  },
+  {
+    "releaseId": 9800,
+    "time": 1734727086,
+    "hash": "fae426fe4024a0e62e7b33623bf2f253d92a3644",
+    "id": 31737,
+    "magnet": "magnet:?xt=urn:btih:fae426fe4024a0e62e7b33623bf2f253d92a3644&dn=Sayounara+Ryuusei%2C+Konnichiwa+Jinsei+-+AniLibria+%5BWEBRip+1080p%5D&xl=18557848412&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sayounara Ryuusei, Konnichiwa Jinsei - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 18557848412,
+    "seeders": 14
+  },
+  {
+    "releaseId": 9800,
+    "time": 1734790888,
+    "hash": "a904460bf8b3ea53e925b222719be37040a536a0",
+    "id": 31744,
+    "magnet": "magnet:?xt=urn:btih:a904460bf8b3ea53e925b222719be37040a536a0&dn=Sayounara+Ryuusei%2C+Konnichiwa+Jinsei+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2955078920&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Sayounara Ryuusei, Konnichiwa Jinsei - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2955078920,
+    "seeders": 31
   }
 ]
