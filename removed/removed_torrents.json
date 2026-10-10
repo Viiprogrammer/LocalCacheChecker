@@ -12071,5 +12071,31 @@
     },
     "size": 2608506667,
     "seeders": 11
+  },
+  {
+    "releaseId": 8388,
+    "time": 1556175342,
+    "hash": "5abf573db764dc0e1fdb9bf816028faa097184a9",
+    "id": 6858,
+    "magnet": "magnet:?xt=urn:btih:5abf573db764dc0e1fdb9bf816028faa097184a9&dn=Uta+no+Prince-sama+Maji+Love+1000%25+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4367191818&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Uta no Prince-sama Maji Love 1000%   - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4367191818,
+    "seeders": 9
   }
 ]
