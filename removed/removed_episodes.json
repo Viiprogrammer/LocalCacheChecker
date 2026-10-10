@@ -57846,5 +57846,25 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9257,
+    "items": [
+      {
+        "id": "eddb71b0-931b-4982-a9f0-3b43dbaa10c0",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9257/1/480/d7af4fc484e6ae32543ca3bcac030be6.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9257/1/720/b3a30a2f74c0d2bbe2ece4cc0c2c72d4.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9257/1/1080/78954b26d74a26b8a184e540b0586671.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1920,
+        "updatedAt": "2022-08-24T18:09:15+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9257/1/VkOAoyjQ8M3Lf9m0.jpg"
+        }
+      }
+    ]
   }
 ]

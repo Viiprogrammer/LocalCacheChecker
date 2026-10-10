@@ -9546,5 +9546,59 @@
     "size": 597456380,
     "seeders": 8,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9257,
+    "time": 1661362520,
+    "hash": "0092e8b1f8084e990ab6a8b671e3f14c0acb0869",
+    "id": 20478,
+    "magnet": "magnet:?xt=urn:btih:0092e8b1f8084e990ab6a8b671e3f14c0acb0869&dn=Kara_no_Kyoukai_Movie_Mirai_Fukuin_-_Extra_Chorus_%5BSpecial%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=3597591791&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai Movie- Mirai Fukuin - Extra Chorus - AniLibria.TOP [BDRip 1080p][Special].torrent",
+    "description": "Special",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 3597591791,
+    "seeders": 9,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9257,
+    "time": 1661362547,
+    "hash": "6ecb9739581e21daecceab9333fa49b7cf166d7f",
+    "id": 20479,
+    "magnet": "magnet:?xt=urn:btih:6ecb9739581e21daecceab9333fa49b7cf166d7f&dn=Kara_no_Kyoukai_Movie_Mirai_Fukuin_-_Extra_Chorus_%5BSpecial%5D_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=171984526&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai Movie- Mirai Fukuin - Extra Chorus - AniLibria.TOP [BDRip 1080p][HEVC][Special].torrent",
+    "description": "Special",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 171984526,
+    "seeders": 10,
+    "updatedAt": ""
   }
 ]
