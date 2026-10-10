@@ -3332,5 +3332,57 @@
     },
     "size": 2293939723,
     "seeders": 21
+  },
+  {
+    "releaseId": 9821,
+    "time": 1743524755,
+    "hash": "cc1d4606d3c74a41af906efc39058ea4935a2c05",
+    "id": 32991,
+    "magnet": "magnet:?xt=urn:btih:cc1d4606d3c74a41af906efc39058ea4935a2c05&dn=Chi.+Chikyuu+no+Undou+ni+Tsuite+-+AniLibria+%5BWEBRip+1080p%5D&xl=51967515857&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chi.- Chikyuu no Undou ni Tsuite - AniLiberty.TOP [WEBRip 1080p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 51967515857,
+    "seeders": 18
+  },
+  {
+    "releaseId": 9821,
+    "time": 1743942464,
+    "hash": "646fa70e27263dc97259e352d236cf2772dba6d6",
+    "id": 33029,
+    "magnet": "magnet:?xt=urn:btih:646fa70e27263dc97259e352d236cf2772dba6d6&dn=Chi.+Chikyuu+no+Undou+ni+Tsuite+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3230698106&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chi.- Chikyuu no Undou ni Tsuite - AniLiberty.TOP [WEBRip 1080p][HEVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3230698106,
+    "seeders": 37
   }
 ]
