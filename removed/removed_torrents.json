@@ -13620,5 +13620,31 @@
     "size": 4768330682,
     "seeders": 10,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 3051,
+    "time": 1550054989,
+    "hash": "19400c545bc1dc5148a17b2b1369dac9c11b2345",
+    "id": 2423,
+    "magnet": "magnet:?xt=urn:btih:19400c545bc1dc5148a17b2b1369dac9c11b2345&dn=Touken+Ranbu+Hanamaru+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=4027879183&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Touken Ranbu- Hanamaru TV-1 - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4027879183,
+    "seeders": 8
   }
 ]
