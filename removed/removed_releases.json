@@ -4496,5 +4496,27 @@
     "year": "2021",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "kara-no-kyoukai-8-shuushou",
+    "countTorrents": 2,
+    "countVideos": 0,
+    "description": "Заключительная часть саги «Kara no Kyoukai», представляет из себя разговор между Кокуто Микией и Рёги Шики.",
+    "genres": "Детектив",
+    "id": 9049,
+    "originalName": "Kara no Kyoukai 8: Shuushou",
+    "poster": "/storage/releases/posters/9049/3tP57robMYE33TJExpaOXmhlnkhhlX8T.jpg",
+    "rating": 434,
+    "season": "Зима",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "timestamp": 1626063532,
+    "title": "Граница пустоты 8: Эпилог [DEL]",
+    "type": "Фильм",
+    "voices": "Dejz, Hekomi",
+    "year": "2011",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]
