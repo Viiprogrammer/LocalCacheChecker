@@ -4216,5 +4216,57 @@
     },
     "size": 2328348964,
     "seeders": 38
+  },
+  {
+    "releaseId": 9794,
+    "time": 1735157402,
+    "hash": "9754e26d3e3822e8756b48533156525cb00eb5c3",
+    "id": 31795,
+    "magnet": "magnet:?xt=urn:btih:9754e26d3e3822e8756b48533156525cb00eb5c3&dn=Rekishi+ni+Nokoru+Akujo+ni+Naru+zo+-+AniLibria+%5BWEBRip+1080p%5D&xl=19333776704&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Rekishi ni Nokoru Akujo ni Naru zo - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19333776704,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9794,
+    "time": 1735159923,
+    "hash": "d3ecee4f73f04127e1c4a96d48a1e0cb22b5f5df",
+    "id": 31797,
+    "magnet": "magnet:?xt=urn:btih:d3ecee4f73f04127e1c4a96d48a1e0cb22b5f5df&dn=Rekishi+ni+Nokoru+Akujo+ni+Naru+zo+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=2202693308&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Rekishi ni Nokoru Akujo ni Naru zo - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2202693308,
+    "seeders": 30
   }
 ]
