@@ -10344,5 +10344,59 @@
     "size": 1030875439,
     "seeders": 7,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8942,
+    "time": 1613939400,
+    "hash": "2bcf38114138d55efe49cf9acff788dd98ef4962",
+    "id": 14029,
+    "magnet": "magnet:?xt=urn:btih:2bcf38114138d55efe49cf9acff788dd98ef4962&dn=Kara_no_Kyoukai_4_Garan_no_Dou_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=2368241721&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 4- Garan no Dou - AniLibria.TOP [BDRip 1080p][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 2368241721,
+    "seeders": 6,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 8942,
+    "time": 1614694231,
+    "hash": "d62cf77445f76ddfb0167821d4d46f2535da3a53",
+    "id": 14167,
+    "magnet": "magnet:?xt=urn:btih:d62cf77445f76ddfb0167821d4d46f2535da3a53&dn=Kara_no_Kyoukai_4_Garan_no_Dou_%5BAniLibria_TV%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=333174492&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Kara no Kyoukai 4- Garan no Dou - AniLibria.TOP [BDRip 1080p][HEVC][Фильм].torrent",
+    "description": "Фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 333174492,
+    "seeders": 7,
+    "updatedAt": ""
   }
 ]
