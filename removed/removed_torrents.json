@@ -7316,5 +7316,57 @@
     },
     "size": 3143454637,
     "seeders": 14
+  },
+  {
+    "releaseId": 9629,
+    "time": 1711392113,
+    "hash": "be5cdc30547fb4e78ea15475d34f819293dc4210",
+    "id": 28117,
+    "magnet": "magnet:?xt=urn:btih:be5cdc30547fb4e78ea15475d34f819293dc4210&dn=Kyuujitsu+no+Warumono-san+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=17945920941&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kyuujitsu no Warumono-san - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17945920941,
+    "seeders": 11
+  },
+  {
+    "releaseId": 9629,
+    "time": 1711421070,
+    "hash": "a8909be9ecdd66a3eec1a5dfdd0617e31a91f07b",
+    "id": 28121,
+    "magnet": "magnet:?xt=urn:btih:a8909be9ecdd66a3eec1a5dfdd0617e31a91f07b&dn=Kyuujitsu+no+Warumono-san+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2151553581&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kyuujitsu no Warumono-san - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2151553581,
+    "seeders": 16
   }
 ]
