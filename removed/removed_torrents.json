@@ -13779,5 +13779,32 @@
     "size": 4246045971,
     "seeders": 6,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 1746,
+    "time": 1550054984,
+    "hash": "1543ad494b16a5a658ae0e74ba0aaef3d6464b48",
+    "id": 1694,
+    "magnet": "magnet:?xt=urn:btih:1543ad494b16a5a658ae0e74ba0aaef3d6464b48&dn=Ansatsu+Kyoushitsu+2+-+AniLibria.TV+%5BHDTV-Rip+720p%5D&xl=10931583636&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Ansatsu Kyoushitsu 2 - AniLibria.TOP [HDTVRip 720p][AVC][1-25].torrent",
+    "description": "1-25",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 10931583636,
+    "seeders": 13,
+    "updatedAt": ""
   }
 ]
