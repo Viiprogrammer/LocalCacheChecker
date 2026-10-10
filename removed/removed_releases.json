@@ -6732,5 +6732,27 @@
     "team": "",
     "year": "2016",
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "nanatsu-no-taizai-seisen-no-shirushi",
+    "countTorrents": 1,
+    "countVideos": 0,
+    "description": "Семь смертных грехов: Знамение священной войны",
+    "genres": "Сёнен, Экшен, Этти, Фэнтези",
+    "id": 2968,
+    "originalName": "Nanatsu no Taizai: Seisen no Shirushi",
+    "poster": "/storage/releases/posters/2968/7Le1PCFYNo72R2LZq1JNal9IKHkHx4hY.jpg",
+    "rating": 3034,
+    "season": "Лето",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "timestamp": 1481399102,
+    "title": "Семь смертных грехов: Знамение священной войны [DEL]",
+    "type": "Спешл",
+    "voices": "Kari, Nuts, Cleo-chan",
+    "year": "2016",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

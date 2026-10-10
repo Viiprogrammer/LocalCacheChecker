@@ -13672,5 +13672,32 @@
     },
     "size": 6406155906,
     "seeders": 7
+  },
+  {
+    "releaseId": 2968,
+    "time": 1550054988,
+    "hash": "31da85c7e6100b97c03ffe60555bc0fee9a1579c",
+    "id": 2337,
+    "magnet": "magnet:?xt=urn:btih:31da85c7e6100b97c03ffe60555bc0fee9a1579c&dn=Nanatsu+no+Taizai+-+Seisen+no+Shirushi+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=1813140272&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Nanatsu no Taizai- Seisen no Shirushi - AniLibria.TOP [HDTVRip 720p][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 1813140272,
+    "seeders": 10,
+    "updatedAt": ""
   }
 ]

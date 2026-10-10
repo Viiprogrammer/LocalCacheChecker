@@ -84261,5 +84261,70 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 2968,
+    "items": [
+      {
+        "id": "95b1f437-789e-11ec-ae92-0242ac120002",
+        "ordinal": 1,
+        "sortOrder": 0,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/2968/1/480/2784dd13fc909a0b89dbf8979b204d7b.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/2968/1/720/bca144c07e3b9ab21552f477b80624b7.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1455,
+        "updatedAt": "2019-01-15T08:33:56+00:00",
+        "opening": {
+          "start": 73,
+          "stop": 192
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95b1f4dd-789e-11ec-ae92-0242ac120002",
+        "ordinal": 2,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/2968/2/480/7090b93b10c71c13a4bad5d595a7c25c.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/2968/2/720/2efe7d3f10db9167b0e5c89678ff1c5c.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1455,
+        "updatedAt": "2019-01-15T08:33:46+00:00",
+        "opening": {
+          "start": 84,
+          "stop": 203
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95b1f557-789e-11ec-ae92-0242ac120002",
+        "ordinal": 3,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/2968/3/480/1b0dd388f496297a48a7d74b32c4d1e3.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/2968/3/720/145ed0bc3e233d8e24d87439203d493a.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1455,
+        "updatedAt": "2019-01-15T08:34:00+00:00",
+        "opening": {
+          "start": 62,
+          "stop": 181
+        },
+        "ending": {},
+        "preview": {}
+      },
+      {
+        "id": "95b1f5cb-789e-11ec-ae92-0242ac120002",
+        "ordinal": 4,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/2968/4/480/ad81af2654407ce22c8446768c8daebd.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/2968/4/720/67f4c024341fc50d4487dbd25b45754b.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 1470,
+        "updatedAt": "2019-01-15T08:33:52+00:00",
+        "opening": {
+          "start": 110,
+          "stop": 229
+        },
+        "ending": {},
+        "preview": {}
+      }
+    ]
   }
 ]
