@@ -12045,5 +12045,31 @@
     "size": 5841436027,
     "seeders": 20,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8389,
+    "time": 1556135031,
+    "hash": "653894b4b8352d514e60409dd2e112fa9643d5a6",
+    "id": 6853,
+    "magnet": "magnet:?xt=urn:btih:653894b4b8352d514e60409dd2e112fa9643d5a6&dn=Hen+Zemi+-+AniLibria.TV+%5BBDRip+720p%5D&xl=2608506667&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hen Zemi  - AniLiberty.TOP [BDRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 2608506667,
+    "seeders": 11
   }
 ]
