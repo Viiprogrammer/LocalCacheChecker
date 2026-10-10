@@ -12489,5 +12489,31 @@
     "size": 5476292314,
     "seeders": 7,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 8366,
+    "time": 1555274691,
+    "hash": "4ce834b1ee01e1077982e855f6e9b91a86b665d7",
+    "id": 6788,
+    "magnet": "magnet:?xt=urn:btih:4ce834b1ee01e1077982e855f6e9b91a86b665d7&dn=Kakumeiki+Valvrave+2+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=5825183239&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kakumeiki Valvrave 2  - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 5825183239,
+    "seeders": 16
   }
 ]
