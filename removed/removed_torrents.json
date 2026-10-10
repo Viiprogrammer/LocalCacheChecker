@@ -1350,5 +1350,57 @@
     },
     "size": 260251930,
     "seeders": 39
+  },
+  {
+    "releaseId": 10243,
+    "time": 1788244817,
+    "hash": "9d4223ec5cd6c18c510e955a1bd9bddd815b2d24",
+    "id": 39790,
+    "magnet": "magnet:?xt=urn:btih:9d4223ec5cd6c18c510e955a1bd9bddd815b2d24&dn=Nige+Jouzu+no+Wakagimi+2nd+Season+-+AniLiberty+%5BWEBRip+1080p+HEVC%5D&xl=3334230198&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Nige Jouzu no Wakagimi 2nd Season - AniLiberty.TOP [WEBRip 1080p][HEVC][1-7].torrent",
+    "description": "1-7",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3334230198,
+    "seeders": 33
+  },
+  {
+    "releaseId": 10243,
+    "time": 1788894493,
+    "hash": "97b50b5e78c11665626ad68a1590f03fb7dc0267",
+    "id": 39910,
+    "magnet": "magnet:?xt=urn:btih:97b50b5e78c11665626ad68a1590f03fb7dc0267&dn=Nige+Jouzu+no+Wakagimi+2nd+Season+-+AniLiberty+%5BWEBRip+1080p%5D&xl=12411260138&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Nige Jouzu no Wakagimi 2nd Season - AniLiberty.TOP [WEBRip 1080p][AVC][1-8].torrent",
+    "description": "1-8",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 12411260138,
+    "seeders": 1
   }
 ]
