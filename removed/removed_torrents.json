@@ -7420,5 +7420,57 @@
     },
     "size": 3007437814,
     "seeders": 22
+  },
+  {
+    "releaseId": 9624,
+    "time": 1712243879,
+    "hash": "3c2edeb693ede46141910628c44454d502972f22",
+    "id": 28225,
+    "magnet": "magnet:?xt=urn:btih:3c2edeb693ede46141910628c44454d502972f22&dn=Metallic+Rouge+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=19219624349&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Metallic Rouge - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19219624349,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9624,
+    "time": 1712253999,
+    "hash": "eea9fff9fca6b27c2d42929b7e355a72ecc09b5d",
+    "id": 28227,
+    "magnet": "magnet:?xt=urn:btih:eea9fff9fca6b27c2d42929b7e355a72ecc09b5d&dn=Metallic+Rouge+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2595126420&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Metallic Rouge - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2595126420,
+    "seeders": 21
   }
 ]
