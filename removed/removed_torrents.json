@@ -7864,5 +7864,57 @@
     "size": 670754811,
     "seeders": 33,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9565,
+    "time": 1703617911,
+    "hash": "2ea29efb468b6a2766747a95c68102a6807f142b",
+    "id": 26914,
+    "magnet": "magnet:?xt=urn:btih:2ea29efb468b6a2766747a95c68102a6807f142b&dn=Hoshikuzu+Telepath+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=17755247394&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hoshikuzu Telepath - AniLiberty.TOP [WEBRip 1080p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 17755247394,
+    "seeders": 10
+  },
+  {
+    "releaseId": 9565,
+    "time": 1703743904,
+    "hash": "0ba0ec3f5432686d6239e37d133375b217a2ae9e",
+    "id": 26932,
+    "magnet": "magnet:?xt=urn:btih:0ba0ec3f5432686d6239e37d133375b217a2ae9e&dn=Hoshikuzu+Telepath+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=3264971919&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Hoshikuzu Telepath - AniLiberty.TOP [WEBRip 1080p][HEVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3264971919,
+    "seeders": 15
   }
 ]
