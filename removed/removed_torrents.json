@@ -13330,5 +13330,32 @@
     "size": 9959882717,
     "seeders": 17,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 5181,
+    "time": 1550054998,
+    "hash": "14e229c707868fac1184272708890987921c14ed",
+    "id": 4045,
+    "magnet": "magnet:?xt=urn:btih:14e229c707868fac1184272708890987921c14ed&dn=Inuyashiki+-+AniLibria.TV+%5BHDTV-Rip_720p%5D&xl=4057057437&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Inuyashiki - AniLibria.TOP [HDTVRip 720p][AVC][1-11].torrent",
+    "description": "1-11",
+    "quality": {
+      "value": "720p",
+      "description": "720p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": "AVC"
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip",
+      "label": ""
+    },
+    "size": 4057057437,
+    "seeders": 13,
+    "updatedAt": ""
   }
 ]
