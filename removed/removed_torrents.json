@@ -9756,5 +9756,57 @@
     },
     "size": 5428065163,
     "seeders": 12
+  },
+  {
+    "releaseId": 9200,
+    "time": 1667756143,
+    "hash": "e67e254c5e281a6a3c8b2669f95ea0b20dd6dd4a",
+    "id": 21282,
+    "magnet": "magnet:?xt=urn:btih:e67e254c5e281a6a3c8b2669f95ea0b20dd6dd4a&dn=Chikyuugai+Shounen+Shoujo+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=6187705056&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chikyuugai Shounen Shoujo - AniLiberty.TOP [WEBRip 1080p][AVC][1-6].torrent",
+    "description": "1-6",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 6187705056,
+    "seeders": 12
+  },
+  {
+    "releaseId": 9200,
+    "time": 1667989174,
+    "hash": "29fa4a61a634f4572bfed2dbb151254ec81f20d2",
+    "id": 21319,
+    "magnet": "magnet:?xt=urn:btih:29fa4a61a634f4572bfed2dbb151254ec81f20d2&dn=Chikyuugai+Shounen+Shoujo+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=2537647483&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Chikyuugai Shounen Shoujo - AniLiberty.TOP [WEBRip 1080p][HEVC][1-6].torrent",
+    "description": "1-6",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 2537647483,
+    "seeders": 15
   }
 ]

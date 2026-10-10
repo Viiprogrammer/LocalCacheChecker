@@ -58929,5 +58929,160 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9200,
+    "items": [
+      {
+        "id": "392fc0d6-1b1f-477d-a1cf-0c0c3e52e976",
+        "name": "Внеземные посланники",
+        "nameEnglish": "",
+        "updatedAt": "2022-04-01T09:55:17+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9200/1/480/0958f172d4eaa48c731d878b914e1308.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9200/1/720/25d93dc32f4627e87f4a771623a54ece.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9200/1/1080/db6c04beb67b36525f1719f8b7e6426c.m3u8",
+        "duration": 2302,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9200/1/dzynIGrjSqYegQNP.jpg"
+        }
+      },
+      {
+        "id": "81b71c1a-b3fc-45fe-a345-1080d7c89d01",
+        "name": "ТУМАН И МГЛА",
+        "nameEnglish": "",
+        "updatedAt": "2022-04-24T15:01:58+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9200/2/480/1afb340d03f1d9a647777819a5be4b3c.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9200/2/720/c014d6bda8d9ad83494702ad08a8f4d7.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9200/2/1080/11766ea8aae485df3f4f24ada75a6a51.m3u8",
+        "duration": 1848,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9200/2/UMI1jagKmfEuylWc.jpg"
+        }
+      },
+      {
+        "id": "b92e2a3c-b32f-4b84-b720-4e0db7f712a4",
+        "name": "БЕЗУМСТВО СЕДЬМОГО",
+        "nameEnglish": "",
+        "updatedAt": "2022-05-23T19:05:18+00:00",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9200/3/480/0b04ab8b208f63ed0c191818db8d7b50.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9200/3/720/f69318d03bff75066f97c572b58d7e36.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9200/3/1080/47d448c223e3ef9cbf6e9a37c5912a4f.m3u8",
+        "duration": 1850,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9200/3/xJ4fLmc6w6oKZjdB.jpg"
+        }
+      },
+      {
+        "id": "6a63e1c9-5cc7-4b8f-ab29-0a873c2a7268",
+        "name": "Узоры седьмого.",
+        "nameEnglish": "",
+        "updatedAt": "2022-08-01T18:12:49+00:00",
+        "ordinal": 4,
+        "sortOrder": 4,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9200/4/480/e7214813154291e39f870c185b61f3b5.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9200/4/720/22f9403ba167baec82248b09c0f671d3.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9200/4/1080/600f79ff9770061c0b0350549b9c76bd.m3u8",
+        "duration": 1839,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9200/4/8Br4xIERrAEm2J4J.jpg"
+        }
+      },
+      {
+        "id": "eded6bf7-0c40-4556-a620-ef9faee4db84",
+        "name": "Конец истории",
+        "nameEnglish": "",
+        "updatedAt": "2022-11-06T17:20:03+00:00",
+        "ordinal": 5,
+        "sortOrder": 5,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9200/5/480/8779dc41cec3fe2b79aff6f33d461b84.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9200/5/720/a08876c30c5cdba2cbe8c367e9553c1d.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9200/5/1080/65bcb0c34dd6c475ac8d269f2849250a.m3u8",
+        "duration": 1844,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9200/5/IePOUZQGnhSuwJIS.jpg"
+        }
+      },
+      {
+        "id": "05b1206a-6278-4ba7-9346-ab20e36adcea",
+        "name": "Начало истории.",
+        "nameEnglish": "",
+        "updatedAt": "2022-11-06T17:46:32+00:00",
+        "ordinal": 6,
+        "sortOrder": 6,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9200/6/480/4a306e142fc91150ca0763a15b7fa3bd.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9200/6/720/8c07321f5056e17bf0b3c42612eba0e3.m3u8",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9200/6/1080/f913341d00cd5c81575b96980f9f1d4b.m3u8",
+        "duration": 1842,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": null,
+          "start": null
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9200/6/1aDd3l4vLSccXjUi.jpg"
+        }
+      }
+    ]
   }
 ]
