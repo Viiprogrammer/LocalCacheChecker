@@ -12410,5 +12410,31 @@
     },
     "size": 1370735600,
     "seeders": 10
+  },
+  {
+    "releaseId": 8369,
+    "time": 1555066115,
+    "hash": "8b61d0dfbc3f369b449cab30ea6a863fd83d624c",
+    "id": 6755,
+    "magnet": "magnet:?xt=urn:btih:8b61d0dfbc3f369b449cab30ea6a863fd83d624c&dn=Makai+Ouji+Devils+and+Realist+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4377995537&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Makai Ouji- Devils and Realist - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4377995537,
+    "seeders": 14
   }
 ]
