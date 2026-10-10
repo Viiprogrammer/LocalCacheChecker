@@ -6389,5 +6389,27 @@
     "year": "2018",
     "isOngoing": false,
     "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
+  },
+  {
+    "announce": "",
+    "code": "fairy-tail-movie-2-dragon-cry",
+    "countTorrents": 2,
+    "countVideos": 0,
+    "description": "«Плач дракона» — волшебный артефакт, созданный яростью и отчаянием драконов — был украден гнусным предателем Зашем Кейном, который сбежал с ним в маленькую островную страну. Испуганный король Фиора спешно отправляет «Хвост феи» вернуть могущественный артефакт. Во время этой крайне важной миссии «Хвосту» предстоит не только узнать тайну, которая лежит в сердце королевства Стелла, но и предотвратить мировую катастрофу.",
+    "genres": "",
+    "id": 6025,
+    "originalName": "Fairy Tail Movie 2: Dragon Cry",
+    "poster": "/storage/releases/posters/6025/AtCpF4UQ3EsqSQkBBE3LWWkgXvauUDkE.jpg",
+    "rating": 1786,
+    "season": "Весна",
+    "series": "(0)",
+    "status": "Озвучка завершена",
+    "timestamp": 1520245362,
+    "title": "Сказка о Хвосте феи: Плач дракона [DEL]",
+    "type": "Фильм",
+    "voices": "Amikiri, Lupin, Sharon, Anzen, Hekomi, HectoR, Ados, Aemi",
+    "year": "2017",
+    "isOngoing": false,
+    "ageRating": "Для людей, достигших возраста шестнадцати лет (16+)"
   }
 ]

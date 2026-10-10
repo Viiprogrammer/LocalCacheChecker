@@ -13222,5 +13222,59 @@
     "size": 4960387772,
     "seeders": 9,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 6025,
+    "time": 1550054999,
+    "hash": "01d96f94233c6cb0d3310def7151367277392eb8",
+    "id": 4318,
+    "magnet": "magnet:?xt=urn:btih:01d96f94233c6cb0d3310def7151367277392eb8&dn=Fairy_Tail_Dragon_Cry_%5BAniLibria_TV%5D_%5BBDRip_1080p%5D.mkv&xl=6619765767&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Fairy Tail Movie 2- Dragon Cry - AniLibria.TOP [BDRip 1080p][П-м фильм].torrent",
+    "description": "П/м фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 6619765767,
+    "seeders": 6,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 6025,
+    "time": 1715897078,
+    "hash": "60b14c15f67c18e27c16b169194ce51fc45c1d13",
+    "id": 28807,
+    "magnet": "magnet:?xt=urn:btih:60b14c15f67c18e27c16b169194ce51fc45c1d13&dn=Fairy_Tail_Dragon_Cry_%5BAniLibria%5D_%5BBDRip_1080p_HEVC%5D.mkv&xl=1081955769&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Fairy Tail Movie 2- Dragon Cry - AniLibria.TOP [BDRip 1080p][HEVC][П-м фильм].torrent",
+    "description": "П/м фильм",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip",
+      "label": ""
+    },
+    "size": 1081955769,
+    "seeders": 10,
+    "updatedAt": ""
   }
 ]
