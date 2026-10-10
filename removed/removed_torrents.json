@@ -12253,5 +12253,31 @@
     },
     "size": 5726316780,
     "seeders": 10
+  },
+  {
+    "releaseId": 8380,
+    "time": 1555881418,
+    "hash": "c7954f7a8bf558ca17e3d36658d39736047486b5",
+    "id": 6828,
+    "magnet": "magnet:?xt=urn:btih:c7954f7a8bf558ca17e3d36658d39736047486b5&dn=BlazBlue+-+Alter+Memory+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4185923414&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "BlazBlue - Alter Memory  - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4185923414,
+    "seeders": 9
   }
 ]
