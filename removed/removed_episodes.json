@@ -79008,5 +79008,298 @@
         "preview": {}
       }
     ]
+  },
+  {
+    "releaseId": 7440,
+    "items": [
+      {
+        "id": "95c36b5a-789e-11ec-ae92-0242ac120002",
+        "name": "Судьба авантюриста",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:19:05+00:00",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/1/480/edeb8e2f22c4df2c4222d932c8bbc4d5.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/1/720/3d55012fc4ef0ace3c47d8ce224a6384.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": null,
+          "start": null
+        },
+        "ending": {
+          "stop": 1423,
+          "start": 1331
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/1/B5nj76a0BYtfMaIq.jpg"
+        }
+      },
+      {
+        "id": "95c36bc1-789e-11ec-ae92-0242ac120002",
+        "name": "Убийца гоблинов",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:25:17+00:00",
+        "ordinal": 2,
+        "sortOrder": 2,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/2/480/45665d3899432de819763bd7a2d6e3a2.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/2/720/900bdc521d6c41d3e008859143549c5f.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 221,
+          "start": 120
+        },
+        "ending": {
+          "stop": 1336,
+          "start": 1245
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/2/KHXf1Ox0hElSaoyc.jpg"
+        }
+      },
+      {
+        "id": "95c36c29-789e-11ec-ae92-0242ac120002",
+        "name": "Незваные гости",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:30:16+00:00",
+        "ordinal": 3,
+        "sortOrder": 3,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/3/480/9a6725b8a838f9b2c91e45d1de6345dd.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/3/720/47eba1834ea6b02ad0d8689a9c3831d2.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 134,
+          "start": 34
+        },
+        "ending": {
+          "stop": 1425,
+          "start": 1334
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/3/537ELgRx0sol9N3E.jpg"
+        }
+      },
+      {
+        "id": "95c36c91-789e-11ec-ae92-0242ac120002",
+        "name": "Силач",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:32:45+00:00",
+        "ordinal": 4,
+        "sortOrder": 4,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/4/480/b2d73fa53b135332826ee91acb1ce583.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/4/720/e357fa1e60579c3e0af26dea98154c44.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 172,
+          "start": 71
+        },
+        "ending": {
+          "stop": 1414,
+          "start": 1322
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/4/P6fPVla7OHsCTUyA.jpg"
+        }
+      },
+      {
+        "id": "95c36cfa-789e-11ec-ae92-0242ac120002",
+        "name": "Приключения и повседневность",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:38:02+00:00",
+        "ordinal": 5,
+        "sortOrder": 5,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/5/480/27d5ebd0571495cf97bc00b13eae58df.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/5/720/7bf7e5f71755b700707038d38d470cab.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 173,
+          "start": 70
+        },
+        "ending": {
+          "stop": 1425,
+          "start": 1334
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/5/P8gIbnYvsMpseUN3.jpg"
+        }
+      },
+      {
+        "id": "95c36d62-789e-11ec-ae92-0242ac120002",
+        "name": "Убийца гоблинов и Город Воды",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:42:56+00:00",
+        "ordinal": 6,
+        "sortOrder": 6,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/6/480/48068168d2152b7762c6290181620d62.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/6/720/4bb870509016b1f2aaa2f0aa31e45ce2.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 214,
+          "start": 113
+        },
+        "ending": {
+          "stop": 1425,
+          "start": 1134
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/6/uljKrvKsoqs5KXRI.jpg"
+        }
+      },
+      {
+        "id": "95c36dd0-789e-11ec-ae92-0242ac120002",
+        "name": "На пути к смерти",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:46:53+00:00",
+        "ordinal": 7,
+        "sortOrder": 7,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/7/480/cd2effbc105ed391602c5a5083dbe927.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/7/720/ee8a3d47df13f6c5b3a56f68c483b693.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 175,
+          "start": 74
+        },
+        "ending": {
+          "stop": 1426,
+          "start": 1334
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/7/mhtC9mUafl9LOUq4.jpg"
+        }
+      },
+      {
+        "id": "95c36e3b-789e-11ec-ae92-0242ac120002",
+        "name": "Шёпот, молитвы и заклятия",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T15:50:25+00:00",
+        "ordinal": 8,
+        "sortOrder": 8,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/8/480/e64e7108a5982d72c0ddaf67f90b4093.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/8/720/243d2313e8e544e76b0d4df5ecabc8be.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 101,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1425,
+          "start": 1334
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/8/ZkQOM6DV7WmJhgsX.jpg"
+        }
+      },
+      {
+        "id": "95c36ea6-789e-11ec-ae92-0242ac120002",
+        "name": "Туда и обратно",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T16:26:22+00:00",
+        "ordinal": 9,
+        "sortOrder": 9,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/9/480/9cf5c4c09dfab2757649bd37a5e8df4f.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/9/720/6e0f5e81fc7aee8dc2d5c9d375eb7482.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 258,
+          "start": 157
+        },
+        "ending": {
+          "stop": 1425,
+          "start": 1334
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/9/eVBWYpbANkgwUATm.jpg"
+        }
+      },
+      {
+        "id": "95c36f0e-789e-11ec-ae92-0242ac120002",
+        "name": "Дремлющий",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T16:32:26+00:00",
+        "ordinal": 10,
+        "sortOrder": 10,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/10/480/82695ebb1bc12498f80e1b552d81cfde.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/10/720/1a8209b1e7d070f91b3a5d9084c2407d.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 179,
+          "start": 78
+        },
+        "ending": {
+          "stop": 1425,
+          "start": 1334
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/10/RjJkUDwlOdUxMrYU.jpg"
+        }
+      },
+      {
+        "id": "95c36f7a-789e-11ec-ae92-0242ac120002",
+        "name": "Сбор авантюристов",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T16:53:03+00:00",
+        "ordinal": 11,
+        "sortOrder": 11,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/11/480/3586510d6caf262250404e59599f0378.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/11/720/498ea862f1c6edb5d2f9c46f459eb5de.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 101,
+          "start": 1
+        },
+        "ending": {
+          "stop": 1425,
+          "start": 1334
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/11/MJCMlRSyMwyVBC60.jpg"
+        }
+      },
+      {
+        "id": "95c36fe4-789e-11ec-ae92-0242ac120002",
+        "name": "Судьба авантюриста",
+        "nameEnglish": "",
+        "updatedAt": "2024-01-13T16:56:40+00:00",
+        "ordinal": 12,
+        "sortOrder": 12,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/7440/12/480/389512d84d642be9a16dbfef2a2d974c.m3u8",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/7440/12/720/05d0d276753bd1eb921ef14587fba0c0.m3u8",
+        "duration": 1440,
+        "rutubeId": null,
+        "youtubeId": null,
+        "opening": {
+          "stop": 169,
+          "start": 67
+        },
+        "ending": {
+          "stop": 1341,
+          "start": 1245
+        },
+        "preview": {
+          "src": "/storage/releases/episodes/previews/7440/12/u0bQfu6n6I5yeZMn.jpg"
+        }
+      }
+    ]
   }
 ]

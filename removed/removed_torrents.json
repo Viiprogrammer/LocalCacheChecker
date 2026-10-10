@@ -13038,5 +13038,31 @@
     "size": 4126716964,
     "seeders": 13,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 7440,
+    "time": 1567596248,
+    "hash": "e6d13dc39a8a31ccf816ce1931d220b9868124ac",
+    "id": 8003,
+    "magnet": "magnet:?xt=urn:btih:e6d13dc39a8a31ccf816ce1931d220b9868124ac&dn=Goblin+Slayer+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4610844639&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Goblin Slayer - AniLiberty.TOP [HDTVRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4610844639,
+    "seeders": 28
   }
 ]
