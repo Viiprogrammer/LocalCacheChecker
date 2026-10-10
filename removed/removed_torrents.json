@@ -12149,5 +12149,31 @@
     },
     "size": 16332221969,
     "seeders": 14
+  },
+  {
+    "releaseId": 8384,
+    "time": 1555967555,
+    "hash": "842dff2b116d42c8f340030bfaebbed09e92daf6",
+    "id": 6840,
+    "magnet": "magnet:?xt=urn:btih:842dff2b116d42c8f340030bfaebbed09e92daf6&dn=Photo+Kano+-+AniLibria.TV+%5BHDTVRip+720p%5D&xl=4586594607&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Photokano - AniLiberty.TOP [HDTVRip 720p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "HDTVRip",
+      "description": "HDTVRip"
+    },
+    "size": 4586594607,
+    "seeders": 15
   }
 ]
