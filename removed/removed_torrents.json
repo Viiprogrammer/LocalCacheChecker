@@ -12175,5 +12175,31 @@
     },
     "size": 4586594607,
     "seeders": 15
+  },
+  {
+    "releaseId": 8383,
+    "time": 1555967474,
+    "hash": "90c7a48a2ea3f7d8e618fd65f4361b90e0f6987a",
+    "id": 6838,
+    "magnet": "magnet:?xt=urn:btih:90c7a48a2ea3f7d8e618fd65f4361b90e0f6987a&dn=Oda+Nobuna+no+Yabou+-+AniLibria.TV+%5BBDRip+720p%5D&xl=7877962514&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Oda Nobuna no Yabou  - AniLiberty.TOP [BDRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 7877962514,
+    "seeders": 12
   }
 ]
