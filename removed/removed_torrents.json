@@ -12697,5 +12697,31 @@
     },
     "size": 10915583521,
     "seeders": 12
+  },
+  {
+    "releaseId": 8358,
+    "time": 1554401043,
+    "hash": "cf52218b74d83ad324e98ea2e5b067add916c789",
+    "id": 6674,
+    "magnet": "magnet:?xt=urn:btih:cf52218b74d83ad324e98ea2e5b067add916c789&dn=Ga-Rei+Zero+-+AniLibria.TV+%5BBDRip+720p%5D&xl=6751550858&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Ga-Rei- Zero - AniLiberty.TOP [BDRip 720p][AVC][1-12].torrent",
+    "description": "1-12",
+    "quality": {
+      "value": "720p",
+      "description": "720p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "BDRip",
+      "description": "BDRip"
+    },
+    "size": 6751550858,
+    "seeders": 12
   }
 ]
