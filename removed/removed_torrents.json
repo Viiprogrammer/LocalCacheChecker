@@ -12097,5 +12097,31 @@
     },
     "size": 4367191818,
     "seeders": 9
+  },
+  {
+    "releaseId": 8386,
+    "time": 1556053195,
+    "hash": "dd38a5e08ea30d9d94ab27bd9252d677919f8e8c",
+    "id": 6847,
+    "magnet": "magnet:?xt=urn:btih:dd38a5e08ea30d9d94ab27bd9252d677919f8e8c&dn=School+Rumble+-+AniLibria.TV+%5BDVDRip+544p%5D&xl=8097235270&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "School Rumble   - AniLiberty.TOP [DVDRip 576p][AVC][1-26].torrent",
+    "description": "1-26",
+    "quality": {
+      "value": "576p",
+      "description": "576p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "DVDRip",
+      "description": "DVDRip"
+    },
+    "size": 8097235270,
+    "seeders": 10
   }
 ]
