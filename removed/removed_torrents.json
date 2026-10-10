@@ -8446,5 +8446,59 @@
     "size": 541739509,
     "seeders": 11,
     "updatedAt": ""
+  },
+  {
+    "releaseId": 9449,
+    "time": 1680519536,
+    "hash": "19e436e584abc941c41e4aaef1978455e6ce1da4",
+    "id": 23157,
+    "magnet": "magnet:?xt=urn:btih:19e436e584abc941c41e4aaef1978455e6ce1da4&dn=Tensei_Shitara_Slime_Datta_Ken_Guren_no_Kizuna-hen_%5BAniLibria_TV%5D_%5BWEBRip_1080p%5D.mkv&xl=1838282236&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Tensei Shitara Slime Datta Ken- Guren no Kizuna-hen - AniLibria.TOP [WEBRip 1080p][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p",
+      "label": ""
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "description": "x264/AVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 1838282236,
+    "seeders": 33,
+    "updatedAt": ""
+  },
+  {
+    "releaseId": 9449,
+    "time": 1680519550,
+    "hash": "21a47962b910d7cfb9d8ef084a7b73f90ac2a676",
+    "id": 23158,
+    "magnet": "magnet:?xt=urn:btih:21a47962b910d7cfb9d8ef084a7b73f90ac2a676&dn=Tensei_Shitara_Slime_Datta_Ken_Guren_no_Kizuna-hen_%5BAniLibria_TV%5D_%5BWEBRip_HEVC_4k%5D.mkv&xl=3008319350&tr=http://tr.libria.fun:2710/announce",
+    "filename": "Tensei Shitara Slime Datta Ken- Guren no Kizuna-hen - AniLibria.TOP [WEBRip 4k][HEVC][П-Ф].torrent",
+    "description": "П/Ф",
+    "quality": {
+      "value": "4k",
+      "description": "4k",
+      "label": ""
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "description": "x265/HEVC",
+      "label": ""
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip",
+      "label": ""
+    },
+    "size": 3008319350,
+    "seeders": 40,
+    "updatedAt": ""
   }
 ]

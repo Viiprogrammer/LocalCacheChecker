@@ -52570,5 +52570,25 @@
         }
       }
     ]
+  },
+  {
+    "releaseId": 9449,
+    "items": [
+      {
+        "id": "98d615a7-7cd8-48e8-8909-02cd81d27d4c",
+        "ordinal": 1,
+        "sortOrder": 1,
+        "hls_480": "https://cache.libria.fun/videos/media/ts/9449/1/480/6cc1f657654df8a69f1aafb773c739be.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_720": "https://cache.libria.fun/videos/media/ts/9449/1/720/e17f47a8a9b397320a7411f1358eff98.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "hls_1080": "https://cache.libria.fun/videos/media/ts/9449/1/1080/9a6c20b95e79a3d3ea8a75b8e6836c18.m3u8?isWithAds=1&countryIso=US&isAuthorized=0",
+        "duration": 6517,
+        "updatedAt": "2023-04-03T12:21:23+00:00",
+        "opening": {},
+        "ending": {},
+        "preview": {
+          "src": "/storage/releases/episodes/previews/9449/1/XoKcTf8rK30e2KiN.jpg"
+        }
+      }
+    ]
   }
 ]
