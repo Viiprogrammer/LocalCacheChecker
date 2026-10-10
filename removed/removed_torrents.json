@@ -9100,5 +9100,57 @@
     },
     "size": 1990058371,
     "seeders": 12
+  },
+  {
+    "releaseId": 9299,
+    "time": 1666994283,
+    "hash": "c54b460eb62c4d15c931b55def587bd0fbcb8661",
+    "id": 21183,
+    "magnet": "magnet:?xt=urn:btih:c54b460eb62c4d15c931b55def587bd0fbcb8661&dn=C+Danchi+-+AniLibria.TV+%5BWEBRip+1080p%5D&xl=5731407832&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "C Danchi - AniLiberty.TOP [WEBRip 1080p][AVC][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 5731407832,
+    "seeders": 8
+  },
+  {
+    "releaseId": 9299,
+    "time": 1667062538,
+    "hash": "9d43c35e09d3bcb1b406097ee5ec91e7dec16d8c",
+    "id": 21188,
+    "magnet": "magnet:?xt=urn:btih:9d43c35e09d3bcb1b406097ee5ec91e7dec16d8c&dn=C+Danchi+-+AniLibria.TV+%5BWEBRip+1080p+HEVC%5D&xl=1159786153&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "C Danchi - AniLiberty.TOP [WEBRip 1080p][HEVC][1-4].torrent",
+    "description": "1-4",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 1159786153,
+    "seeders": 14
   }
 ]
