@@ -5932,5 +5932,57 @@
     },
     "size": 3356792869,
     "seeders": 40
+  },
+  {
+    "releaseId": 9748,
+    "time": 1727806365,
+    "hash": "7853a9f0e08dc2274517f6b8ba38db5d2120d230",
+    "id": 30594,
+    "magnet": "magnet:?xt=urn:btih:7853a9f0e08dc2274517f6b8ba38db5d2120d230&dn=Kono+Sekai+wa+Fukanzen+Sugiru+-+AniLibria+%5BWEBRip+1080p%5D&xl=19619190997&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kono Sekai wa Fukanzen Sugiru - AniLiberty.TOP [WEBRip 1080p][AVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x264/AVC",
+      "label": "AVC",
+      "description": "x264/AVC",
+      "label_color": null,
+      "label_is_visible": false
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 19619190997,
+    "seeders": 13
+  },
+  {
+    "releaseId": 9748,
+    "time": 1727948986,
+    "hash": "dd997f6181f2891f1e4599248b69f12cad29cbb9",
+    "id": 30611,
+    "magnet": "magnet:?xt=urn:btih:dd997f6181f2891f1e4599248b69f12cad29cbb9&dn=Kono+Sekai+wa+Fukanzen+Sugiru+-+AniLibria+%5BWEBRip+1080p+HEVC%5D&xl=3518362107&tr=http://tr.libria.fun:2710/announce&tr=http://retracker.local/announce",
+    "filename": "Kono Sekai wa Fukanzen Sugiru - AniLiberty.TOP [WEBRip 1080p][HEVC][1-13].torrent",
+    "description": "1-13",
+    "quality": {
+      "value": "1080p",
+      "description": "1080p"
+    },
+    "codec": {
+      "value": "x265/HEVC",
+      "label": "HEVC",
+      "description": "x265/HEVC",
+      "label_color": "#FFEB3B",
+      "label_is_visible": true
+    },
+    "type": {
+      "value": "WEBRip",
+      "description": "WEBRip"
+    },
+    "size": 3518362107,
+    "seeders": 16
   }
 ]
