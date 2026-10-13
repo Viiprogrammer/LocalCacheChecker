@@ -40,7 +40,7 @@
 {"releaseId":10350,"items":[]},
 {"releaseId":10351,"items":[]},
 {"releaseId":10352,"items":[]},
-{"releaseId":10354,"items":[]},
+{"releaseId":10354,"items":[{"id":"a2f90bd7-57ba-4d7c-ba61-bd363c7fda8e","name":"Ночь перед финалом","nameEnglish":"","updatedAt":"2026-10-13T15:29:50+00:00","ordinal":1,"sortOrder":1,"duration":1416,"rutubeId":null,"youtubeId":null,"opening":{"stop":201,"start":111},"ending":{"stop":1400,"start":1310},"preview":{"src":"/storage/releases/episodes/previews/10354/1/YtcA34w8li3pe9MZ.jpg"}}]},
 {"releaseId":10355,"items":[]},
 {"releaseId":10356,"items":[]},
 {"releaseId":10357,"items":[]},
